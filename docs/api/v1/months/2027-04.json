@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:52:50+00:00",
+ "generated": "2026-10-18T15:55:35+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -2102,10 +2102,10 @@
    "source": "cityspark",
    "source_event_id": "2608297uue0DE5ek-W4cwsyWNnBQ",
    "title": "Teen After Hours: Middle School Edition",
-   "start": "2027-04-09T22:00:00-05:00",
-   "end": "2027-04-10T00:00:00-05:00",
+   "start": "2027-04-09T21:00:00-06:00",
+   "end": "2027-04-09T23:00:00-06:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/teenafterhours-middleschool-apr/",
    "description": "Middle schoolers, get ready for an epic night at the WRCC! Play basketball, take on friends in Madden, or just kick back and hang out.\n\nThis is a FREE event – all middle school students \\(Grades 6-8\\) welcome!",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TE8DTcUHS0CPVQeKdZD0Tw.large.png",
@@ -2148,7 +2148,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -5001,7 +5001,7 @@
    "start": "2027-04-23",
    "end": null,
    "all_day": true,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/pickleball-tournament/",
    "description": "Join us for the 4th Annual Dakota Community Bank & Trust “It’s a Big Dill” Pickleball Tournament at the West River Community Center. Youth and Senior divisions will play on Friday evening; Men and Women will play on Saturday followed by Mixed divisions on Sunday. Saturday night there will be a social for participants to attend. Check in will begin at 7:30 am both days with tournament play at 8:00 am. Shirts are included if you register by the registration deadline.\n\nAges: 8\\+\n\nFee: $35/player | $10/additional event\n\nDeadline: April 14\n\nDivisions:\n\n2.5 \\(men’s, women’s & mixed\\),\n\n3.0 \\(men’s, women’s & mixed\\), &\n\n3.5 \\(men’s women’s & mixed\\),\n\n4.0 \\(men’s women’s & mixed\\),\n\nseniors doubles \\(60\\+ and any pairing of partners\\) &\n\nkid’s doubles \\(8-14 years old and any pairing of partners\\)\n\nSchedule:\n\nSenior and kids divisions will play on Friday evening \\(starting at 4:30 pm, with check-in starting at 3:30 pm\\).\n\nMen & Women divisions will play on Saturday, followed by Mixed divisions on Sunday.\n\nSaturday night, there will be a social for participants to attend.\n\nCheck-in will begin at 7:00 am on Saturday with play beginning at 8:00 am. Sunday check in will be at 8:00 am with play starting at 9:00 am.\n\nQuestions? Contact 701-456-2074 for more details.\n\nTHANK YOU TO OUR EVENT SPONSORS!\n\nDakota Community Bank & Trust\n\nSubway\n\nCoke \\(CCBC of Dickinson\\)\n\nBadlands Truck Wash\n\nFour Seasons Trophies\n\nCharbonneau Car Center\n\nPlayers Bar & Grill\n\nScott Karsky, State Farm\n\nSax Motors",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OYoWsqqAA0eL0Br9aZYAfw.large.png",
@@ -5044,7 +5044,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -6874,10 +6874,10 @@
    "source": "cityspark",
    "source_event_id": "2610016OEfyUbRC02PmU5hXVlpRw",
    "title": "CTRL Play: Grades 9-12",
-   "start": "2027-04-30T20:00:00-05:00",
-   "end": "2027-04-30T21:30:00-05:00",
+   "start": "2027-04-30T19:00:00-06:00",
+   "end": "2027-04-30T20:30:00-06:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/ctrlplay-apr/",
    "description": "Ready for an epic night of gaming, snacks, and hanging out with your friends? Join us for CTRL Play in the Golf Simulator/Gaming Room at the WRCC! Whether you’re looking to challenge your friends, discover a new game, or just relax and have fun, this is the place to be.\n\nWe’ll have Xbox and Nintendo Switch consoles available, along with plenty of opportunities to connect with friends and fellow gamers. Enjoy free snacks and drinks throughout the event to keep you fueled for the action.\n\nCome play, compete, and socialize at CTRL Play. We can’t wait to see you there!\n\nThis FREE event is for GRADES 9-12",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5ybmD05rGkic60bKTy3tjQ.large.png",
@@ -6920,7 +6920,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   }
  ]
 }

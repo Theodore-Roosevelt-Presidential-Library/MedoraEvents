@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:52:50+00:00",
+ "generated": "2026-10-18T15:55:35+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -1907,10 +1907,10 @@
    "source": "cityspark",
    "source_event_id": "261009199ERuBKx0Wdl1WoS0fILw",
    "title": "Jingle Bell 5K",
-   "start": "2026-12-05T11:30:00-06:00",
+   "start": "2026-12-05T10:30:00-07:00",
    "end": null,
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/jingle-bell-5k/",
    "description": "Join Us for Our Holiday-Spirited Annual 5K Run/Walk! 🎄\n\nKick off the season with fun, fitness, and holiday cheer! Dress in your favorite festive attire and jingle all the way—every participant will receive bells to wear during the race.\n\nAfter crossing the finish line, warm up with hot cocoa and a hearty bowl of chili, and stick around for your chance to win Best Dressed!\n\nStrollers and pets are welcome, so bring the whole family!\n\nREGISTRATION DETAILS:\n\nEarly Registration on or before Nov. 18 | $25/adult \\(19\\+\\) or $15 \\(youth 6-18\\)\n\nRegistration after Nov. 18 | $35/adult \\(19\\+\\) or $20 \\(youth 6-18\\)\n\n5 & under are free.\n\nREGISTER HERE\n\nRACE CHECK-IN: Saturday, December 5 | 9:30-10:15 am | WRCC\n\nRACE START: 10:30 am\n\nPRIZES: 1st, 2nd and 3rd place prizes will be given to the best dressed individual after the race.\n\nCheck out these fun photos from past events!",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jLKOJW3mg021JivyUOpSHQ.large.png",
@@ -1960,7 +1960,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "trpl",
@@ -4439,10 +4439,10 @@
    "source": "cityspark",
    "source_event_id": "260829eMkLRSINh06OI9do8wyDPQ",
    "title": "Teen After Hours: Middle School Edition",
-   "start": "2026-12-11T22:00:00-06:00",
-   "end": "2026-12-12T00:00:00-06:00",
+   "start": "2026-12-11T21:00:00-07:00",
+   "end": "2026-12-11T23:00:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/teensafterhours-middleschool-dec/",
    "description": "Middle schoolers, get ready for an epic night at the WRCC! Play basketball, take on friends in Madden, or just kick back and hang out.\n\nThis is a FREE event – all middle school students \\(Grades 6-8\\) welcome!",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TE8DTcUHS0CPVQeKdZD0Tw.large.png",
@@ -4485,7 +4485,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -11246,10 +11246,10 @@
    "source": "cityspark",
    "source_event_id": "261009eVwlRtMhJU6jx1qDVvt1mg",
    "title": "New Year's Eve Skating Party",
-   "start": "2026-12-31T19:00:00-06:00",
-   "end": "2026-12-31T22:00:00-06:00",
+   "start": "2026-12-31T18:00:00-07:00",
+   "end": "2026-12-31T21:00:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/new-years-eve-skating-party/",
    "description": "Dickinson Parks and Recreation invites you to bring the entire family to our annual New Years’ Eve ice skating party! We will have both the Cornerstone and Charbonneau rinks open! Get geared up to ring in the new year by skating to a live DJ and lights on ice. Door Prizes will be drawn throughout the event \\(must be present to win\\). Free food and non-alcoholic beverage will be served.\n\nTIME: 6:00-9:00 pm\n\nFEE: Free Admission / $3 Skate Rental\n\nDoors open at 5:45 pm.",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0f3EtZGAe0yTJofVXots3g.large.png",
@@ -11299,16 +11299,16 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "cityspark",
    "source_event_id": "260813k8YZzf145Uy7GMAdRB5_dQ",
    "title": "Teen After Hours: NYE Party Edition",
-   "start": "2026-12-31T22:00:00-06:00",
-   "end": "2027-01-01T01:15:00-06:00",
+   "start": "2026-12-31T21:00:00-07:00",
+   "end": "2027-01-01T00:15:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/teen-after-hours-nye-party-edition/",
    "description": "Get ready to ring in the new year with an unforgettable night packed with excitement, fun, and memories! This New Year’s Eve celebration is specially designed for middle school and high school students to say goodbye to 2026 and welcome 2027 in the best way possible—with friends, tons of activities, and an energetic vibe in a safe and exciting environment.\n\nWhether you’re shooting hoops on the basketball court, spiking the ball in volleyball, battling it out in laser tag, or leveling up in video games, there’s something for everyone. Plus, enjoy a variety of tasty appetizers and refreshing drinks throughout the night!\n\nWhen the clock strikes midnight, gather with us to watch the ball drop in style and celebrate the start of a brand new year with your friends. Don’t miss out on the ultimate way to kick off a new year!\n\nOpen to all teens in grades 6-12.",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Dkpw-mLNp0-usfTWsFGxzw.large.png",
@@ -11351,7 +11351,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   }
  ]
 }

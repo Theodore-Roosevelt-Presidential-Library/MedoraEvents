@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:52:50+00:00",
+ "generated": "2026-10-18T15:55:35+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -1316,7 +1316,7 @@
    "start": "2027-02-06",
    "end": null,
    "all_day": true,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/rogina-cusic-tennis-tournament/",
    "description": "Take part in our annual Rogina Cusic Memorial Doubles Tennis Tournament at the West River Community Center. Participants of all skill levels are welcome to register. Please join us in celebrating the life of Rogina Cusic while enjoying a fun and competitive day of tennis. See you on the court!\n\nTOURNAMENT FORMAT: Doubles, 2 game guarantee\n\nAGES: 14\\+\n\nCOST: $35/1 event or $45/2 events\n\nREGISTRATION DEADLINE: January 31\n\nREGISTER ONLINE",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3hQ9ejrZtk6D_QYZ8M571w.large.png",
@@ -1359,7 +1359,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -3216,10 +3216,10 @@
    "source": "cityspark",
    "source_event_id": "260829KFVbWX1_E0-sYvKXPZTlmQ",
    "title": "Teen After Hours: Middle School Edition",
-   "start": "2027-02-12T22:00:00-06:00",
-   "end": "2027-02-13T00:00:00-06:00",
+   "start": "2027-02-12T21:00:00-07:00",
+   "end": "2027-02-12T23:00:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/teenafterhours-middleschool-feb/",
    "description": "Middle schoolers, get ready for an epic night at the WRCC! Play basketball, take on friends in Madden, or just kick back and hang out.\n\nThis is a FREE event – all middle school students \\(Grades 6-8\\) welcome!",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TE8DTcUHS0CPVQeKdZD0Tw.large.png",
@@ -3262,7 +3262,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -5104,10 +5104,10 @@
    "source": "cityspark",
    "source_event_id": "2610017un9JMXAOEyCYzITyUq3Rg",
    "title": "CTRL Play: Grades 9-12",
-   "start": "2027-02-19T20:00:00-06:00",
-   "end": "2027-02-19T21:30:00-06:00",
+   "start": "2027-02-19T19:00:00-07:00",
+   "end": "2027-02-19T20:30:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/ctrlplay-feb/",
    "description": "Ready for an epic night of gaming, snacks, and hanging out with your friends? Join us for CTRL Play in the Golf Simulator/Gaming Room at the WRCC! Whether you’re looking to challenge your friends, discover a new game, or just relax and have fun, this is the place to be.\n\nWe’ll have Xbox and Nintendo Switch consoles available, along with plenty of opportunities to connect with friends and fellow gamers. Enjoy free snacks and drinks throughout the event to keep you fueled for the action.\n\nCome play, compete, and socialize at CTRL Play. We can’t wait to see you there!\n\nThis FREE event is for GRADES 9-12",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5ybmD05rGkic60bKTy3tjQ.large.png",
@@ -5150,7 +5150,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",

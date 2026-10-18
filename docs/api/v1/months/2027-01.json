@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:52:50+00:00",
+ "generated": "2026-10-18T15:55:35+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -4149,10 +4149,10 @@
    "source": "cityspark",
    "source_event_id": "260829GkOhnOT3lEqfAfD0XL05dw",
    "title": "Teen After Hours",
-   "start": "2027-01-15T22:00:00-06:00",
-   "end": "2027-01-16T00:00:00-06:00",
+   "start": "2027-01-15T21:00:00-07:00",
+   "end": "2027-01-15T23:00:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/teenafterhours-jan/",
    "description": "Join us for an exclusive high school event at the West River Community Center. Whether you’re looking to play some more basketball, squeeze in another weight-lifting session, challenge your friends to a game of Madden or other favorites, or just hang out and socialize with your peers, this is the perfect event for you!\n\nThis is a FREE event! All high school teens welcome!",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hV--EQoG7E2Nzbsp7KtVmA.large.png",
@@ -4195,7 +4195,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -6325,10 +6325,10 @@
    "source": "cityspark",
    "source_event_id": "26091584Uul-aM1U6PN-dFfk6SWQ",
    "title": "Beat the Winter Blues",
-   "start": "2027-01-23T09:00:00-06:00",
-   "end": "2027-01-23T19:00:00-06:00",
+   "start": "2027-01-23T08:00:00-07:00",
+   "end": "2027-01-23T18:00:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/beat-the-winter-blues/",
    "description": "Get out of the cold and join us for a fun-filled day indoors at the West River Community Center! You and your family can enjoy a variety of exciting activities all day long, including inflatables, music, crafts, pool party, golfing and so much more!\n\nAs your admission, simply bring a non-perishable food item to donate to the Amen food pantry. Plus, you’ll have the chance to win door prizes throughout the day!\n\n\\*POOL CLOSURE – The aquatic areas \\(leisure, lap, sauna, hot tub\\) will be closed from 10:00 am-12:00 pm in preparation for the pool party.\n\nWRCC MEMBERSHIP SPECIAL!\n\nPurchase a 3-month or annual membership \\(paid in full\\) and get a 10% discount. Discount good day of event only.\n\nTHANK YOU TO OUR SPONSORS!",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JGQvdTnWCkmekpCWVcElfg.large.png",
@@ -6371,7 +6371,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "trpl",
@@ -8228,10 +8228,10 @@
    "source": "cityspark",
    "source_event_id": "261009mWXImXIoxE-XMmqAO22avQ",
    "title": "Double Dinks: Dink, Laugh, Repeat",
-   "start": "2027-01-30T10:00:00-06:00",
+   "start": "2027-01-30T09:00:00-07:00",
    "end": null,
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/double-dinks-jan/",
    "description": "Get ready for Double Dinks: Dink, Laugh, Repeat, a fun, social, and inclusive pickleball mini tournament designed for players of all skill levels! This doubles event features fixed partners, with teams consisting of any combination of pairings. Teams will be placed into divisions based on their combined player rating, ensuring balanced and competitive matchups. The tournament will follow a pool play \\(round robin\\) format, where each team faces every other team in their division once.\n\nPlayers are encouraged to bring energy and creativity to the court. Prizes will be awarded for Top Team, Bottom Team, and Best Dressed Team.\n\nAGES: 8\\+\n\nFEE: $10\n\nDEADLINE: January 28\n\nREGISTER ONLINE",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_F0Tq6JuE0WCr4eXHot0rQ.large.png",
@@ -8274,7 +8274,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "trpl",

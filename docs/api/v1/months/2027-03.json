@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:52:50+00:00",
+ "generated": "2026-10-18T15:55:35+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -1246,10 +1246,10 @@
    "source": "cityspark",
    "source_event_id": "2610094QYXABPo_0GCuejuu3ymsw",
    "title": "Double Dinks: Dink, Laugh, Repeat",
-   "start": "2027-03-06T10:00:00-06:00",
+   "start": "2027-03-06T09:00:00-07:00",
    "end": null,
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/double-dinks-mar/",
    "description": "Get ready for Double Dinks: Dink, Laugh, Repeat, a fun, social, and inclusive pickleball mini tournament designed for players of all skill levels! This doubles event features fixed partners, with teams consisting of any combination of pairings. Teams will be placed into divisions based on their combined player rating, ensuring balanced and competitive matchups. The tournament will follow a pool play \\(round robin\\) format, where each team faces every other team in their division once.\n\nPlayers are encouraged to bring energy and creativity to the court. Prizes will be awarded for Top Team, Bottom Team, and Best Dressed Team.\n\nAGES: 8\\+\n\nFEE: $10\n\nDEADLINE: March 4\n\nREGISTER ONLINE",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_F0Tq6JuE0WCr4eXHot0rQ.large.png",
@@ -1292,7 +1292,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -2692,10 +2692,10 @@
    "source": "cityspark",
    "source_event_id": "260915aygaqXF5bkyvSBRCot-y7w",
    "title": "CTRL Play: Grades 6-8",
-   "start": "2027-03-12T20:00:00-06:00",
-   "end": "2027-03-12T21:30:00-06:00",
+   "start": "2027-03-12T19:00:00-07:00",
+   "end": "2027-03-12T20:30:00-07:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/ctrlplay-mar/",
    "description": "Ready for an epic night of gaming, snacks, and hanging out with your friends? Join us for CTRL Play in the Golf Simulator/Gaming Room at the WRCC! Whether you’re looking to challenge your friends, discover a new game, or just relax and have fun, this is the place to be.\n\nWe’ll have Xbox and Nintendo Switch consoles available, along with plenty of opportunities to connect with friends and fellow gamers. Enjoy free snacks and drinks throughout the event to keep you fueled for the action.\n\nCome play, compete, and socialize at CTRL Play. We can’t wait to see you there!\n\nThis FREE event is for GRADES 6-8.",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5ybmD05rGkic60bKTy3tjQ.large.png",
@@ -2738,7 +2738,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
@@ -4300,10 +4300,10 @@
    "source": "cityspark",
    "source_event_id": "260829AhDwG_rwckO9rhoGbOkqHA",
    "title": "Teen After Hours",
-   "start": "2027-03-19T22:00:00-05:00",
-   "end": "2027-03-20T00:00:00-05:00",
+   "start": "2027-03-19T21:00:00-06:00",
+   "end": "2027-03-19T23:00:00-06:00",
    "all_day": false,
-   "timezone": "America/Chicago",
+   "timezone": "America/Denver",
    "url": "https://dickinsonparks.org/event/teenafterhours-mar/",
    "description": "Join us for an exclusive high school event at the West River Community Center. Whether you’re looking to play some more basketball, squeeze in another weight-lifting session, challenge your friends to a game of Madden or other favorites, or just hang out and socialize with your peers, this is the perfect event for you!\n\nThis is a FREE event! All high school teens welcome!",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hV--EQoG7E2Nzbsp7KtVmA.large.png",
@@ -4346,7 +4346,7 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 35 min from Medora"
   },
   {
    "source": "medora",
