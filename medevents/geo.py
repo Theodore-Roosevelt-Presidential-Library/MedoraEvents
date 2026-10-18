@@ -106,7 +106,8 @@ class Geocoder:
             hit = self._nominatim(q)
             if hit and km(hit, MEDORA) <= MAX_KM:
                 return (hit[0], hit[1], "venue")
-        if not city and e.get("area") == "medora":
+        city = re.sub(r"^(throughout|downtown|around|historic)\s+", "", city, flags=re.I)
+        if (not city or VAGUE.search(city)) and e.get("area") == "medora":
             city = "Medora"
         t = self.town(city, region)
         if t and km(t, MEDORA) <= MAX_KM:
