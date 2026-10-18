@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:55:35+00:00",
+ "generated": "2026-10-18T16:03:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -58,7 +58,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -112,7 +115,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -166,7 +172,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -218,7 +227,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 25,
-   "drive_label": "About 25 min from Medora"
+   "drive_label": "About 25 min from Medora",
+   "lat": 46.866657,
+   "lon": -102.990784,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -270,7 +282,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -324,7 +339,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -378,7 +396,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -432,7 +453,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -491,7 +515,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -543,7 +570,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -595,7 +625,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -649,7 +682,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -703,7 +739,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -757,7 +796,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -816,7 +858,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -868,7 +913,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -922,7 +970,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -974,7 +1025,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1029,7 +1083,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1081,7 +1138,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "chamber",
@@ -1139,7 +1199,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1193,7 +1256,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1247,7 +1313,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1301,7 +1370,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -1360,7 +1432,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -1419,7 +1494,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1471,7 +1549,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1523,7 +1604,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1577,7 +1661,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1632,7 +1719,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1686,7 +1776,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1740,7 +1833,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1794,7 +1890,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1846,7 +1945,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -1901,7 +2003,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -1960,7 +2065,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2019,7 +2127,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2078,7 +2189,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2133,7 +2247,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2192,7 +2309,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2244,7 +2364,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2296,7 +2419,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2350,7 +2476,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2405,7 +2534,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2459,7 +2591,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2513,7 +2648,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2567,7 +2705,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2626,7 +2767,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2681,7 +2825,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2740,7 +2887,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2799,7 +2949,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2851,7 +3004,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2905,7 +3061,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2959,7 +3118,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3013,7 +3175,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3065,7 +3230,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -3119,7 +3287,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3173,7 +3344,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3227,7 +3401,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -3281,7 +3458,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3335,7 +3515,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3389,7 +3572,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -3448,7 +3634,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -3503,7 +3692,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3555,7 +3747,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3610,7 +3805,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -3664,7 +3862,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3718,7 +3919,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3772,7 +3976,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -3831,7 +4038,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -3883,7 +4093,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3937,7 +4150,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3992,7 +4208,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4046,7 +4265,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4100,7 +4322,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4154,7 +4379,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -4213,7 +4441,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -4272,7 +4503,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4324,7 +4558,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4378,7 +4615,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4433,7 +4673,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -4485,7 +4728,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4539,7 +4785,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4593,7 +4842,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4647,7 +4899,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -4699,7 +4954,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -4758,7 +5016,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -4817,7 +5078,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4872,7 +5136,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -4931,7 +5198,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4983,7 +5253,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5037,7 +5310,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -5089,7 +5365,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5144,7 +5423,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5198,7 +5480,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5252,7 +5537,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5306,7 +5594,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -5365,7 +5656,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5420,7 +5714,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -5479,7 +5776,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -5538,7 +5838,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5590,7 +5893,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5644,7 +5950,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5698,7 +6007,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5752,7 +6064,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5806,7 +6121,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5860,7 +6178,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5914,7 +6235,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5968,7 +6292,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6022,7 +6349,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6076,7 +6406,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6135,7 +6468,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -6187,7 +6523,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6242,7 +6581,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -6296,7 +6638,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6350,7 +6695,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6404,7 +6752,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6463,7 +6814,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -6515,7 +6869,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6569,7 +6926,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6624,7 +6984,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -6678,7 +7041,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6732,7 +7098,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6786,7 +7155,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6845,7 +7217,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6904,7 +7279,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -6956,7 +7334,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7010,7 +7391,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -7062,7 +7446,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7117,7 +7504,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7171,7 +7561,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7225,7 +7618,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7279,7 +7675,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7338,7 +7737,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7397,7 +7799,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7452,7 +7857,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7511,7 +7919,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7563,7 +7974,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7617,7 +8031,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -7669,7 +8086,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7724,7 +8144,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7778,7 +8201,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7832,7 +8258,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7886,7 +8315,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7945,7 +8377,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -8000,7 +8435,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -8059,7 +8497,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -8118,7 +8559,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -8170,7 +8614,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8224,7 +8671,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8278,7 +8728,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8332,7 +8785,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -8386,7 +8842,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8440,7 +8899,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8494,7 +8956,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -8548,7 +9013,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8602,7 +9070,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8656,7 +9127,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -8715,7 +9189,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -8767,7 +9244,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8821,7 +9301,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8875,7 +9358,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8929,7 +9415,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -8988,7 +9477,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -9040,7 +9532,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9094,7 +9589,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9148,7 +9646,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9202,7 +9703,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9256,7 +9760,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9315,7 +9822,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -9367,7 +9877,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9421,7 +9934,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9475,7 +9991,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9529,7 +10048,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9583,7 +10105,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9642,7 +10167,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9701,7 +10229,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9760,7 +10291,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -9812,7 +10346,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9866,7 +10403,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9920,7 +10460,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9974,7 +10517,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10028,7 +10574,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10087,7 +10636,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10146,7 +10698,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10205,7 +10760,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -10257,7 +10815,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10311,7 +10872,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10365,7 +10929,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10419,7 +10986,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -10473,7 +11043,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10527,7 +11100,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10581,7 +11157,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -10635,7 +11214,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10689,7 +11271,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10743,7 +11328,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10802,7 +11390,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10861,7 +11452,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -10913,7 +11507,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10967,7 +11564,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11021,7 +11621,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11075,7 +11678,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -11134,7 +11740,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -11186,7 +11795,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11240,7 +11852,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -11299,7 +11914,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888747,
+   "lon": -102.814867,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -11351,7 +11969,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   }
  ]
 }

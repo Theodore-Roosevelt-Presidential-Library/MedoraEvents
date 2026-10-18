@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-18T15:55:35+00:00",
+ "generated": "2026-10-18T16:03:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
  "month": "2026-11",
- "count": 257,
+ "count": 234,
  "events": [
   {
    "source": "watford",
@@ -56,7 +56,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -110,7 +113,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -164,7 +170,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -218,7 +227,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -277,7 +289,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -334,7 +349,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -393,7 +411,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -445,7 +466,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -504,7 +528,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -526,7 +553,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -558,7 +585,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -580,7 +610,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -612,7 +642,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -666,7 +699,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -720,7 +756,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -774,7 +813,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -828,7 +870,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -882,7 +927,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -936,7 +984,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -990,7 +1041,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1044,7 +1098,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1098,7 +1155,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -1157,7 +1217,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1211,7 +1274,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1265,7 +1331,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1319,7 +1388,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -1378,7 +1450,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1430,7 +1505,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -1484,7 +1562,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -1538,7 +1619,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1592,7 +1676,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1646,7 +1733,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1700,7 +1790,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -1759,7 +1852,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1811,7 +1907,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -1865,7 +1964,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -1917,7 +2019,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 20,
-   "drive_label": "About 20 min from Medora"
+   "drive_label": "About 20 min from Medora",
+   "lat": 46.885555,
+   "lon": -103.200706,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -1971,7 +2076,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -2030,7 +2138,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2084,7 +2195,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2138,7 +2252,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2192,115 +2309,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844940",
-   "title": "Dickinson State University Women's Basketball vs University of Mary",
-   "start": "2026-11-06T12:30:00-07:00",
-   "end": "2026-11-06T14:30:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844940",
-   "description": "Dickinson State University Women's Basketball vs University of Mary",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "746655bc2ee7",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "a6315c9b7943ca34",
-   "summary": "Dickinson State University Women's Basketball vs University of Mary",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205848896",
-   "title": "Dickinson State University Men's Basketball vs Eastern Oregon University",
-   "start": "2026-11-06T14:00:00-07:00",
-   "end": "2026-11-06T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848896",
-   "description": "Dickinson State University Men's Basketball vs Eastern Oregon University",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "bd561ee6d911",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "28442c6ca20ab54b",
-   "summary": "Dickinson State University Men's Basketball vs Eastern Oregon University",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2359,7 +2371,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -2418,7 +2433,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2470,7 +2488,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -2524,7 +2545,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "chamber",
@@ -2582,18 +2606,21 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9127199,
+   "lon": -103.5219173,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
-   "source_event_id": "203060040",
-   "title": "Dickinson State University Women's Volleyball at Carroll College (Mont.)",
+   "source_event_id": "204105550",
+   "title": "Dickinson State University Women's Wrestling vs Hastings College (Neb.)",
    "start": "2026-11-06T18:00:00-07:00",
-   "end": "2026-11-06T20:00:00-07:00",
+   "end": "2026-11-06T21:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203060040",
-   "description": "Dickinson State University Women's Volleyball at Carroll College (Mont.)",
+   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D204105550",
+   "description": "Dickinson State University Women's Wrestling vs Hastings College (Neb.)",
    "image": null,
    "attendance": "in_person",
    "online_url": null,
@@ -2604,7 +2631,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Helena, Mont.",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -2620,14 +2647,14 @@
    ],
    "audiences": [],
    "recurring": false,
-   "series_id": "65e5b5df029a",
+   "series_id": "3ad2ef19da84",
    "status": "scheduled",
    "relevance": "core",
    "matched_terms": [],
    "accessibility": null,
    "extra": {},
-   "id": "8747493038ad8c22",
-   "summary": "Dickinson State University Women's Volleyball at Carroll College (Mont.)",
+   "id": "bf1096a4991a69e3",
+   "summary": "Dickinson State University Women's Wrestling vs Hastings College (Neb.)",
    "source_name": "Dickinson State University",
    "also_listed": [],
    "first_seen": "2026-10-18",
@@ -2636,7 +2663,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -2658,7 +2688,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D., Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -2690,7 +2720,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -2744,169 +2777,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126226",
-   "title": "Dickinson State University Men's Cross Country at Frontier Conference Championships",
-   "start": "2026-11-07",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126226",
-   "description": "Dickinson State University Men's Cross Country at Frontier Conference Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "f5e24c4f4df9",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "6585d6d1a252edb5",
-   "summary": "Dickinson State University Men's Cross Country at Frontier Conference Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844939",
-   "title": "Dickinson State University Women's Basketball vs Lewis-Clark State College (Idaho)",
-   "start": "2026-11-07",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844939",
-   "description": "Dickinson State University Women's Basketball vs Lewis-Clark State College (Idaho)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "7941d2fe7243",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "1560936ef2582b4e",
-   "summary": "Dickinson State University Women's Basketball vs Lewis-Clark State College (Idaho)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126225",
-   "title": "Dickinson State University Women's Cross Country at Frontier Conference Championships",
-   "start": "2026-11-07",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126225",
-   "description": "Dickinson State University Women's Cross Country at Frontier Conference Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "43cbd2ffbecc",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "e7816d82797debc1",
-   "summary": "Dickinson State University Women's Cross Country at Frontier Conference Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2960,7 +2834,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3014,7 +2891,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3068,7 +2948,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3127,7 +3010,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3179,7 +3065,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -3201,7 +3090,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D.",
+    "name": "Dickinson State University",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -3233,61 +3122,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205848897",
-   "title": "Dickinson State University Men's Basketball vs California Prestige University",
-   "start": "2026-11-07T10:45:00-07:00",
-   "end": "2026-11-07T12:45:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848897",
-   "description": "Dickinson State University Men's Basketball vs California Prestige University",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5d21b6c795c7",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "316be241f58987e6",
-   "summary": "Dickinson State University Men's Basketball vs California Prestige University",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8827077,
+   "lon": -102.8011777,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -3346,61 +3184,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "198228510",
-   "title": "Dickinson State University Football at Montana Tech",
-   "start": "2026-11-07T13:00:00-07:00",
-   "end": "2026-11-07T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228510",
-   "description": "Dickinson State University Football at Montana Tech Streaming Audio: kdix.com",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Butte, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "91152d081a95",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "fee58031c0e9c8c4",
-   "summary": "Dickinson State University Football at Montana Tech Streaming Audio: kdix.com",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -3459,61 +3246,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207172521",
-   "title": "Dickinson State University Women's JV Volleyball at Rocky Mountain College (Mont.)",
-   "start": "2026-11-07T16:00:00-07:00",
-   "end": "2026-11-07T18:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207172521",
-   "description": "Dickinson State University Women's JV Volleyball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "87c2c2030192",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "99a53cee43fa206f",
-   "summary": "Dickinson State University Women's JV Volleyball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -3565,7 +3301,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -3619,7 +3358,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -3678,7 +3420,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -3730,61 +3475,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "203060041",
-   "title": "Dickinson State University Women's Volleyball at Rocky Mountain College (Mont.)",
-   "start": "2026-11-07T18:00:00-07:00",
-   "end": "2026-11-07T20:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203060041",
-   "description": "Dickinson State University Women's Volleyball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "f43b57b4a6ab",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "641a337d2e772dca",
-   "summary": "Dickinson State University Women's Volleyball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -3806,7 +3500,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -3838,7 +3532,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -3860,7 +3557,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -3892,7 +3589,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -3946,7 +3646,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4000,7 +3703,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -4054,7 +3760,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4108,7 +3817,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -4167,7 +3879,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -4226,7 +3941,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4278,7 +3996,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -4337,7 +4058,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -4359,7 +4083,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -4391,7 +4115,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -4413,7 +4140,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -4445,7 +4172,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4499,7 +4229,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4553,7 +4286,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4607,7 +4343,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -4661,7 +4400,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4715,7 +4457,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4769,7 +4514,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4823,7 +4571,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -4882,7 +4633,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -4936,7 +4690,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8827077,
+   "lon": -102.8011777,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -4990,7 +4747,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9160498,
+   "lon": -103.5242758,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -5049,7 +4809,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5103,7 +4866,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5157,7 +4923,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -5216,7 +4985,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5268,7 +5040,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -5322,7 +5097,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5344,7 +5122,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -5376,7 +5154,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5398,7 +5179,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -5430,61 +5211,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "203443580",
-   "title": "Dickinson State University Women's Volleyball vs TBA",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203443580",
-   "description": "Dickinson State University Women's Volleyball vs TBA",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Helena, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "f2d2acae7bc7",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "b12d520ef1cde6b7",
-   "summary": "Dickinson State University Women's Volleyball vs TBA",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -5538,7 +5268,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5592,7 +5325,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5646,7 +5382,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -5705,7 +5444,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -5764,7 +5506,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -5816,7 +5561,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5868,7 +5616,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5922,7 +5673,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -5976,7 +5730,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6030,7 +5787,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6084,7 +5844,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6143,7 +5906,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6202,7 +5968,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6261,7 +6030,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -6313,7 +6085,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6367,7 +6142,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -6419,18 +6197,21 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
-   "source": "dsu",
-   "source_event_id": "207473536",
-   "title": "Dickinson State University Men's JV Basketball at Dawson Community College",
+   "source": "cityspark",
+   "source_event_id": "26101515AdYqsmQUCwexpHsIVphA",
+   "title": "Dickinson State University Men's JV Basketball at Dawson Co mmunity College",
    "start": "2026-11-14",
    "end": null,
    "all_day": true,
    "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473536",
-   "description": "Dickinson State University Men's JV Basketball at Dawson Community College",
+   "url": "https://dsubluehawks.com/calendar.aspx?game_id=5702andsport_id=10 17",
+   "description": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5702andsport\\_id=1017\n\nDickinson State University Men's JV Basketball at Dawson Community College",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.large.png",
    "attendance": "in_person",
    "online_url": null,
@@ -6441,153 +6222,40 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Glendive, Mont.",
+    "name": null,
     "address": null,
-    "city": "Dickinson",
-    "region": "ND",
+    "city": "Glendive",
+    "region": "MT",
     "postal_code": null,
     "country": "US",
     "lat": 47.10529,
     "lon": -104.71246
    },
-   "organizer": "Dickinson State University",
+   "organizer": null,
    "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
+   "categories": [],
    "audiences": [],
    "recurring": false,
-   "series_id": "a264bac1dfbf",
+   "series_id": "4f600193274f",
    "status": "scheduled",
    "relevance": "core",
    "matched_terms": [],
    "accessibility": null,
    "extra": {},
-   "id": "3a757af208961091",
-   "summary": "Dickinson State University Men's JV Basketball at Dawson Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [
-    {
-     "source": "cityspark",
-     "url": "https://dsubluehawks.com/calendar.aspx?game_id=5702andsport_id=10 17",
-     "title": "Dickinson State University Men's JV Basketball at Dawson Co mmunity College"
-    }
-   ],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844941",
-   "title": "Dickinson State University Women's Basketball at University of Jamestown",
-   "start": "2026-11-14",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844941",
-   "description": "Dickinson State University Women's Basketball at University of Jamestown",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Jamestown, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "117b188b5300",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "765bd743a1a18dff",
-   "summary": "Dickinson State University Women's Basketball at University of Jamestown",
-   "source_name": "Dickinson State University",
+   "id": "296005b63a74c503",
+   "summary": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5702andsport\\_id=1017 Dickinson State University Men's JV Basketball at Dawson Community College",
+   "source_name": "The Dickinson Press community calendar",
    "also_listed": [],
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
+   "region_label": "Glendive, MT",
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210779004",
-   "title": "Dickinson State University Women's JV Basketball at Dawson Community College",
-   "start": "2026-11-14",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779004",
-   "description": "Dickinson State University Women's JV Basketball at Dawson Community College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Glendive, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "4b5ffe1e0beb",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "6b728980095fa725",
-   "summary": "Dickinson State University Women's JV Basketball at Dawson Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 47.10529,
+   "lon": -104.71246,
+   "geo_precision": "venue"
   },
   {
    "source": "discover",
@@ -6648,7 +6316,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9127199,
+   "lon": -103.5219173,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -6702,7 +6373,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6756,7 +6430,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -6810,7 +6487,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -6865,7 +6545,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -6924,7 +6607,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6983,7 +6669,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7042,7 +6731,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7094,7 +6786,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7148,7 +6843,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -7207,7 +6905,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7266,115 +6967,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207473537",
-   "title": "Dickinson State University Men's JV Basketball at Miles Community College",
-   "start": "2026-11-15",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473537",
-   "description": "Dickinson State University Men's JV Basketball at Miles Community College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Miles City, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "dec9c11cac83",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "ff870ada1d0faae0",
-   "summary": "Dickinson State University Men's JV Basketball at Miles Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210779005",
-   "title": "Dickinson State University Women's JV Basketball at Miles Community College",
-   "start": "2026-11-15",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779005",
-   "description": "Dickinson State University Women's JV Basketball at Miles Community College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Miles City, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "a79abf69c669",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "7355a003bbd19c58",
-   "summary": "Dickinson State University Women's JV Basketball at Miles Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7428,7 +7024,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7482,7 +7081,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7536,7 +7138,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7595,7 +7200,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7654,7 +7262,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -7713,7 +7324,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7765,7 +7379,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -7824,7 +7441,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -7878,7 +7498,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7932,7 +7555,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -7986,7 +7612,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -8040,115 +7669,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207473538",
-   "title": "Dickinson State University Men's JV Basketball at United Tribes Technical College",
-   "start": "2026-11-17",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473538",
-   "description": "Dickinson State University Men's JV Basketball at United Tribes Technical College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "7e9c876987ac",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "0ac0ebe6e039c8b7",
-   "summary": "Dickinson State University Men's JV Basketball at United Tribes Technical College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210779006",
-   "title": "Dickinson State University Women's JV Basketball at United Tribes Technical College",
-   "start": "2026-11-17",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779006",
-   "description": "Dickinson State University Women's JV Basketball at United Tribes Technical College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "cc55e93be3f1",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "3db6cbaa97d6b2cb",
-   "summary": "Dickinson State University Women's JV Basketball at United Tribes Technical College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -8202,7 +7726,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8256,7 +7783,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8310,7 +7840,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -8369,7 +7902,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -8428,7 +7964,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -8483,7 +8022,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -8537,7 +8079,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8591,7 +8136,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8645,7 +8193,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -8699,7 +8250,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -8753,7 +8307,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -8812,7 +8369,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -8871,7 +8431,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -8923,7 +8486,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -8977,7 +8543,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -9031,61 +8600,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844942",
-   "title": "Dickinson State University Women's Basketball at Minot State University - Exhibition",
-   "start": "2026-11-19",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844942",
-   "description": "Dickinson State University Women's Basketball at Minot State University - Exhibition",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Minot, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "e67f16cf6ec2",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "0074a69c4442ba86",
-   "summary": "Dickinson State University Women's Basketball at Minot State University - Exhibition",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -9139,7 +8657,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9193,7 +8714,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9247,7 +8771,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -9301,7 +8828,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9360,7 +8890,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9419,7 +8952,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -9471,7 +9007,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9525,169 +9064,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126227",
-   "title": "Dickinson State University Men's Cross Country at NAIA National Championships",
-   "start": "2026-11-20",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126227",
-   "description": "Dickinson State University Men's Cross Country at NAIA National Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Vancouver, Wash.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5dd7797e7a19",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "5cb4ba1ecdf9c29b",
-   "summary": "Dickinson State University Men's Cross Country at NAIA National Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126228",
-   "title": "Dickinson State University Women's Cross Country at NAIA National Championships",
-   "start": "2026-11-20",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126228",
-   "description": "Dickinson State University Women's Cross Country at NAIA National Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Vancouver, Wash.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "493c615c2ec9",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "7938eb2488c955bc",
-   "summary": "Dickinson State University Women's Cross Country at NAIA National Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "204105552",
-   "title": "Dickinson State University Women's Wrestling at Beaver Bash Duals",
-   "start": "2026-11-20",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D204105552",
-   "description": "Dickinson State University Women's Wrestling at Beaver Bash Duals",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Minot, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "42ac787cf032",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "7dd58a627b2e1d07",
-   "summary": "Dickinson State University Women's Wrestling at Beaver Bash Duals",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9741,7 +9121,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9795,7 +9178,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -9849,7 +9235,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9908,7 +9297,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -9967,7 +9359,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10026,61 +9421,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "198228511",
-   "title": "Dickinson State University Women's Basketball at Bismarck State College",
-   "start": "2026-11-20T16:00:00-07:00",
-   "end": "2026-11-20T18:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228511",
-   "description": "Dickinson State University Women's Basketball at Bismarck State College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "ca8734de2b71",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "398dc78e336453d2",
-   "summary": "Dickinson State University Women's Basketball at Bismarck State College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -10132,7 +9476,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10186,61 +9533,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844943",
-   "title": "Dickinson State University Men's Basketball at Bismarck State College",
-   "start": "2026-11-20T18:00:00-07:00",
-   "end": "2026-11-20T20:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844943",
-   "description": "Dickinson State University Men's Basketball at Bismarck State College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "69d614a2dcab",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "4de87f1349813b58",
-   "summary": "Dickinson State University Men's Basketball at Bismarck State College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -10299,7 +9595,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10351,7 +9650,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -10405,7 +9707,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10459,7 +9764,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10513,61 +9821,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "204105553",
-   "title": "Dickinson State University Women's Wrestling at Minot State Open",
-   "start": "2026-11-21T09:00:00-07:00",
-   "end": "2026-11-21T12:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D204105553",
-   "description": "Dickinson State University Women's Wrestling at Minot State Open",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Minot, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "3a30798274d8",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "ab20013d8afebb98",
-   "summary": "Dickinson State University Women's Wrestling at Minot State Open",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10626,7 +9883,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10685,7 +9945,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -10744,7 +10007,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -10796,7 +10062,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -10850,7 +10119,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -10909,7 +10181,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10968,7 +10243,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.9034433,
+   "lon": -102.74346,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -11020,7 +10298,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11074,7 +10355,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11128,7 +10412,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11182,7 +10469,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -11241,7 +10531,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -11300,7 +10593,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -11359,7 +10655,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -11411,7 +10710,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -11470,7 +10772,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -11524,7 +10829,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11578,7 +10886,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11632,7 +10943,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -11686,7 +11000,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11740,7 +11057,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -11794,7 +11114,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -11853,7 +11176,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -11912,7 +11238,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -11966,7 +11295,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12020,7 +11352,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12074,7 +11409,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -12133,7 +11471,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -12192,7 +11533,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -12244,7 +11588,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "runsignup",
@@ -12300,7 +11647,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.10529,
+   "lon": -104.71246,
+   "geo_precision": "town"
   },
   {
    "source": "runsignup",
@@ -12356,7 +11706,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 120,
-   "drive_label": "About 2 hr from Medora"
+   "drive_label": "About 2 hr from Medora",
+   "lat": 47.716735,
+   "lon": -104.155973,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12410,7 +11763,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12464,7 +11820,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12518,7 +11877,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -12577,7 +11939,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -12629,7 +11994,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12683,7 +12051,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12737,7 +12108,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12791,7 +12165,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -12845,7 +12222,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -12904,7 +12284,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -12963,7 +12346,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -13015,7 +12401,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -13069,7 +12458,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -13121,7 +12513,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -13175,7 +12570,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -13229,7 +12627,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -13283,7 +12684,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -13338,7 +12742,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -13397,7 +12804,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -13456,7 +12866,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -13508,7 +12921,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -13562,7 +12978,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -13621,7 +13040,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -13675,7 +13097,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -13729,7 +13154,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -13783,7 +13211,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -13842,7 +13273,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -13901,7 +13335,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -13953,7 +13390,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -14012,7 +13452,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -14066,7 +13509,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -14120,7 +13566,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -14174,7 +13623,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue"
   }
  ]
 }

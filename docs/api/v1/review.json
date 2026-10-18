@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:55:35+00:00",
+ "generated": "2026-10-18T16:03:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -81,7 +81,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9124256,
+   "lon": -103.5347822,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -170,7 +173,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9124256,
+   "lon": -103.5347822,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -254,7 +260,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9124256,
+   "lon": -103.5347822,
+   "geo_precision": "venue"
   }
  ]
 }

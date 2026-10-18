@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-18T15:55:35+00:00",
+ "generated": "2026-10-18T16:03:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
- "count": 200,
+ "count": 171,
  "events": [
   {
    "source": "medora",
@@ -58,6 +58,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town",
    "occurrences": 1
   },
   {
@@ -113,6 +116,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town",
    "occurrences": 1
   },
   {
@@ -177,7 +183,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -232,6 +241,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town",
    "occurrences": 400
   },
   {
@@ -287,6 +299,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town",
    "occurrences": 400
   },
   {
@@ -342,6 +357,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9108379,
+   "lon": -103.5134484,
+   "geo_precision": "venue",
    "occurrences": 400
   },
   {
@@ -402,6 +420,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue",
    "occurrences": 26
   },
   {
@@ -462,7 +483,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8815669417,
+   "lon": -102.8003174812,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -522,6 +546,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue",
    "occurrences": 26
   },
   {
@@ -579,7 +606,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -631,7 +661,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -684,6 +717,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town",
    "occurrences": 286
   },
   {
@@ -743,7 +779,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -797,7 +836,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -856,7 +898,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -910,7 +955,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -962,7 +1010,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1039,7 +1090,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9124256,
+   "lon": -103.5347822,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1098,7 +1152,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -1153,7 +1210,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -1212,7 +1272,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1271,7 +1334,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -1325,7 +1391,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -1377,7 +1446,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -1429,7 +1501,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1488,7 +1563,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1547,7 +1625,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1599,7 +1680,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1663,6 +1747,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue",
    "occurrences": 10
   },
   {
@@ -1717,7 +1804,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1776,7 +1866,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.93322,
+   "lon": -102.73793,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1835,7 +1928,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.93322,
+   "lon": -102.73793,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -1890,6 +1986,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town",
    "occurrences": 171
   },
   {
@@ -1942,7 +2041,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1994,7 +2096,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.878636,
+   "lon": -102.801396,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2046,72 +2151,21 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
-   "source": "dsu",
-   "source_event_id": "205844937",
-   "title": "Dickinson State University Women's Basketball vs Haskell Indian Nations University",
+   "source": "cityspark",
+   "source_event_id": "260809fbD23EImy0i151-bU8HaCw",
+   "title": "Dickinson State University Men's Basketball vs Doane Univer sity",
    "start": "2026-10-23",
    "end": null,
    "all_day": true,
    "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844937",
-   "description": "Dickinson State University Women's Basketball vs Haskell Indian Nations University",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Omaha, Neb.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "30d1148d6976",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "c486b4cee9d7b93a",
-   "summary": "Dickinson State University Women's Basketball vs Haskell Indian Nations University",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205848893",
-   "title": "Dickinson State University Men's Basketball vs Doane University",
-   "start": "2026-10-23T13:30:00-06:00",
-   "end": "2026-10-23T15:30:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848893",
-   "description": "Dickinson State University Men's Basketball vs Doane University",
+   "url": "https://dsubluehawks.com/calendar.aspx?game_id=5651andsport_id=6",
+   "description": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5651andsport\\_id=6\n\nDickinson State University Men's Basketball vs Doane University",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa5bfa61-658d-4e5c-8c9b-146f36f52107.large.png",
    "attendance": "in_person",
    "online_url": null,
@@ -2122,7 +2176,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Omaha, Neb.",
+    "name": "Omaha, Neb",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -2131,36 +2185,31 @@
     "lat": 46.87918,
     "lon": -102.78962
    },
-   "organizer": "Dickinson State University",
+   "organizer": null,
    "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
+   "categories": [],
    "audiences": [],
    "recurring": false,
-   "series_id": "8cddba3467d6",
+   "series_id": "36ee9eebafc3",
    "status": "scheduled",
    "relevance": "core",
    "matched_terms": [],
    "accessibility": null,
    "extra": {},
-   "id": "3ae4711bab4d6607",
-   "summary": "Dickinson State University Men's Basketball vs Doane University",
-   "source_name": "Dickinson State University",
-   "also_listed": [
-    {
-     "source": "cityspark",
-     "url": "https://dsubluehawks.com/calendar.aspx?game_id=5651andsport_id=6",
-     "title": "Dickinson State University Men's Basketball vs Doane Univer sity"
-    }
-   ],
+   "id": "30a075efaee6f68d",
+   "summary": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5651andsport\\_id=6 Dickinson State University Men's Basketball vs Doane University",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18",
    "region_label": "Dickinson, ND",
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -2214,7 +2263,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8787054,
+   "lon": -102.8012657,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2273,7 +2325,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -2362,72 +2417,21 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9124256,
+   "lon": -103.5347822,
+   "geo_precision": "venue"
   },
   {
-   "source": "dsu",
-   "source_event_id": "203060036",
-   "title": "Dickinson State University Women's Volleyball at University of Providence (Mont.)",
-   "start": "2026-10-23T19:00:00-06:00",
-   "end": "2026-10-23T21:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203060036",
-   "description": "Dickinson State University Women's Volleyball at University of Providence (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Great Falls, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "8d96921ce85d",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "5b9ce34578d59b19",
-   "summary": "Dickinson State University Women's Volleyball at University of Providence (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126223",
-   "title": "Dickinson State University Men's Cross Country at Blazing Tiger NAIA Classic",
+   "source": "cityspark",
+   "source_event_id": "260708agnBOZZIn0i753u3eKwkdg",
+   "title": "Dickinson State University Men's Cross Country at Blazing T iger NAIA Classic",
    "start": "2026-10-24",
    "end": null,
    "all_day": true,
    "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126223",
-   "description": "Dickinson State University Men's Cross Country at Blazing Tiger NAIA Classic",
+   "url": "https://dsubluehawks.com/calendar.aspx?game_id=5620andsport_id=7",
+   "description": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5620andsport\\_id=7\n\nDickinson State University Men's Cross Country at Blazing Tiger NAIA Classic",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eab08c85-6507-46b6-89cb-9dc3711af22d.large.png",
    "attendance": "in_person",
    "online_url": null,
@@ -2438,7 +2442,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Ashland, Neb.",
+    "name": "Ashland, Neb",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -2447,82 +2451,20 @@
     "lat": 46.87918,
     "lon": -102.78962
    },
-   "organizer": "Dickinson State University",
+   "organizer": null,
    "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
+   "categories": [],
    "audiences": [],
    "recurring": false,
-   "series_id": "886efa9c9b9e",
+   "series_id": "928038d3b807",
    "status": "scheduled",
    "relevance": "core",
    "matched_terms": [],
    "accessibility": null,
    "extra": {},
-   "id": "ae154aad0e31af9a",
-   "summary": "Dickinson State University Men's Cross Country at Blazing Tiger NAIA Classic",
-   "source_name": "Dickinson State University",
-   "also_listed": [
-    {
-     "source": "cityspark",
-     "url": "https://dsubluehawks.com/calendar.aspx?game_id=5620andsport_id=7",
-     "title": "Dickinson State University Men's Cross Country at Blazing T iger NAIA Classic"
-    }
-   ],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844938",
-   "title": "Dickinson State University Women's Basketball vs Cottey College",
-   "start": "2026-10-24",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844938",
-   "description": "Dickinson State University Women's Basketball vs Cottey College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Omaha, Neb.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "764a6ff1e284",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "54822721dfd1b0d9",
-   "summary": "Dickinson State University Women's Basketball vs Cottey College",
-   "source_name": "Dickinson State University",
+   "id": "d71ab91d8b885a84",
+   "summary": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5620andsport\\_id=7 Dickinson State University Men's Cross Country at Blazing Tiger NAIA Classic",
+   "source_name": "The Dickinson Press community calendar",
    "also_listed": [],
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18",
@@ -2530,61 +2472,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126224",
-   "title": "Dickinson State University Women's Cross Country at Blazing Tiger NAIA Classic",
-   "start": "2026-10-24",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126224",
-   "description": "Dickinson State University Women's Cross Country at Blazing Tiger NAIA Classic",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Ashland, Neb.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "9cc1fa8ef2e3",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "f3ea817afc862bf3",
-   "summary": "Dickinson State University Women's Cross Country at Blazing Tiger NAIA Classic",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -2638,7 +2529,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -2690,7 +2584,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -2744,7 +2641,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -2798,7 +2698,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -2853,7 +2756,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -2912,61 +2818,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205848894",
-   "title": "Dickinson State University Men's Basketball vs Bethany College (Kan.)",
-   "start": "2026-10-24T13:30:00-06:00",
-   "end": "2026-10-24T15:30:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848894",
-   "description": "Dickinson State University Men's Basketball vs Bethany College (Kan.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Omaha, Neb.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "32014d776572",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "dfa7c8020dcf9860",
-   "summary": "Dickinson State University Men's Basketball vs Bethany College (Kan.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -2988,7 +2843,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D., Biesiot Activities Center",
+    "name": "Biesiot Activities Center",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -3026,115 +2881,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207172518",
-   "title": "Dickinson State University Women's JV Volleyball at Miles Community College",
-   "start": "2026-10-24T14:00:00-06:00",
-   "end": "2026-10-24T16:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207172518",
-   "description": "Dickinson State University Women's JV Volleyball at Miles Community College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Miles City, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "9e525e426cf5",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "75709683000a64a5",
-   "summary": "Dickinson State University Women's JV Volleyball at Miles Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "203060037",
-   "title": "Dickinson State University Women's Volleyball at Montana State University-Northern",
-   "start": "2026-10-24T14:00:00-06:00",
-   "end": "2026-10-24T16:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203060037",
-   "description": "Dickinson State University Women's Volleyball at Montana State University-Northern",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Havre, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "066ec3893552",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "554389948e361270",
-   "summary": "Dickinson State University Women's Volleyball at Montana State University-Northern",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -3186,7 +2936,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -3245,7 +2998,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -3329,7 +3085,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9124256,
+   "lon": -103.5347822,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3381,115 +3140,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207473530",
-   "title": "Dickinson State University Men's JV Basketball at Rocky Mountain College (Mont.)",
-   "start": "2026-10-25",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473530",
-   "description": "Dickinson State University Men's JV Basketball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "520f430503d1",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "ddb276618ab33456",
-   "summary": "Dickinson State University Men's JV Basketball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210778998",
-   "title": "Dickinson State University Women's JV Basketball at Rocky Mountain College (Mont.)",
-   "start": "2026-10-25",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210778998",
-   "description": "Dickinson State University Women's JV Basketball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "4874c07e4a7d",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "cc7f7a2493bd0358",
-   "summary": "Dickinson State University Women's JV Basketball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.879305,
+   "lon": -102.784333,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3548,7 +3202,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.9034433,
+   "lon": -102.74346,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3600,115 +3257,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207473531",
-   "title": "Dickinson State University Men's JV Basketball at Rocky Mountain College (Mont.)",
-   "start": "2026-10-26",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473531",
-   "description": "Dickinson State University Men's JV Basketball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "34aa90ef16c3",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "4bd38a4c58ec2122",
-   "summary": "Dickinson State University Men's JV Basketball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210778999",
-   "title": "Dickinson State University Women's JV Basketball at Rocky Mountain College (Mont.)",
-   "start": "2026-10-26",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210778999",
-   "description": "Dickinson State University Women's JV Basketball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "1ac807b54ef2",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "e69c86fa94604a8d",
-   "summary": "Dickinson State University Women's JV Basketball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.880767,
+   "lon": -102.793819,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3767,7 +3319,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -3789,7 +3344,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D., Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -3827,7 +3382,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -3881,7 +3439,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3940,7 +3501,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3999,7 +3563,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -4051,7 +3618,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -4105,7 +3675,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -4159,7 +3732,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -4211,7 +3787,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -4265,7 +3844,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -4287,7 +3869,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D., Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -4325,7 +3907,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -4379,7 +3964,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -4401,7 +3989,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D., Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -4439,7 +4027,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -4461,7 +4052,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D., Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -4499,7 +4090,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -4558,61 +4152,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205848895",
-   "title": "Dickinson State University Men's Basketball at Midland University",
-   "start": "2026-10-30T18:30:00-06:00",
-   "end": "2026-10-30T20:30:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848895",
-   "description": "Dickinson State University Men's Basketball at Midland University",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Fremont, Neb.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "1076aacd0d63",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "b860dece49a61600",
-   "summary": "Dickinson State University Men's Basketball at Midland University",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888747,
+   "lon": -102.814867,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -4666,7 +4209,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -4721,7 +4267,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "medora",
@@ -4778,61 +4327,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "198228509",
-   "title": "Dickinson State University Football at Montana State University-Northern",
-   "start": "2026-10-31T13:00:00-06:00",
-   "end": "2026-10-31T16:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228509",
-   "description": "Dickinson State University Football at Montana State University-Northern Streaming Audio: kdix.com",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Havre, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "b5960b47c308",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "2140e56d9aee8ab6",
-   "summary": "Dickinson State University Football at Montana State University-Northern Streaming Audio: kdix.com",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -4891,7 +4389,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.880102,
+   "lon": -102.786447,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -4945,7 +4446,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -4997,7 +4501,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "trpl",
@@ -5057,6 +4564,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue",
    "occurrences": 80
   },
   {
@@ -5079,7 +4589,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -5111,7 +4621,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5133,7 +4646,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -5165,7 +4678,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -5219,7 +4735,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -5273,7 +4792,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5327,7 +4849,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -5381,7 +4906,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5435,7 +4963,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -5487,7 +5018,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 20,
-   "drive_label": "About 20 min from Medora"
+   "drive_label": "About 20 min from Medora",
+   "lat": 46.885555,
+   "lon": -103.200706,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5541,7 +5075,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -5600,115 +5137,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844940",
-   "title": "Dickinson State University Women's Basketball vs University of Mary",
-   "start": "2026-11-06T12:30:00-07:00",
-   "end": "2026-11-06T14:30:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844940",
-   "description": "Dickinson State University Women's Basketball vs University of Mary",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "746655bc2ee7",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "a6315c9b7943ca34",
-   "summary": "Dickinson State University Women's Basketball vs University of Mary",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205848896",
-   "title": "Dickinson State University Men's Basketball vs Eastern Oregon University",
-   "start": "2026-11-06T14:00:00-07:00",
-   "end": "2026-11-06T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848896",
-   "description": "Dickinson State University Men's Basketball vs Eastern Oregon University",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "bd561ee6d911",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "28442c6ca20ab54b",
-   "summary": "Dickinson State University Men's Basketball vs Eastern Oregon University",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "chamber",
@@ -5766,18 +5198,21 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9127199,
+   "lon": -103.5219173,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
-   "source_event_id": "203060040",
-   "title": "Dickinson State University Women's Volleyball at Carroll College (Mont.)",
+   "source_event_id": "204105550",
+   "title": "Dickinson State University Women's Wrestling vs Hastings College (Neb.)",
    "start": "2026-11-06T18:00:00-07:00",
-   "end": "2026-11-06T20:00:00-07:00",
+   "end": "2026-11-06T21:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203060040",
-   "description": "Dickinson State University Women's Volleyball at Carroll College (Mont.)",
+   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D204105550",
+   "description": "Dickinson State University Women's Wrestling vs Hastings College (Neb.)",
    "image": null,
    "attendance": "in_person",
    "online_url": null,
@@ -5788,7 +5223,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Helena, Mont.",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -5804,14 +5239,14 @@
    ],
    "audiences": [],
    "recurring": false,
-   "series_id": "65e5b5df029a",
+   "series_id": "3ad2ef19da84",
    "status": "scheduled",
    "relevance": "core",
    "matched_terms": [],
    "accessibility": null,
    "extra": {},
-   "id": "8747493038ad8c22",
-   "summary": "Dickinson State University Women's Volleyball at Carroll College (Mont.)",
+   "id": "bf1096a4991a69e3",
+   "summary": "Dickinson State University Women's Wrestling vs Hastings College (Neb.)",
    "source_name": "Dickinson State University",
    "also_listed": [],
    "first_seen": "2026-10-18",
@@ -5820,7 +5255,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5842,7 +5280,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D., Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -5874,7 +5312,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -5928,169 +5369,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126226",
-   "title": "Dickinson State University Men's Cross Country at Frontier Conference Championships",
-   "start": "2026-11-07",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126226",
-   "description": "Dickinson State University Men's Cross Country at Frontier Conference Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "f5e24c4f4df9",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "6585d6d1a252edb5",
-   "summary": "Dickinson State University Men's Cross Country at Frontier Conference Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844939",
-   "title": "Dickinson State University Women's Basketball vs Lewis-Clark State College (Idaho)",
-   "start": "2026-11-07",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844939",
-   "description": "Dickinson State University Women's Basketball vs Lewis-Clark State College (Idaho)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "7941d2fe7243",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "1560936ef2582b4e",
-   "summary": "Dickinson State University Women's Basketball vs Lewis-Clark State College (Idaho)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126225",
-   "title": "Dickinson State University Women's Cross Country at Frontier Conference Championships",
-   "start": "2026-11-07",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126225",
-   "description": "Dickinson State University Women's Cross Country at Frontier Conference Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "43cbd2ffbecc",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "e7816d82797debc1",
-   "summary": "Dickinson State University Women's Cross Country at Frontier Conference Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -6149,7 +5431,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -6201,7 +5486,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -6223,7 +5511,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D.",
+    "name": "Dickinson State University",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -6255,169 +5543,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205848897",
-   "title": "Dickinson State University Men's Basketball vs California Prestige University",
-   "start": "2026-11-07T10:45:00-07:00",
-   "end": "2026-11-07T12:45:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848897",
-   "description": "Dickinson State University Men's Basketball vs California Prestige University",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "New Town, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5d21b6c795c7",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "316be241f58987e6",
-   "summary": "Dickinson State University Men's Basketball vs California Prestige University",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "198228510",
-   "title": "Dickinson State University Football at Montana Tech",
-   "start": "2026-11-07T13:00:00-07:00",
-   "end": "2026-11-07T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228510",
-   "description": "Dickinson State University Football at Montana Tech Streaming Audio: kdix.com",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Butte, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "91152d081a95",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "fee58031c0e9c8c4",
-   "summary": "Dickinson State University Football at Montana Tech Streaming Audio: kdix.com",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207172521",
-   "title": "Dickinson State University Women's JV Volleyball at Rocky Mountain College (Mont.)",
-   "start": "2026-11-07T16:00:00-07:00",
-   "end": "2026-11-07T18:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207172521",
-   "description": "Dickinson State University Women's JV Volleyball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "87c2c2030192",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "99a53cee43fa206f",
-   "summary": "Dickinson State University Women's JV Volleyball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8827077,
+   "lon": -102.8011777,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -6469,61 +5598,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "203060041",
-   "title": "Dickinson State University Women's Volleyball at Rocky Mountain College (Mont.)",
-   "start": "2026-11-07T18:00:00-07:00",
-   "end": "2026-11-07T20:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203060041",
-   "description": "Dickinson State University Women's Volleyball at Rocky Mountain College (Mont.)",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Billings, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "f43b57b4a6ab",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "641a337d2e772dca",
-   "summary": "Dickinson State University Women's Volleyball at Rocky Mountain College (Mont.)",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -6545,7 +5623,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -6577,7 +5655,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -6599,7 +5680,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -6631,7 +5712,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -6685,7 +5769,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -6707,7 +5794,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -6739,7 +5826,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -6761,7 +5851,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -6793,7 +5883,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -6847,7 +5940,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -6901,7 +5997,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8827077,
+   "lon": -102.8011777,
+   "geo_precision": "venue"
   },
   {
    "source": "trpl",
@@ -6961,6 +6060,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue",
    "occurrences": 15
   },
   {
@@ -7015,7 +6117,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -7037,7 +6142,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -7069,7 +6174,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -7091,7 +6199,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Dickinson, N.D. , Scott Gymnasium",
+    "name": "Scott Gymnasium",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -7123,61 +6231,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "203443580",
-   "title": "Dickinson State University Women's Volleyball vs TBA",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203443580",
-   "description": "Dickinson State University Women's Volleyball vs TBA",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Helena, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "f2d2acae7bc7",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "b12d520ef1cde6b7",
-   "summary": "Dickinson State University Women's Volleyball vs TBA",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8816456,
+   "lon": -102.8015774,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -7229,7 +6286,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -7281,18 +6341,21 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
-   "source": "dsu",
-   "source_event_id": "207473536",
-   "title": "Dickinson State University Men's JV Basketball at Dawson Community College",
+   "source": "cityspark",
+   "source_event_id": "26101515AdYqsmQUCwexpHsIVphA",
+   "title": "Dickinson State University Men's JV Basketball at Dawson Co mmunity College",
    "start": "2026-11-14",
    "end": null,
    "all_day": true,
    "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473536",
-   "description": "Dickinson State University Men's JV Basketball at Dawson Community College",
+   "url": "https://dsubluehawks.com/calendar.aspx?game_id=5702andsport_id=10 17",
+   "description": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5702andsport\\_id=1017\n\nDickinson State University Men's JV Basketball at Dawson Community College",
    "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.large.png",
    "attendance": "in_person",
    "online_url": null,
@@ -7303,153 +6366,40 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "Glendive, Mont.",
+    "name": null,
     "address": null,
-    "city": "Dickinson",
-    "region": "ND",
+    "city": "Glendive",
+    "region": "MT",
     "postal_code": null,
     "country": "US",
     "lat": 47.10529,
     "lon": -104.71246
    },
-   "organizer": "Dickinson State University",
+   "organizer": null,
    "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
+   "categories": [],
    "audiences": [],
    "recurring": false,
-   "series_id": "a264bac1dfbf",
+   "series_id": "4f600193274f",
    "status": "scheduled",
    "relevance": "core",
    "matched_terms": [],
    "accessibility": null,
    "extra": {},
-   "id": "3a757af208961091",
-   "summary": "Dickinson State University Men's JV Basketball at Dawson Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [
-    {
-     "source": "cityspark",
-     "url": "https://dsubluehawks.com/calendar.aspx?game_id=5702andsport_id=10 17",
-     "title": "Dickinson State University Men's JV Basketball at Dawson Co mmunity College"
-    }
-   ],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844941",
-   "title": "Dickinson State University Women's Basketball at University of Jamestown",
-   "start": "2026-11-14",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844941",
-   "description": "Dickinson State University Women's Basketball at University of Jamestown",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Jamestown, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "117b188b5300",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "765bd743a1a18dff",
-   "summary": "Dickinson State University Women's Basketball at University of Jamestown",
-   "source_name": "Dickinson State University",
+   "id": "296005b63a74c503",
+   "summary": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5702andsport\\_id=1017 Dickinson State University Men's JV Basketball at Dawson Community College",
+   "source_name": "The Dickinson Press community calendar",
    "also_listed": [],
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
+   "region_label": "Glendive, MT",
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210779004",
-   "title": "Dickinson State University Women's JV Basketball at Dawson Community College",
-   "start": "2026-11-14",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779004",
-   "description": "Dickinson State University Women's JV Basketball at Dawson Community College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Glendive, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "4b5ffe1e0beb",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "6b728980095fa725",
-   "summary": "Dickinson State University Women's JV Basketball at Dawson Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 47.10529,
+   "lon": -104.71246,
+   "geo_precision": "venue"
   },
   {
    "source": "discover",
@@ -7510,7 +6460,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9127199,
+   "lon": -103.5219173,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -7565,115 +6518,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207473537",
-   "title": "Dickinson State University Men's JV Basketball at Miles Community College",
-   "start": "2026-11-15",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473537",
-   "description": "Dickinson State University Men's JV Basketball at Miles Community College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Miles City, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "dec9c11cac83",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "ff870ada1d0faae0",
-   "summary": "Dickinson State University Men's JV Basketball at Miles Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210779005",
-   "title": "Dickinson State University Women's JV Basketball at Miles Community College",
-   "start": "2026-11-15",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779005",
-   "description": "Dickinson State University Women's JV Basketball at Miles Community College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Miles City, Mont.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "a79abf69c669",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "7355a003bbd19c58",
-   "summary": "Dickinson State University Women's JV Basketball at Miles Community College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -7727,115 +6575,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "207473538",
-   "title": "Dickinson State University Men's JV Basketball at United Tribes Technical College",
-   "start": "2026-11-17",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473538",
-   "description": "Dickinson State University Men's JV Basketball at United Tribes Technical College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "7e9c876987ac",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "0ac0ebe6e039c8b7",
-   "summary": "Dickinson State University Men's JV Basketball at United Tribes Technical College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "210779006",
-   "title": "Dickinson State University Women's JV Basketball at United Tribes Technical College",
-   "start": "2026-11-17",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779006",
-   "description": "Dickinson State University Women's JV Basketball at United Tribes Technical College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "cc55e93be3f1",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "3db6cbaa97d6b2cb",
-   "summary": "Dickinson State University Women's JV Basketball at United Tribes Technical College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -7890,7 +6633,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -7944,7 +6690,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -7998,7 +6747,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8791756,
+   "lon": -102.7896242,
+   "geo_precision": "town"
   },
   {
    "source": "dsu",
@@ -8052,7 +6804,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -8106,61 +6861,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844942",
-   "title": "Dickinson State University Women's Basketball at Minot State University - Exhibition",
-   "start": "2026-11-19",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844942",
-   "description": "Dickinson State University Women's Basketball at Minot State University - Exhibition",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Minot, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "e67f16cf6ec2",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "0074a69c4442ba86",
-   "summary": "Dickinson State University Women's Basketball at Minot State University - Exhibition",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826492,
+   "lon": -102.8005588,
+   "geo_precision": "venue"
   },
   {
    "source": "dsu",
@@ -8214,277 +6918,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126227",
-   "title": "Dickinson State University Men's Cross Country at NAIA National Championships",
-   "start": "2026-11-20",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126227",
-   "description": "Dickinson State University Men's Cross Country at NAIA National Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Vancouver, Wash.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5dd7797e7a19",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "5cb4ba1ecdf9c29b",
-   "summary": "Dickinson State University Men's Cross Country at NAIA National Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205126228",
-   "title": "Dickinson State University Women's Cross Country at NAIA National Championships",
-   "start": "2026-11-20",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205126228",
-   "description": "Dickinson State University Women's Cross Country at NAIA National Championships",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Vancouver, Wash.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "493c615c2ec9",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "7938eb2488c955bc",
-   "summary": "Dickinson State University Women's Cross Country at NAIA National Championships",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "204105552",
-   "title": "Dickinson State University Women's Wrestling at Beaver Bash Duals",
-   "start": "2026-11-20",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D204105552",
-   "description": "Dickinson State University Women's Wrestling at Beaver Bash Duals",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Minot, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "42ac787cf032",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "7dd58a627b2e1d07",
-   "summary": "Dickinson State University Women's Wrestling at Beaver Bash Duals",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "198228511",
-   "title": "Dickinson State University Women's Basketball at Bismarck State College",
-   "start": "2026-11-20T16:00:00-07:00",
-   "end": "2026-11-20T18:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228511",
-   "description": "Dickinson State University Women's Basketball at Bismarck State College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "ca8734de2b71",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "398dc78e336453d2",
-   "summary": "Dickinson State University Women's Basketball at Bismarck State College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "205844943",
-   "title": "Dickinson State University Men's Basketball at Bismarck State College",
-   "start": "2026-11-20T18:00:00-07:00",
-   "end": "2026-11-20T20:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844943",
-   "description": "Dickinson State University Men's Basketball at Bismarck State College",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Bismarck, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "69d614a2dcab",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "4de87f1349813b58",
-   "summary": "Dickinson State University Men's Basketball at Bismarck State College",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8826941,
+   "lon": -102.7979454,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -8536,61 +6973,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "204105553",
-   "title": "Dickinson State University Women's Wrestling at Minot State Open",
-   "start": "2026-11-21T09:00:00-07:00",
-   "end": "2026-11-21T12:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D204105553",
-   "description": "Dickinson State University Women's Wrestling at Minot State Open",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Minot, N.D.",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "3a30798274d8",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "ab20013d8afebb98",
-   "summary": "Dickinson State University Women's Wrestling at Minot State Open",
-   "source_name": "Dickinson State University",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Dickinson, ND",
-   "area": "nearby",
-   "area_label": "Out of Medora",
-   "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -8649,7 +7035,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.9034433,
+   "lon": -102.74346,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -8701,7 +7090,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "runsignup",
@@ -8757,7 +7149,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.10529,
+   "lon": -104.71246,
+   "geo_precision": "town"
   },
   {
    "source": "runsignup",
@@ -8813,7 +7208,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 120,
-   "drive_label": "About 2 hr from Medora"
+   "drive_label": "About 2 hr from Medora",
+   "lat": 47.716735,
+   "lon": -104.155973,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -8865,7 +7263,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "watford",
@@ -8920,7 +7321,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -8972,7 +7376,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 25,
-   "drive_label": "About 25 min from Medora"
+   "drive_label": "About 25 min from Medora",
+   "lat": 46.866657,
+   "lon": -102.990784,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -9024,7 +7431,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -9076,7 +7486,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -9128,7 +7541,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "medora",
@@ -9184,6 +7600,9 @@
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
+   "lat": 46.9139605,
+   "lon": -103.5249098,
+   "geo_precision": "venue",
    "occurrences": 17
   },
   {
@@ -9236,7 +7655,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "chamber",
@@ -9294,7 +7716,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -9346,7 +7771,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -9398,7 +7826,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -9453,7 +7884,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -9512,7 +7946,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -9564,7 +8001,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -9616,7 +8056,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -9671,7 +8114,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -9723,7 +8169,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -9775,7 +8224,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -9827,7 +8279,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -9879,7 +8334,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -9931,7 +8389,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -9990,7 +8451,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888747,
+   "lon": -102.814867,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10042,65 +8506,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
-  },
-  {
-   "source": "ndchf",
-   "source_event_id": "the-winter-roundup-2027-01-15",
-   "title": "The Winter Roundup",
-   "start": "2027-01-15",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://northdakotacowboy.org/events/",
-   "description": "",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Wickenburg",
-    "address": "Arizona",
-    "city": null,
-    "region": null,
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "North Dakota Cowboy Hall of Fame",
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "e01bb1b2547d",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "day_text": "FRIDAY",
-    "links": [
-     "https://northdakotacowboy.givecloud.co/2026-races-in-the-badlands-registration-page-yt9ixjtfx",
-     "https://northdakotacowboy.givecloud.co/2027-ndchf-annual-meeting-v35rbygyz"
-    ]
-   },
-   "id": "cfc79d902da9b6f5",
-   "summary": "",
-   "source_name": "North Dakota Cowboy Hall of Fame",
-   "also_listed": [],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
-   "region_label": "Medora, ND",
-   "area": "medora",
-   "area_label": "In Medora",
-   "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10152,7 +8561,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10204,7 +8616,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10263,7 +8678,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10315,7 +8733,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.372331,
+   "lon": -102.756208,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10367,7 +8788,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10419,7 +8843,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10471,7 +8898,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.891263,
+   "lon": -102.798184,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10523,7 +8953,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10575,7 +9008,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "watford",
@@ -10627,7 +9063,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 110,
-   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora"
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
   },
   {
    "source": "ndchf",
@@ -10685,7 +9124,10 @@
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
-   "drive_label": null
+   "drive_label": null,
+   "lat": 46.9139028,
+   "lon": -103.5243536,
+   "geo_precision": "town"
   },
   {
    "source": "cityspark",
@@ -10737,7 +9179,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.891263,
+   "lon": -102.798184,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10789,7 +9234,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10841,7 +9289,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10893,7 +9344,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10945,7 +9399,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -10997,7 +9454,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -11049,7 +9509,450 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "260829AhDwG_rwckO9rhoGbOkqHA",
+   "title": "Teen After Hours",
+   "start": "2027-03-19T21:00:00-06:00",
+   "end": "2027-03-19T23:00:00-06:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://dickinsonparks.org/event/teenafterhours-mar/",
+   "description": "Join us for an exclusive high school event at the West River Community Center. Whether you’re looking to play some more basketball, squeeze in another weight-lifting session, challenge your friends to a game of Madden or other favorites, or just hang out and socialize with your peers, this is the perfect event for you!\n\nThis is a FREE event! All high school teens welcome!",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hV--EQoG7E2Nzbsp7KtVmA.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "West River Community Center",
+    "address": "2004 Fairway Street",
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": "58601",
+    "country": "US",
+    "lat": 46.888736,
+    "lon": -102.81416
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "811a6d023b2f",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "0bc9c1ee68405adf",
+   "summary": "Join us for an exclusive high school event at the West River Community Center. Whether you’re looking to play some more basketball, squeeze in another weight-lifting session, challenge your friends to a game of Madden…",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Dickinson, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 35,
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "2608297uue0DE5ek-W4cwsyWNnBQ",
+   "title": "Teen After Hours: Middle School Edition",
+   "start": "2027-04-09T21:00:00-06:00",
+   "end": "2027-04-09T23:00:00-06:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://dickinsonparks.org/event/teenafterhours-middleschool-apr/",
+   "description": "Middle schoolers, get ready for an epic night at the WRCC! Play basketball, take on friends in Madden, or just kick back and hang out.\n\nThis is a FREE event – all middle school students \\(Grades 6-8\\) welcome!",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TE8DTcUHS0CPVQeKdZD0Tw.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "West River Community Center",
+    "address": "2004 Fairway Street",
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": "58601",
+    "country": "US",
+    "lat": 46.888736,
+    "lon": -102.81416
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "917b9db6d882",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "27e237f3ab27a740",
+   "summary": "Middle schoolers, get ready for an epic night at the WRCC! Play basketball, take on friends in Madden, or just kick back and hang out. This is a FREE event – all middle school students \\(Grades 6-8\\) welcome!",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Dickinson, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 35,
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "261001a5klhxzz-EWc-OXcUBO60g",
+   "title": "\"It's a Big Dill\" Pickleball Tournament",
+   "start": "2027-04-23",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://dickinsonparks.org/event/pickleball-tournament/",
+   "description": "Join us for the 4th Annual Dakota Community Bank & Trust “It’s a Big Dill” Pickleball Tournament at the West River Community Center. Youth and Senior divisions will play on Friday evening; Men and Women will play on Saturday followed by Mixed divisions on Sunday. Saturday night there will be a social for participants to attend. Check in will begin at 7:30 am both days with tournament play at 8:00 am. Shirts are included if you register by the registration deadline.\n\nAges: 8\\+\n\nFee: $35/player | $10/additional event\n\nDeadline: April 14\n\nDivisions:\n\n2.5 \\(men’s, women’s & mixed\\),\n\n3.0 \\(men’s, women’s & mixed\\), &\n\n3.5 \\(men’s women’s & mixed\\),\n\n4.0 \\(men’s women’s & mixed\\),\n\nseniors doubles \\(60\\+ and any pairing of partners\\) &\n\nkid’s doubles \\(8-14 years old and any pairing of partners\\)\n\nSchedule:\n\nSenior and kids divisions will play on Friday evening \\(starting at 4:30 pm, with check-in starting at 3:30 pm\\).\n\nMen & Women divisions will play on Saturday, followed by Mixed divisions on Sunday.\n\nSaturday night, there will be a social for participants to attend.\n\nCheck-in will begin at 7:00 am on Saturday with play beginning at 8:00 am. Sunday check in will be at 8:00 am with play starting at 9:00 am.\n\nQuestions? Contact 701-456-2074 for more details.\n\nTHANK YOU TO OUR EVENT SPONSORS!\n\nDakota Community Bank & Trust\n\nSubway\n\nCoke \\(CCBC of Dickinson\\)\n\nBadlands Truck Wash\n\nFour Seasons Trophies\n\nCharbonneau Car Center\n\nPlayers Bar & Grill\n\nScott Karsky, State Farm\n\nSax Motors",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OYoWsqqAA0eL0Br9aZYAfw.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 10.0,
+   "price_max": 35.0,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "West River Community Center",
+    "address": "2004 Fairway Street",
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": "58601",
+    "country": "US",
+    "lat": 46.888736,
+    "lon": -102.81416
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "72fb95b801c1",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "346afb272c2f115c",
+   "summary": "Join us for the 4th Annual Dakota Community Bank & Trust “It’s a Big Dill” Pickleball Tournament at the West River Community Center. Youth and Senior divisions will play on Friday evening; Men and Women will play on…",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Dickinson, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 35,
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "2610016OEfyUbRC02PmU5hXVlpRw",
+   "title": "CTRL Play: Grades 9-12",
+   "start": "2027-04-30T19:00:00-06:00",
+   "end": "2027-04-30T20:30:00-06:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://dickinsonparks.org/event/ctrlplay-apr/",
+   "description": "Ready for an epic night of gaming, snacks, and hanging out with your friends? Join us for CTRL Play in the Golf Simulator/Gaming Room at the WRCC! Whether you’re looking to challenge your friends, discover a new game, or just relax and have fun, this is the place to be.\n\nWe’ll have Xbox and Nintendo Switch consoles available, along with plenty of opportunities to connect with friends and fellow gamers. Enjoy free snacks and drinks throughout the event to keep you fueled for the action.\n\nCome play, compete, and socialize at CTRL Play. We can’t wait to see you there!\n\nThis FREE event is for GRADES 9-12",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5ybmD05rGkic60bKTy3tjQ.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "West River Community Center",
+    "address": "2004 Fairway Street",
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": "58601",
+    "country": "US",
+    "lat": 46.888736,
+    "lon": -102.81416
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "0ce4f7a31c45",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "edf5711f51e9aa1f",
+   "summary": "Ready for an epic night of gaming, snacks, and hanging out with your friends? Join us for CTRL Play in the Golf Simulator/Gaming Room at the WRCC! Whether you’re looking to challenge your friends, discover a new game…",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Dickinson, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 35,
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "watford",
+   "source_event_id": "4631",
+   "title": "One of these Nights: The Ultimate Tribute to the Eagles",
+   "start": "2027-05-13T19:00:00-05:00",
+   "end": "2027-05-13T21:00:00-05:00",
+   "all_day": false,
+   "timezone": "America/Chicago",
+   "url": "https://www.visitwatfordcity.com/Calendar/Details/4631/One-of-these-Nights-The-Ultimate-Tribute-to-the-Eagles",
+   "description": "Get ready to be transported back to the golden era of classic rock! This extraordinary band brings to life the timeless music of the Eagles,. From their flawless harmonies to their electrifying guitar solos, every note and lyric is expertly recreated, delivering an authentic and captivating performance and channeling their unique blend of rock, country, and folk into an unforgettable live experience.\n\nPart of the Watford City Area Concert Series\n\nBecome a member to receive full access to all three concerts in the series, plus our reciprocity concerts or purchase individual tickets\n\nPurchase Membership Here  $50 Membership\n\nPurchase Individual Concert Tickets Here  $30 Individual Tickets\n\nStudents Free",
+   "image": "https://watfordcalendar.blob.core.windows.net/public-images/4631/eagles_1@4x.jpg",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 30.0,
+   "price_max": 50.0,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": null,
+    "address": null,
+    "city": "Watford City",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "d993d249ce05",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "8d9927956e05e55a",
+   "summary": "Get ready to be transported back to the golden era of classic rock! This extraordinary band brings to life the timeless music of the Eagles,. From their flawless harmonies to their electrifying guitar solos, every note…",
+   "source_name": "Watford City events",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Watford City, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 110,
+   "drive_label": "About 1 hr 45 min from Medora · Central time, an hour ahead of Medora",
+   "lat": 47.802241,
+   "lon": -103.283247,
+   "geo_precision": "town"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "261001r1WSdQL-5UmgvFKg2FmKSg",
+   "title": "11th European Heart Congress",
+   "start": "2027-08-09T21:00:00-06:00",
+   "end": null,
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://cardiology.inovinemeetings.com/submit-abstract.php",
+   "description": "The 11th European Heart Congress, taking place on August 09–10, 2027, in London, UK, is a premier international platform dedicated to advancing heart health, cardiac research, innovative therapies, advanced diagnostics, interventional procedures, and patient-centered cardiac care. The congress will bring together cardiologists, heart specialists, interventional specialists, cardiac surgeons, electrophysiologists, heart researchers, physicians, healthcare professionals, academicians, pharmaceutical and biotechnology experts, medical device specialists, and healthcare technology innovators to exchange knowledge, research, clinical experiences, and emerging developments in heart medicine and cardiac care.\n\nUnder the theme “Heart Health in a New Era: Innovation, Precision Medicine & Advanced Cardiac Care,” the congress will explore the rapidly evolving landscape of heart health and cardiac medicine, focusing on precision medicine, advanced heart diagnostics, innovative treatments, minimally invasive procedures, digital heart health, artificial intelligence, heart disease prevention, and personalized approaches to cardiac care. The scientific program will address major areas including coronary artery disease, heart attacks, acute coronary syndromes, heart failure, hypertension, cardiomyopathies, heart valve disease, arrhythmias, electrophysiology, structural heart disease, cardiac imaging, preventive heart care, congenital heart disease, and emerging cardiac therapies.",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ee2f0a83-9733-473b-93e5-618add0cf27d.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": null,
+    "address": null,
+    "city": "New England",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": 46.53918,
+    "lon": -102.86822
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "5174f61e6e56",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "2c521affd45622fe",
+   "summary": "The 11th European Heart Congress, taking place on August 09–10, 2027, in London, UK, is a premier international platform dedicated to advancing heart health, cardiac research, innovative therapies, advanced diagnostics…",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "New England, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 70,
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 46.53918,
+   "lon": -102.86822,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "261001RrTjN_oOD0uyULMFiO320w",
+   "title": "11th European Heart Congress",
+   "start": "2027-08-10T18:00:00-06:00",
+   "end": null,
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://cardiology.inovinemeetings.com/submit-abstract.php",
+   "description": "The 11th European Heart Congress, taking place on August 09–10, 2027, in London, UK, is a premier international platform dedicated to advancing heart health, cardiac research, innovative therapies, advanced diagnostics, interventional procedures, and patient-centered cardiac care. The congress will bring together cardiologists, heart specialists, interventional specialists, cardiac surgeons, electrophysiologists, heart researchers, physicians, healthcare professionals, academicians, pharmaceutical and biotechnology experts, medical device specialists, and healthcare technology innovators to exchange knowledge, research, clinical experiences, and emerging developments in heart medicine and cardiac care.\n\nUnder the theme “Heart Health in a New Era: Innovation, Precision Medicine & Advanced Cardiac Care,” the congress will explore the rapidly evolving landscape of heart health and cardiac medicine, focusing on precision medicine, advanced heart diagnostics, innovative treatments, minimally invasive procedures, digital heart health, artificial intelligence, heart disease prevention, and personalized approaches to cardiac care. The scientific program will address major areas including coronary artery disease, heart attacks, acute coronary syndromes, heart failure, hypertension, cardiomyopathies, heart valve disease, arrhythmias, electrophysiology, structural heart disease, cardiac imaging, preventive heart care, congenital heart disease, and emerging cardiac therapies.",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ee2f0a83-9733-473b-93e5-618add0cf27d.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": null,
+    "address": null,
+    "city": "New England",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": 46.53918,
+    "lon": -102.86822
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "fc7c11f24be3",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "ae9aad552f07a388",
+   "summary": "The 11th European Heart Congress, taking place on August 09–10, 2027, in London, UK, is a premier international platform dedicated to advancing heart health, cardiac research, innovative therapies, advanced diagnostics…",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "New England, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 70,
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 46.53918,
+   "lon": -102.86822,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "2609303SRwkpH4MUCz9k5hSFUnzg",
+   "title": "3rd European Congress on Infectious Diseases & Immunology",
+   "start": "2027-08-11T09:00:00-06:00",
+   "end": "2027-08-11T18:00:00-06:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://infectiousconference.org",
+   "description": "The 3rd European Congress on Infectious Diseases & Immunology, taking place on August 11–12, 2027, in London, UK, is a premier international platform dedicated to advancing infectious disease research, clinical infectious medicine, immunology, microbiology, diagnostics, therapeutics, prevention, and global health. The congress will bring together infectious disease specialists, immunologists, microbiologists, virologists, epidemiologists, clinicians, researchers, healthcare professionals, academicians, pharmaceutical and biotechnology experts, vaccine developers, public health professionals, and medical technology innovators to exchange knowledge, present research, discuss emerging challenges, and explore advances in infection and immune science.",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a39922cc-e7ef-404d-a0aa-9f4a6c91fb14.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": "https://infectiousconference.org/registration.php",
+   "venue": {
+    "name": "UK",
+    "address": "London",
+    "city": "New England",
+    "region": "ND",
+    "postal_code": "58647",
+    "country": "US",
+    "lat": 46.539303,
+    "lon": -102.868036
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "d7d4bb1108de",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "cd1e833048ec6af2",
+   "summary": "The 3rd European Congress on Infectious Diseases & Immunology, taking place on August 11–12, 2027, in London, UK, is a premier international platform dedicated to advancing infectious disease research, clinical…",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "New England, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 70,
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 46.539303,
+   "lon": -102.868036,
+   "geo_precision": "venue"
   }
  ]
 }

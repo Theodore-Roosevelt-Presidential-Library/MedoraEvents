@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:55:35+00:00",
+ "generated": "2026-10-18T16:03:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -14,10 +14,10 @@
   "count": 88,
   "error": null,
   "last_success": "2026-10-18",
-  "checked": "2026-10-18T15:55:34+00:00",
-  "seconds": 0.5
+  "checked": "2026-10-18T16:03:00+00:00",
+  "seconds": 0.6
  },
- "count": 73,
+ "count": 76,
  "events": [
   {
    "source": "cityspark",
@@ -76,7 +76,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -135,7 +138,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -187,7 +193,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -246,7 +255,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -305,7 +317,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -364,7 +379,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -416,7 +434,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -475,7 +496,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -534,7 +558,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -586,7 +613,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -645,7 +675,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.93322,
+   "lon": -102.73793,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -704,7 +737,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.93322,
+   "lon": -102.73793,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -756,7 +792,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -808,7 +847,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.878636,
+   "lon": -102.801396,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -860,7 +902,65 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "260809fbD23EImy0i151-bU8HaCw",
+   "title": "Dickinson State University Men's Basketball vs Doane Univer sity",
+   "start": "2026-10-23",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://dsubluehawks.com/calendar.aspx?game_id=5651andsport_id=6",
+   "description": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5651andsport\\_id=6\n\nDickinson State University Men's Basketball vs Doane University",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa5bfa61-658d-4e5c-8c9b-146f36f52107.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Omaha, Neb",
+    "address": null,
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": 46.87918,
+    "lon": -102.78962
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "36ee9eebafc3",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "30a075efaee6f68d",
+   "summary": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5651andsport\\_id=6 Dickinson State University Men's Basketball vs Doane University",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Dickinson, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 35,
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -919,7 +1019,65 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "260708agnBOZZIn0i753u3eKwkdg",
+   "title": "Dickinson State University Men's Cross Country at Blazing T iger NAIA Classic",
+   "start": "2026-10-24",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://dsubluehawks.com/calendar.aspx?game_id=5620andsport_id=7",
+   "description": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5620andsport\\_id=7\n\nDickinson State University Men's Cross Country at Blazing Tiger NAIA Classic",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eab08c85-6507-46b6-89cb-9dc3711af22d.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Ashland, Neb",
+    "address": null,
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": 46.87918,
+    "lon": -102.78962
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "928038d3b807",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "d71ab91d8b885a84",
+   "summary": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5620andsport\\_id=7 Dickinson State University Men's Cross Country at Blazing Tiger NAIA Classic",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Dickinson, ND",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 35,
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -971,7 +1129,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1030,7 +1191,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1089,7 +1253,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1141,7 +1308,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.879305,
+   "lon": -102.784333,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1200,7 +1370,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.9034433,
+   "lon": -102.74346,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1252,7 +1425,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.880767,
+   "lon": -102.793819,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1311,7 +1487,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1370,7 +1549,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1429,7 +1611,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1481,7 +1666,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1540,7 +1728,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888747,
+   "lon": -102.814867,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1599,7 +1790,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.880102,
+   "lon": -102.786447,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1651,7 +1845,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 20,
-   "drive_label": "About 20 min from Medora"
+   "drive_label": "About 20 min from Medora",
+   "lat": 46.885555,
+   "lon": -103.200706,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1710,7 +1907,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.8819015473,
+   "lon": -102.787194103,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1769,7 +1969,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1821,7 +2024,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1873,7 +2079,65 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "cityspark",
+   "source_event_id": "26101515AdYqsmQUCwexpHsIVphA",
+   "title": "Dickinson State University Men's JV Basketball at Dawson Co mmunity College",
+   "start": "2026-11-14",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://dsubluehawks.com/calendar.aspx?game_id=5702andsport_id=10 17",
+   "description": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5702andsport\\_id=1017\n\nDickinson State University Men's JV Basketball at Dawson Community College",
+   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.large.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": null,
+    "address": null,
+    "city": "Glendive",
+    "region": "MT",
+    "postal_code": null,
+    "country": "US",
+    "lat": 47.10529,
+    "lon": -104.71246
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "4f600193274f",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "296005b63a74c503",
+   "summary": "Category: Athletics Link: https://dsubluehawks.com/calendar.aspx?game\\_id=5702andsport\\_id=1017 Dickinson State University Men's JV Basketball at Dawson Community College",
+   "source_name": "The Dickinson Press community calendar",
+   "also_listed": [],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18",
+   "region_label": "Glendive, MT",
+   "area": "nearby",
+   "area_label": "Out of Medora",
+   "drive_minutes": 35,
+   "drive_label": "About 35 min from Medora",
+   "lat": 47.10529,
+   "lon": -104.71246,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1925,7 +2189,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -1984,7 +2251,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.9034433,
+   "lon": -102.74346,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2036,7 +2306,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 25,
-   "drive_label": "About 25 min from Medora"
+   "drive_label": "About 25 min from Medora",
+   "lat": 46.866657,
+   "lon": -102.990784,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2088,7 +2361,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2140,7 +2416,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2192,7 +2471,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2244,7 +2526,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2296,7 +2581,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2355,7 +2643,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2407,7 +2698,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2459,7 +2753,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2511,7 +2808,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2563,7 +2863,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2615,7 +2918,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2667,7 +2973,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2726,7 +3035,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888747,
+   "lon": -102.814867,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2778,7 +3090,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2830,7 +3145,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2882,7 +3200,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2941,7 +3262,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.87918,
+   "lon": -102.78962,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -2993,7 +3317,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.372331,
+   "lon": -102.756208,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3045,7 +3372,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3097,7 +3427,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3149,7 +3482,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.891263,
+   "lon": -102.798184,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3201,7 +3537,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3253,7 +3592,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3305,7 +3647,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.891263,
+   "lon": -102.798184,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3357,7 +3702,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3409,7 +3757,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3461,7 +3812,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3513,7 +3867,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 75,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 47.3746,
+   "lon": -102.77257,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3565,7 +3922,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3617,7 +3977,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3669,7 +4032,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3721,7 +4087,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3773,7 +4142,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3825,7 +4197,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 35,
-   "drive_label": "About 35 min from Medora"
+   "drive_label": "About 35 min from Medora",
+   "lat": 46.888736,
+   "lon": -102.81416,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3877,7 +4252,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 70,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 46.53918,
+   "lon": -102.86822,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3929,7 +4307,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 70,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 46.53918,
+   "lon": -102.86822,
+   "geo_precision": "venue"
   },
   {
    "source": "cityspark",
@@ -3981,7 +4362,10 @@
    "area": "nearby",
    "area_label": "Out of Medora",
    "drive_minutes": 70,
-   "drive_label": "About 1 hr 15 min from Medora"
+   "drive_label": "About 1 hr 15 min from Medora",
+   "lat": 46.539303,
+   "lon": -102.868036,
+   "geo_precision": "venue"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:55:35+00:00",
+ "generated": "2026-10-18T16:03:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": [
   {
@@ -210,6 +210,21 @@
    "name": "drive_label",
    "type": "string|null",
    "description": "Display text, e.g. 'About 35 min from Medora'."
+  },
+  {
+   "name": "lat",
+   "type": "number|null",
+   "description": "Map latitude (WGS84). Null for online events or places that couldn't be located."
+  },
+  {
+   "name": "lon",
+   "type": "number|null",
+   "description": "Map longitude (WGS84)."
+  },
+  {
+   "name": "geo_precision",
+   "type": "string|null",
+   "description": "'venue' when the pin is the venue itself; 'town' when it is the town center (approximate)."
   },
   {
    "name": "first_seen",
