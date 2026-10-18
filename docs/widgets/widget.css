@@ -167,3 +167,34 @@ a{color:inherit}
   .tre-dates{columns:1}
 }
 @media (prefers-reduced-motion:no-preference){.tre-card,.tre-ev,.tre-wev{transition:background-color .15s}}
+
+/* map view */
+.tre-seg{display:inline-flex}
+.tre-seg .tre-btn{border-radius:0}
+.tre-seg .tre-btn:first-child{border-radius:var(--radius) 0 0 var(--radius)}
+.tre-seg .tre-btn:last-child{border-radius:0 var(--radius) var(--radius) 0;margin-left:-1px}
+.tre-seg .tre-btn[aria-pressed="true"]{background:var(--text);color:var(--bg);border-color:var(--text)}
+.tre-mapwrap{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(260px,1fr);gap:12px;height:560px}
+.tre-map{height:100%;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);z-index:0}
+.tre-maplist{overflow-y:auto;padding-right:4px}
+.tre-maplist .tre-count{margin:0 0 8px}
+.tre-mapnote{color:var(--muted);font-size:13px;margin:10px 0 0}
+.tre-pin{display:flex;align-items:center;justify-content:center;border-radius:50%;background:var(--accent-strong);color:#fff;font:700 13px/1 var(--sans);
+  border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.35);transition:transform .15s}
+.tre-pin.approx{background:var(--bg);color:var(--accent-strong);border:2px dashed var(--accent-strong)}
+.tre-pin.on{background:var(--forest);transform:scale(1.15)}
+.tre-pin.approx.on{background:var(--bg);color:var(--forest);border-color:var(--forest)}
+.tre-place{background:var(--surface);border-left:3px solid var(--accent);border-radius:var(--radius);padding:10px 12px;margin:0 0 8px}
+.tre-place.on{border-left-color:var(--forest);background:var(--surface-2)}
+.tre-place-h{display:flex;justify-content:space-between;align-items:baseline;gap:8px;width:100%;background:none;border:0;padding:0;text-align:left}
+.tre-place-h span{font-family:var(--serif);font-size:18px;line-height:1.2}
+.tre-place-h em{font-style:normal;font-size:12px;color:var(--muted);white-space:nowrap}
+.tre-place-s{margin:2px 0 6px;font-size:13px;color:var(--forest)}
+.tre-place-ev{display:grid;grid-template-columns:52px 1fr;gap:8px;width:100%;background:none;border:0;border-top:1px solid var(--line);padding:6px 0;text-align:left;font-size:14px}
+.tre-place-ev:hover span:last-child{text-decoration:underline}
+.tre-place-ev .d{font-weight:700;color:var(--accent-strong);font-size:12px;text-transform:uppercase;padding-top:2px}
+.tre-place-ev small{display:block;color:var(--muted);font-size:12px}
+.tre-place-more{background:none;border:0;padding:6px 0 0;color:var(--accent-strong);font-size:13px;font-weight:700}
+.tre-place-more:empty{display:none}
+.leaflet-container{font-family:var(--sans)}
+@media (max-width:760px){.tre-mapwrap{grid-template-columns:1fr;height:auto}.tre-map{height:380px}.tre-maplist{max-height:none;overflow:visible}}

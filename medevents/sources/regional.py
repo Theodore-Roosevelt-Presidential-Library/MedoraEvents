@@ -11,6 +11,7 @@ from ..http import get, get_json, _session
 from ..model import Event, Venue, at, clean_text, guess_attendance, guess_cost, parse_clock
 from .generic import TZ
 from .paid import in_region
+from ..geo import MEDORA, MAX_KM, km
 
 CT = "America/Chicago"  # Dickinson/Stark County and Watford City/McKenzie County are Mountain/Central respectively
 
@@ -81,7 +82,12 @@ class dsu:
             cf = {f.get("label"): clean_text(f.get("value")) for f in r.get("customFields") or []}
             desc = clean_text(r.get("description"))
             cost, pmin, pmax, note = guess_cost(" ".join([desc, cf.get("Cost", ""), cf.get("Admission", "")]))
-            loc = clean_text(r.get("location")) or cf.get("Building")
+            loc = clean_text(r.get("location")) or cf.get("Building") or ""
+            # athletics list away games by opponent town ("Billings, Mont."); home games read "Dickinson, N.D., Scott Gymnasium"
+            loc = re.sub(r"^(Dickinson|Dickson)\s*,\s*(N\.\s?D\.)?\s*,?\s*", "", loc).strip(" ,")
+            away = re.fullmatch(r"([A-Z][A-Za-z .']+),\s*([A-Z][a-z]{1,4}\.?|[A-Z]\.\s?[A-Z]\.?)", loc or "")
+            if away:
+                continue   # road game: it isn't happening in Dickinson
             out.append(Event(
                 source="dsu", source_event_id=str(r["eventID"]), title=clean_text(r.get("title")), start=s,
                 end=e if (e and e > s) else None, all_day=all_day, timezone="America/Denver",
@@ -150,6 +156,8 @@ class cityspark:
                 links = it.get("Links") or []
                 if any("dickinsonstate.edu" in (l.get("url") or "") for l in links) or "dickinsonstate.edu" in (it.get("PrimaryUrl") or ""):
                     continue  # read straight from DSU's own calendar
+                if it.get("latitude") and it.get("longitude") and km((float(it["latitude"]), float(it["longitude"])), MEDORA) > 200:
+                    continue   # the Press's radius search leaks far-off listings (Arizona, the UK)
                 tz = CT if "Watford" in (it.get("CityState") or "") else TZ
                 has_time = str(it.get("HasTime")).lower() == "true" and str(it.get("AllDay")).lower() != "true"
                 su = it.get("StartUTC") or it.get("DateStart")

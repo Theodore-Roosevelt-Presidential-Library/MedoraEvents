@@ -24,6 +24,7 @@ from .dedupe import dedupe
 from zoneinfo import ZoneInfo
 
 from .places import classify, drive_label, town_tz
+from .geo import Geocoder
 from .sources import ALL, BY_ID
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -159,6 +160,7 @@ def finalize(events: list[dict], statuses: list[dict]) -> list[dict]:
     # first_seen / last_seen bookkeeping
     state = _read_json(DATA / "state.json", {})
     t = today.isoformat()
+    geo = Geocoder()
     for e in out:
         e.setdefault("also_listed", [])
         e["first_seen"] = state.get(e["id"], t)
@@ -177,6 +179,8 @@ def finalize(events: list[dict], statuses: list[dict]) -> list[dict]:
             e["timezone"] = tz
         e.update(classify(e))
         e["drive_label"] = drive_label(e["drive_minutes"], e.get("timezone"))
+        pin = geo.locate(e)
+        e["lat"], e["lon"], e["geo_precision"] = pin if pin else (None, None, None)
         for key in (e["id"], e["series_id"]):
             if key in edits:
                 e.update(edits[key])
@@ -184,6 +188,7 @@ def finalize(events: list[dict], statuses: list[dict]) -> list[dict]:
     live = {e["id"] for e in out}
     state = {k: v for k, v in state.items() if k in live or v >= cutoff}
     _write_json(DATA / "state.json", state)
+    geo.save()
     out.sort(key=lambda e: (e["start"] if "T" in e["start"] else e["start"] + "T00:00", e["title"]))
     return out
 
@@ -219,7 +224,7 @@ def publish(events: list[dict], statuses: list[dict]) -> None:
     # lightweight index the widgets load
     slim_keys = ["id", "series_id", "source", "title", "summary", "url", "image", "start", "end", "all_day", "timezone",
                  "attendance", "cost", "cost_note", "price_min", "kind", "recurring", "status", "region_label", "relevance",
-                 "registration_url", "area", "area_label", "drive_minutes", "drive_label", "categories"]
+                 "registration_url", "area", "area_label", "drive_minutes", "drive_label", "categories", "lat", "lon", "geo_precision"]
     slim = [{k: e.get(k) for k in slim_keys} | {"venue": (e.get("venue") or {}).get("name"),
                                                  "times": (e.get("extra") or {}).get("times")} for e in events]
     _write_json(API / "widget.json", {**meta, "sources": [{k: s[k] for k in ("id", "name", "short", "url", "type", "region")} for s in statuses + [MANUAL_SOURCE]],

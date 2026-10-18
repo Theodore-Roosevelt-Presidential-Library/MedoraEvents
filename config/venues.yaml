@@ -1,0 +1,20 @@
+# Hand-checked map pins. These always win over automatic geocoding.
+# To fix a pin: find the spot on openstreetmap.org (right-click > "Show address"), copy lat/lon here.
+# aliases: other ways calendars spell the same venue.
+venues:
+  Theodore Roosevelt Presidential Library:
+    lat: 46.9173441
+    lon: -103.5494133
+    aliases: [TR Presidential Library, Theodore Roosevelt Presidential Library Medora]
+  Old Town Hall Theater:
+    lat: 46.9139605
+    lon: -103.5249098
+    aliases: [Old Town Hall Theatre, Old Town Hall]
+  Chateau de Mores:
+    lat: 46.9124256
+    lon: -103.5347822
+    aliases: [Chateau de Mores State Historic Site, Chateau de Morès, Chateau de Morès State Historic Site]
+  Burning Hills Amphitheatre:
+    lat: 46.9144296
+    lon: -103.5455099
+    aliases: [Burning Hills Amphitheater, Medora Musical]

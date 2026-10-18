@@ -1,6 +1,6 @@
 /* TR Events widgets: upcoming list, month calendar, week calendar.
  * Configure with URL parameters (or data- attributes on #tre-app):
- *   view=upcoming|browse|month|week   source=trpl,nps   attendance=in_person,virtual,hybrid   cost=free,paid
+ *   view=upcoming|browse|month|week|map   scope=medora|region (map)   source=trpl,nps   attendance=in_person,virtual,hybrid   cost=free,paid
  *   kind=event,tour,exhibition,program   q=keyword   limit=6   recurring=collapse|show|hide
  *   filters=1|0   more=link|button|scroll   when=week|month|3m   title=Heading   theme=light|dark|auto   bg=transparent   compact=1   link=URL   date=YYYY-MM-DD
  */
@@ -25,8 +25,10 @@
     recurring: opt("recurring", "hide"), when: opt("when", ""), pages: 1,
     more: opt("more", VIEW === "browse" ? "scroll" : "link"),   // link = "see all" link to the site; button = Show more; scroll = Show more + auto-load
     filters: opt("filters", VIEW === "upcoming" ? "0" : "1") === "1",
-    cursor: null, data: null, narrow: false, openPop: false
+    cursor: null, data: null, narrow: false, openPop: false,
+    scope: opt("scope", "medora"), place: null
   };
+  if (VIEW === "map" && !opt("when", "")) state.when = "3m";
   var ATT = { in_person: "In person", virtual: "Virtual", hybrid: "Hybrid" };
   var COST = { free: "Free", paid: "Paid" };
   var ICON = {
@@ -131,7 +133,7 @@
     }
     pop += "</span>";
     var extra = "";
-    if (VIEW === "browse") {
+    if (VIEW === "browse" || VIEW === "map") {
       var whens = [["", "Any time"], ["week", "This week"], ["month", "This month"], ["3m", "Next 3 months"]];
       extra = '<div class="tre-filters tre-filters-top"><label class="tre-search"><span class="tre-vh">Search events</span>' +
         '<input type="search" id="tre-q" placeholder="Search events, places, organizations" value="' + esc(state.q) + '"></label>' +
@@ -139,14 +141,16 @@
     }
     var active = state.sources.length + state.area.length + state.attendance.length + state.cost.length + (state.q ? 1 : 0) + (state.when ? 1 : 0) + (state.recurring !== "hide" ? 1 : 0);
     return extra + '<div class="tre-filters">' + pop + '<span class="tre-sep"></span>' +
-      chip("area", "medora", "In Medora") + chip("area", "nearby", "Out of Medora") + '<span class="tre-sep"></span>' +
+      (VIEW === "map" ? "" : chip("area", "medora", "In Medora") + chip("area", "nearby", "Out of Medora") + '<span class="tre-sep"></span>') +
       '<span class="tre-sep"></span>' + chip("cost", "free", "Free") + chip("cost", "paid", "Paid") +
       '<span class="tre-sep"></span><button class="tre-chip" data-rec="1" aria-pressed="' + (state.recurring !== "hide") + '">Include daily activities</button>' +
       (VIEW === "browse" && active ? '<button class="tre-clear" data-clear="1">Clear filters</button>' : "") + "</div>";
   }
   function header(rangeLabel) {
-    var t = opt("title", VIEW === "upcoming" ? "Upcoming in Medora" : VIEW === "browse" ? "Medora Events" : "Medora Events Calendar");
-    var nav = LIST ? "" :
+    var t = opt("title", VIEW === "upcoming" ? "Upcoming in Medora" : VIEW === "browse" ? "Medora Events" : VIEW === "map" ? "Medora Events Map" : "Medora Events Calendar");
+    var nav = LIST ? "" : VIEW === "map" ?
+      '<div class="tre-seg" role="group" aria-label="Map area"><button class="tre-btn" data-scope="medora" aria-pressed="' + (state.scope === "medora") + '">Medora</button>' +
+      '<button class="tre-btn" data-scope="region" aria-pressed="' + (state.scope === "region") + '">The region</button></div>' :
       '<div class="tre-nav"><button class="tre-btn tre-icon" data-nav="-1" aria-label="Previous">‹</button>' +
       '<div class="tre-range" aria-live="polite">' + esc(rangeLabel) + "</div>" +
       '<button class="tre-btn tre-icon" data-nav="1" aria-label="Next">›</button><button class="tre-btn" data-nav="0">Today</button></div>';
@@ -273,6 +277,108 @@
     app.innerHTML = h + footer();
   }
 
+
+  // ---------- map ----------
+  var L_CDN = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/";
+  var mapObj = null, pinLayer = null, pinByKey = {}, lastScope = null, mapPlaces = [];
+  function loadLeaflet(cb) {
+    if (window.L) return cb();
+    var css = document.createElement("link"); css.rel = "stylesheet"; css.href = L_CDN + "leaflet.min.css"; document.head.appendChild(css);
+    var js = document.createElement("script"); js.src = L_CDN + "leaflet.min.js"; js.onload = cb;
+    js.onerror = function () { app.innerHTML = '<div class="tre-empty">The map could not be loaded right now.</div>'; postHeight(); };
+    document.head.appendChild(js);
+  }
+  function dark() { return document.documentElement.getAttribute("data-theme") === "dark" || (theme === "auto" && window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches); }
+  function townOf(e) { return e.area === "medora" ? "Medora" : (e.region_label || "").split(",")[0] || "Elsewhere"; }
+  function places() {
+    var evs = filtered().filter(function (e) { return eDate(e) >= TODAY && e.attendance !== "virtual"; });
+    if (state.scope === "medora") evs = evs.filter(function (e) { return e.area === "medora"; });
+    evs.sort(function (a, b) { var ka = sDate(a) < TODAY ? TODAY : sDate(a), kb = sDate(b) < TODAY ? TODAY : sDate(b); return ka < kb ? -1 : ka > kb ? 1 : sortKey(a) < sortKey(b) ? -1 : 1; });
+    var groups = {}, order = [], unplaced = 0;
+    collapse(evs).forEach(function (e) {
+      if (e.lat == null) { unplaced++; return; }
+      var key = state.scope === "region" ? townOf(e) : (+e.lat).toFixed(4) + "," + (+e.lon).toFixed(4);
+      var g = groups[key];
+      if (!g) { g = groups[key] = { key: key, evs: [], lat: 0, lon: 0, names: {}, approx: true }; order.push(g); }
+      g.evs.push(e); g.lat += +e.lat; g.lon += +e.lon;
+      if (e.geo_precision === "venue") g.approx = false;
+      var n = state.scope === "region" ? townOf(e) : (e.geo_precision === "town" ? null : e.venue);
+      if (n) g.names[n] = (g.names[n] || 0) + 1;
+    });
+    order.forEach(function (g) {
+      g.lat /= g.evs.length; g.lon /= g.evs.length;
+      var best = Object.keys(g.names).sort(function (a, b) { return g.names[b] - g.names[a]; })[0];
+      g.name = best || townOf(g.evs[0]);
+      if (state.scope === "region") g.approx = false;   // town pins are meant to be towns
+      g.sub = state.scope === "region" ? (g.key === "Medora" ? "Pick Medora above to see venues" : g.evs[0].drive_label || "")
+        : (g.approx ? "In Medora; exact spot not listed" : "");
+    });
+    return { list: order, unplaced: unplaced };
+  }
+  function pinIcon(g, on) {
+    var n = g.evs.length, sz = n > 20 ? 44 : n > 5 ? 36 : 30;
+    return L.divIcon({ className: "", iconSize: [sz, sz], iconAnchor: [sz / 2, sz / 2],
+      html: '<span class="tre-pin' + (g.approx ? " approx" : "") + (on ? " on" : "") + '" style="width:' + sz + "px;height:" + sz + 'px">' + n + "</span>" });
+  }
+  function placeHtml(g) {
+    var open = state.place === g.key, show = open ? g.evs.slice(0, 40) : g.evs.slice(0, 4);
+    return '<section class="tre-place' + (open ? " on" : "") + '" data-place="' + esc(g.key) + '"><button class="tre-place-h" data-place="' + esc(g.key) + '"><span>' + esc(g.name) + "</span>" +
+      '<em>' + g.evs.length + " event" + (g.evs.length === 1 ? "" : "s") + "</em></button>" + (g.sub ? '<p class="tre-place-s">' + esc(g.sub) + "</p>" : "") +
+      show.map(function (e) {
+        var d = sDate(e) < TODAY ? "Now" : fmt(parseYmd(sDate(e)), { month: "short", day: "numeric" });
+        return '<button class="tre-place-ev" data-id="' + e.id + '"><span class="d">' + d + "</span><span>" + esc(e.title) +
+          (e.occurrences > 1 ? ' <small>· ' + e.occurrences + " dates</small>" : "") + (state.scope === "region" && e.venue && e.venue !== g.name ? "<small>" + esc(e.venue) + "</small>" : "") + "</span></button>";
+      }).join("") + (g.evs.length > show.length ? '<button class="tre-place-more" data-place="' + esc(g.key) + '">' + (open ? "" : "Show all " + g.evs.length) + "</button>" : "") + "</section>";
+  }
+  function renderMap() {
+    if (!window.L) { app.innerHTML = '<div class="tre-loading">Loading map…</div>'; loadLeaflet(render); return; }
+    var P = places(); mapPlaces = P.list;
+    if (!app.querySelector(".tre-mapwrap")) {
+      app.innerHTML = '<div class="tre-maptop"></div><div class="tre-mapwrap"><div class="tre-map" id="tre-map" role="region" aria-label="Map of events"></div><div class="tre-maplist" aria-live="polite"></div></div><div class="tre-mapnote"></div>' + footer();
+      mapObj = L.map("tre-map", { scrollWheelZoom: false, zoomControl: true, attributionControl: true });
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark() ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
+        maxZoom: 19, subdomains: "abcd", attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>' }).addTo(mapObj);
+      mapObj.on("focus click", function () { mapObj.scrollWheelZoom.enable(); });
+      mapObj.on("mouseout blur", function () { mapObj.scrollWheelZoom.disable(); });
+      pinLayer = L.layerGroup().addTo(mapObj);
+    }
+    var qEl = document.getElementById("tre-q"), hadFocus = qEl && document.activeElement === qEl, caret = hadFocus ? qEl.selectionStart : 0;
+    app.querySelector(".tre-maptop").innerHTML = header("") + filterBar();
+    if (hadFocus) { qEl = document.getElementById("tre-q"); qEl.focus(); try { qEl.setSelectionRange(caret, caret); } catch (err) {} }
+    pinLayer.clearLayers(); pinByKey = {};
+    P.list.forEach(function (g) {
+      var m = L.marker([g.lat, g.lon], { icon: pinIcon(g, state.place === g.key), title: g.name, keyboard: true, riseOnHover: true });
+      m.on("click", function () { if (state.scope === "region" && g.key === "Medora") { setScope("medora"); return; } selectPlace(g.key, false); });
+      m.addTo(pinLayer); pinByKey[g.key] = m;
+    });
+    var list = app.querySelector(".tre-maplist");
+    list.innerHTML = P.list.length ? '<p class="tre-count">' + P.list.length + (state.scope === "region" ? " town" : " place") + (P.list.length === 1 ? "" : "s") + " · " +
+      P.list.reduce(function (n, g) { return n + g.evs.length; }, 0) + " events</p>" + P.list.map(placeHtml).join("")
+      : '<div class="tre-empty">No events on the map match these filters.</div>';
+    var online = filtered().filter(function (e) { return eDate(e) >= TODAY && e.attendance === "virtual"; }).length;
+    app.querySelector(".tre-mapnote").innerHTML = [
+      state.scope === "medora" ? "Pins show event venues in Medora. Dashed pins mean the calendar didn't name a venue." : "Pins show towns; drive times are approximate, one way from Medora.",
+      online ? online + " online event" + (online === 1 ? "" : "s") + " not shown." : "",
+      P.unplaced ? P.unplaced + " event" + (P.unplaced === 1 ? "" : "s") + " without a location not shown." : ""].filter(Boolean).join(" ");
+    if (lastScope !== state.scope) { lastScope = state.scope; fitPins(); }
+    setTimeout(function () { mapObj.invalidateSize(); }, 0);
+  }
+  function fitPins() {
+    var pts = mapPlaces.map(function (g) { return [g.lat, g.lon]; });
+    if (state.scope === "medora") pts = pts.concat([[46.9139, -103.5244]]);
+    if (!pts.length) { mapObj.setView([46.9139, -103.5244], state.scope === "medora" ? 15 : 8); return; }
+    mapObj.fitBounds(L.latLngBounds(pts).pad(0.15), { maxZoom: state.scope === "medora" ? 16 : 10, animate: false });
+  }
+  function setScope(sc) { state.scope = sc; state.place = null; render(); }
+  function selectPlace(key, fly) {
+    state.place = state.place === key && !fly ? null : key;
+    render();
+    var g = mapPlaces.filter(function (x) { return x.key === key; })[0];
+    if (fly && g) mapObj.flyTo([g.lat, g.lon], Math.max(mapObj.getZoom(), state.scope === "medora" ? 16 : 10), { duration: 0.5 });
+    var sec = app.querySelector('.tre-place[data-place="' + (window.CSS && CSS.escape ? CSS.escape(key) : key) + '"]'), list = app.querySelector(".tre-maplist");
+    if (sec && list) list.scrollTo({ top: sec.offsetTop - list.offsetTop - 8, behavior: "smooth" });
+  }
+
   // ---------- modal ----------
   function byId(id) { return state.data.events.filter(function (e) { return e.id === id; })[0]; }
   function icsFor(e) {
@@ -357,7 +463,7 @@
 
   // ---------- wiring ----------
   function render() {
-    if (VIEW === "month") renderMonth(); else if (VIEW === "week") renderWeek(); else renderUpcoming();
+    if (VIEW === "month") renderMonth(); else if (VIEW === "week") renderWeek(); else if (VIEW === "map") renderMap(); else renderUpcoming();
     postHeight();
   }
   app.addEventListener("click", function (ev) {
@@ -369,6 +475,8 @@
       else state.cursor = addDays(state.cursor, 7 * n);
       render(); return;
     }
+    if (t.dataset.scope) { setScope(t.dataset.scope); return; }
+    if (t.dataset.place !== undefined) { selectPlace(t.dataset.place, t.classList.contains("tre-place-h")); return; }
     if (t.dataset.more) { state.pages++; render(); return; }
     if (t.dataset.when !== undefined) { state.when = t.dataset.when; state.pages = 1; render(); return; }
     if (t.dataset.clear) { state.sources = []; state.area = []; state.attendance = []; state.cost = []; state.q = ""; state.when = ""; state.recurring = "hide"; state.pages = 1; state.openPop = false; render(); return; }
