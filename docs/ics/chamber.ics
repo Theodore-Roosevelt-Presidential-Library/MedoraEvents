@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//MedoraEvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Medora Events — Medora Chamber
+X-WR-CALDESC:Events from Medora Area Chamber of Commerce.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/chamber.ics
+BEGIN:VEVENT
+UID:59305d12847761a0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261107T003000Z
+DTEND:20261107T040000Z
+SUMMARY:Annual Medora’s Hunters Feed
+DESCRIPTION:In person · Free\n\nMedora’s Annual Hunters Feed will be hel
+ d November 6\, 2026. A free-will offering gets you dinner while you play g
+ ames for a chance to win many prizes\, including over 8 different guns. Co
+ me out\, enjoy a fun evening and…\n\nListed by Medora Area Chamber of Co
+ mmerce\n\nhttps://medorachamber.org/event/annual-medoras-hunters-feed-2/
+LOCATION:Medora Community Center\, Medora\, ND
+URL:https://medorachamber.org/event/annual-medoras-hunters-feed-2/
+CATEGORIES:Medora Area Chamber of Commerce,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96886a45245e93ed@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Medora’s Old Fashioned Cowboy Christmas
+DESCRIPTION:In person\n\n🎄 Home for Medora’s Old Fashioned Cowboy Chri
+ stmas in Medora! 🎄 Mark your calendars for December 4–6 and bring the
+  whole family to Medora for a little old-fashioned Christmas magic! Enjoy 
+ a weekend filled with…\n\nListed by Medora Area Chamber of Commerce\n\nh
+ ttps://medorachamber.org/event/medoras-old-fashioned-cowboy-christmas-2/
+LOCATION:Medora City\, Medora\, ND
+URL:https://medorachamber.org/event/medoras-old-fashioned-cowboy-christmas-
+ 2/
+CATEGORIES:Medora Area Chamber of Commerce,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

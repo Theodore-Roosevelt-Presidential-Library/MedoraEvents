@@ -1,0 +1,1281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//MedoraEvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Medora Events — Dickinson Press calendar
+X-WR-CALDESC:Events from The Dickinson Press community calendar.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/cityspark.ics
+BEGIN:VEVENT
+UID:a18d3cb28b857b10@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:HARLAN RAAB ESTATE STARK COUNTY LAND AUCTION
+DESCRIPTION:In person\n\nHARLAN RAAB ESTATE STARK COUNTY LAND AUCTION \\(16
+ 0\\+/- Acres\\) Monday\, October 19\, 2026 at 1:00 p.m.\\(MDT\\) Auction L
+ ocation: Big D&E Ed Praus Auction 1646 South Main - Dickinson\, ND Land Lo
+ cation: SCT:13 TWN:138 RNG:95…\n\nListed by The Dickinson Press communit
+ y calendar\n\nhttps://www.thedickinsonpress.com/calendar
+LOCATION:Big D&E Auction Service\, At the Big D&E - Ed Praus Auction\, Dick
+ inson\, ND
+URL:https://www.thedickinsonpress.com/calendar
+GEO:46.878838;-102.787074
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4d3379ed3bd3f1@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261019T160000Z
+DTEND:20261019T163000Z
+SUMMARY:Tiny Tots Storytime
+DESCRIPTION:In person\n\n20-30 minutes in length. Stories\, music and movem
+ ent activities\, and finger plays for children ages 0 to 2. It is recommen
+ ded that parents/guardians sit with their child/children during Storytime 
+ in the Easy Book Room.\n\nListed by The Dickinson Press community calendar
+ \n\nhttps://www.facebook.com/events/2128440981045703/2161288674427600/?act
+ ive_tab=about
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/2128440981045703/2161288674427600/?acti
+ ve_tab=about
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1608c80f2f9f03db@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261020T000000Z
+DTEND:20261020T010000Z
+SUMMARY:Adult Craft Club: No-Knit Yarn Pumpkins
+DESCRIPTION:In person\n\nCrafty people unite! All skill levels and abilitie
+ s welcome. Craft supplies and instruction provided for the craft. For adul
+ ts 18\\+.\n\nListed by The Dickinson Press community calendar\n\nhttps://w
+ ww.facebook.com/events/1529402258991698/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1529402258991698/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:373d49cea8e38b11@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261020T010000Z
+DTEND:20261020T040000Z
+SUMMARY:Haunted House SET UP
+DESCRIPTION:In person\n\nBuilding: Klinefelter Hall Room: 1st\, 2nd\, 3rd\,
+  4th Fl oor Organizer: Sarah Crossingham Category: Community Events\,Fine 
+ and Performing Arts Audience: Private Link: https://forms.cloud.microsoft/
+ r/GsNV1vsZ3s Prep for…\n\nListed by The Dickinson Press community calend
+ ar\n\nhttps://forms.cloud.microsoft/r/GsNV1vsZ3s
+LOCATION:Klinefelter Hall\, Dickinson\, ND
+URL:https://forms.cloud.microsoft/r/GsNV1vsZ3s
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85ed5165040e7853@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261020T163000Z
+DTEND:20261020T170000Z
+SUMMARY:Pre-School Storytime
+DESCRIPTION:In person\n\n30 minutes in length. Stories\, arts & crafts\, fe
+ lt board stories\, music\, and activities for children ages 3 to 5. Guardi
+ an is not required to sit with child/children but must stay in the Easy Bo
+ ok Room.\n\nListed by The Dickinson Press community calendar\n\nhttps://ww
+ w.facebook.com/events/1804308197655625/1838082857611492/?active_tab=about
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1804308197655625/1838082857611492/?acti
+ ve_tab=about
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e18905cfca369f2@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261020T220000Z
+DTEND:20261020T230000Z
+SUMMARY:Tweens: Haunted Gingerbread Houses
+DESCRIPTION:In person\n\nVarious activities for tweens at the library inclu
+ ding: T.A.B. \\(Tween Advisory Board\\)\, crafts\, gaming\, science projec
+ ts\, and more!\n\nListed by The Dickinson Press community calendar\n\nhttp
+ s://www.facebook.com/events/1745630963408353/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1745630963408353/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8ea47201bfc549@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261021T000000Z
+DTEND:20261021T010000Z
+SUMMARY:Crack the Case: Murder at the Magic Mirror Casino
+DESCRIPTION:In person\n\nA disgraced Las Vegas magician was found dead behi
+ nd the Magic Mirror Casino. Look through a file of suspect profiles\, poli
+ ce reports\, phone/text records\, witness statements\, photographs and oth
+ er evidence to solve this…\n\nListed by The Dickinson Press community ca
+ lendar\n\nhttps://www.facebook.com/events/1095646746198224/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1095646746198224/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f786fcf43f78451@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261021T010000Z
+DTEND:20261021T040000Z
+SUMMARY:Haunted House SET UP
+DESCRIPTION:In person\n\nBuilding: Klinefelter Hall Room: 1st\, 2nd\, 3rd\,
+  4th Fl oor Organizer: Sarah Crossingham Category: Community Events\,Fine 
+ and Performing Arts Audience: Private Link: https://forms.cloud.microsoft/
+ r/GsNV1vsZ3s Prep for…\n\nListed by The Dickinson Press community calend
+ ar\n\nhttps://forms.cloud.microsoft/r/GsNV1vsZ3s
+LOCATION:Klinefelter Hall\, Dickinson\, ND
+URL:https://forms.cloud.microsoft/r/GsNV1vsZ3s
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9b94fcf05cde58@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261021T200000Z
+DTEND:20261021T210000Z
+SUMMARY:Homeschool Hangout
+DESCRIPTION:In person\n\nThis is a dedicated time and space for homeschool 
+ families to connect\, share ideas\, and meet new friends. No registration 
+ needed and snacks provided. A parent/guardian must remain in the library f
+ or the duration of the…\n\nListed by The Dickinson Press community calen
+ dar\n\nhttps://www.facebook.com/events/1735590700829796/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1735590700829796/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:25b0caec1a4eef0e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261021T233000Z
+DTEND:20261022T003000Z
+SUMMARY:Pitter Patter Club: Spooky Boogie Night
+DESCRIPTION:In person\n\nJoin us for this special music class hosted by And
+ reea Evenson! This music class is geared for ages 0-8. Sign-up Required! S
+ ign-up here: https://www.pitterpatterclub.com/event\n\nListed by The Dicki
+ nson Press community calendar\n\nhttps://www.facebook.com/events/165974749
+ 5853140/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1659747495853140/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ab87e3362e354c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261022T010000Z
+DTEND:20261022T040000Z
+SUMMARY:Haunted House SET UP
+DESCRIPTION:In person\n\nBuilding: Klinefelter Hall Room: 1st\, 2nd\, 3rd\,
+  4th Fl oor Organizer: Sarah Crossingham Category: Community Events\,Fine 
+ and Performing Arts Audience: Private Link: https://forms.cloud.microsoft/
+ r/GsNV1vsZ3s Prep for…\n\nListed by The Dickinson Press community calend
+ ar\n\nhttps://forms.cloud.microsoft/r/GsNV1vsZ3s
+LOCATION:Klinefelter Hall\, Dickinson\, ND
+URL:https://forms.cloud.microsoft/r/GsNV1vsZ3s
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:38331e067895648e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261022T140000Z
+DTEND:20261022T150000Z
+SUMMARY:1st Annual Rise & Lead: Women in Business
+DESCRIPTION:In person\n\nWe’re shaking things up this year and going back
+  to our roots—our mission\, our values\, and our passion for supporting 
+ business in our community. Introducing the 1st Annual Rise & Lead: Women i
+ n Business ✨ \\(formerly…\n\nListed by The Dickinson Press community c
+ alendar\n\nhttps://www.facebook.com/events/938439672219195/
+LOCATION:August House Venue\, 10860 33rd St SW\, Dickinson\, ND
+URL:https://www.facebook.com/events/938439672219195/
+GEO:46.93322;-102.73793
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd8ffad2a38c2ed@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261022T160000Z
+DTEND:20261022T210000Z
+SUMMARY:1st Annual Rise & Lead: Women in Business
+DESCRIPTION:In person\n\nWe’re shaking things up this year and going back
+  to our roots—our mission\, our values\, and our passion for supporting 
+ business in our community. Introducing the 1st Annual Rise & Lead: Women i
+ n Business ✨ \\(formerly…\n\nListed by The Dickinson Press community c
+ alendar\n\nhttps://www.facebook.com/events/938439672219195/
+LOCATION:August House Venue\, 10860 33rd St SW\, Dickinson\, ND
+URL:https://www.facebook.com/events/938439672219195/
+GEO:46.93322;-102.73793
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d7d87726ccc018d3@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261023T010000Z
+DTEND:20261023T040000Z
+SUMMARY:Haunted House SET UP
+DESCRIPTION:In person\n\nBuilding: Klinefelter Hall Room: 1st\, 2nd\, 3rd\,
+  4th Fl oor Organizer: Sarah Crossingham Category: Community Events\,Fine 
+ and Performing Arts Audience: Private Link: https://forms.cloud.microsoft/
+ r/GsNV1vsZ3s Prep for…\n\nListed by The Dickinson Press community calend
+ ar\n\nhttps://forms.cloud.microsoft/r/GsNV1vsZ3s
+LOCATION:Klinefelter Hall\, Dickinson\, ND
+URL:https://forms.cloud.microsoft/r/GsNV1vsZ3s
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:369fd9cf23d6aaf0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261023T010000Z
+DTEND:20261023T023000Z
+SUMMARY:Phat Fish Comedy Night
+DESCRIPTION:In person\n\nGet ready to laugh your socks off with some seriou
+ sly funny acts and good vibes all night long!\n\nListed by The Dickinson P
+ ress community calendar\n\nhttps://www.eventbrite.com/e/phat-fish-comedy-n
+ ight-tickets-2002247912405
+LOCATION:Phat Fish Brewing LLC\, 1031 West Villard Street\, Dickinson\, ND
+URL:https://www.eventbrite.com/e/phat-fish-comedy-night-tickets-20022479124
+ 05
+GEO:46.878636;-102.801396
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2f82bae5f481ecb9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Dickinson Pickleball Club Tournament
+DESCRIPTION:In person · Paid\n\nThe Dickinson Pickleball Club is bringing 
+ back the fun with its second pickleball tournament at the West River Commu
+ nity Center! This adult 18\\+ event invites players of all skill levels to
+  join in on the action\, with…\n\nListed by The Dickinson Press communit
+ y calendar\n\nhttps://dickinsonparks.org/event/pickleball-club-tournament/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/pickleball-club-tournament/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:accea4913ace7447@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261024T000000Z
+DTEND:20261024T040000Z
+SUMMARY:Teen Halloween Lock-In
+DESCRIPTION:In person\n\nThis party will take place when the library is clo
+ sed! There will be snacks\, pizza\, a costume contest\, games\, and more H
+ alloween fun! For teens 13-18 ONLY! Sign-up is required and opens 2 weeks 
+ before the event. Sign-up…\n\nListed by The Dickinson Press community ca
+ lendar\n\nhttps://www.facebook.com/events/1398992195736551/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1398992195736551/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2e198ff10abffa@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261024T150000Z
+DTEND:20261024T160000Z
+SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
+DESCRIPTION:In person · Paid\n\nGet ready for Double Dinks: Dink\, Laugh\,
+  Repeat\, a fun\, social\, and inclusive pickleball mini tournament design
+ ed for players of all skill levels! This doubles event features fixed part
+ ners\, with teams consisting of any…\n\nListed by The Dickinson Press co
+ mmunity calendar\n\nhttps://dickinsonparks.org/event/double-dinks-oct/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/double-dinks-oct/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f9785dfb2d49e8f7@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261024T190000Z
+DTEND:20261024T200000Z
+SUMMARY:Saturday Craft Club: Halloween Coasters
+DESCRIPTION:In person\n\nJoin us one Saturday a month between 1:00pm and 3:
+ 00pm for a different crafty activity. All supplies provided. geared for 10
+ \\+\, but all ages welcome.\n\nListed by The Dickinson Press community cal
+ endar\n\nhttps://www.facebook.com/events/1471630641459743/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1471630641459743/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:04d12b137841c588@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261025T000000Z
+DTEND:20261025T010000Z
+SUMMARY:30TH BIRTHDAY BASH! THANK YOU TO.MY COMMUNITY!
+DESCRIPTION:In person\n\nA BIG THANK YOU! TO MY DICKINSON COMMUNITY! MARK Y
+ OUR CALENDAR! I want to Celebrate my 30th Birthday with all of you! Lets P
+ arty! Saturday October 24th! Location: Fluffy Fields Winery Time: 6pm-12am
+ \\(Midnight\\) FOOD…\n\nListed by The Dickinson Press community calendar
+ \n\nhttps://www.facebook.com/events/2048448682544072/?acontext=%7B%22event
+ _action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%
+ 3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D
+LOCATION:Dickinson\, ND
+URL:https://www.facebook.com/events/2048448682544072/?acontext=%7B%22event_
+ action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3
+ A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:792d94015b847e3d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261025T010000Z
+DTEND:20261025T023000Z
+SUMMARY:Dickinson ND\, Mediumship Gallery w/ Tania Rae
+DESCRIPTION:In person\n\nBridging the Gap w/ a Little bit of Heaven on Eart
+ h\n\nListed by The Dickinson Press community calendar\n\nhttps://www.event
+ brite.com/e/dickinson-nd-mediumship-gallery-w-tania-rae-tickets-1999120220
+ 394
+LOCATION:Fraternal Order of Eagles\, 31 1st Avenue East\, Dickinson\, ND
+URL:https://www.eventbrite.com/e/dickinson-nd-mediumship-gallery-w-tania-ra
+ e-tickets-1999120220394
+GEO:46.879305;-102.784333
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e0cb5e2ef3da583d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261025T180500Z
+DTEND:20261025T190500Z
+SUMMARY:Elliot Ficek Estate Coin Auction
+DESCRIPTION:In person\n\nDickinson\, ND\; 12:05 MT: Elliot Ficek Estate Coi
+ n Auction\, October 25th 2026 12:05 \\(MDT\\) Holiday Inn Express\, Auctio
+ n conducted by Schoch Auction Service\n\nListed by The Dickinson Press com
+ munity calendar\n\nhttps://www.thedickinsonpress.com/calendar
+LOCATION:Schoch Auction\, Holiday Inn Express 103 14th St W\, Dickinson\, N
+ D
+URL:https://www.thedickinsonpress.com/calendar
+GEO:46.897058;-102.785379
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e7427bb69095f4ee@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261025T190000Z
+DTEND:20261025T200000Z
+SUMMARY:Jam Session
+DESCRIPTION:In person\n\nOctober Jam Session and Prime Rib Sunday October 2
+ 5\, 11am prime rib\, 1pm \\(new time\\) Jam session.\n\nListed by The Dick
+ inson Press community calendar\n\nhttps://www.facebook.com/events/11159194
+ 90981570/
+LOCATION:2708 21st St E\, Dickinson\, ND
+URL:https://www.facebook.com/events/1115919490981570/
+GEO:46.9034433;-102.74346
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:97be065f07b74632@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261025T200000Z
+DTEND:20261025T210000Z
+SUMMARY:Good News Gospel Concert
+DESCRIPTION:In person · Free\n\nN-Compass Chorus presents Good News Gospel
+  Concert. Special guests will be performing gospel selections at the conce
+ rt. You don’t want to miss it 🎶✝️\n\nListed by The Dickinson Pres
+ s community calendar\n\nhttps://www.thedickinsonpress.com/calendar
+LOCATION:St John Lutheran Church \, 146 6th Ave W \, Dickinson\, ND
+URL:https://www.thedickinsonpress.com/calendar
+GEO:46.880767;-102.793819
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a64ad921f05f09@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261026T160000Z
+DTEND:20261026T163000Z
+SUMMARY:Tiny Tots Storytime
+DESCRIPTION:In person\n\n20-30 minutes in length. Stories\, music and movem
+ ent activities\, and finger plays for children ages 0 to 2. It is recommen
+ ded that parents/guardians sit with their child/children during Storytime 
+ in the Easy Book Room.\n\nListed by The Dickinson Press community calendar
+ \n\nhttps://www.facebook.com/events/2128440981045703/2161288677760933/?act
+ ive_tab=about
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/2128440981045703/2161288677760933/?acti
+ ve_tab=about
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f79f6054f5d01b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261027T163000Z
+DTEND:20261027T170000Z
+SUMMARY:Pre-School Storytime
+DESCRIPTION:In person\n\n30 minutes in length. Stories\, arts & crafts\, fe
+ lt board stories\, music\, and activities for children ages 3 to 5. Guardi
+ an is not required to sit with child/children but must stay in the Easy Bo
+ ok Room.\n\nListed by The Dickinson Press community calendar\n\nhttps://ww
+ w.facebook.com/events/1804308197655625/1838082854278159/?active_tab=about
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1804308197655625/1838082854278159/?acti
+ ve_tab=about
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba6e473eeded9f2@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+SUMMARY:Anime & Manga Club
+DESCRIPTION:In person\n\nAges 10-18. Do you love anime and manga? So do we!
+  Come to this club to talk about anime/manga and get to know other anime l
+ overs over a themed activity and a showing of an anime requested by our cl
+ ub members!\n\nListed by The Dickinson Press community calendar\n\nhttps:/
+ /www.facebook.com/events/1608525617638848/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1608525617638848/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3f855d5093f8d3e3@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261029T213000Z
+DTEND:20261029T233000Z
+SUMMARY:Howl-ween (& Hoomans) Paw-ty
+DESCRIPTION:In person\n\nJoin us for a dog-friendly Halloween bash on the p
+ atio with costume contests\, treat hunts\, and activities for pups and kid
+ s alike. We look forward to seeing all of the costumes and have a great ti
+ me!\n\nListed by The Dickinson Press community calendar\n\nhttps://dickins
+ onparks.org/event/howl-ween-hoomans-paw-ty/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/howl-ween-hoomans-paw-ty/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0ddbc1058ff39cdb@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261031T000000Z
+DTEND:20261031T030000Z
+SUMMARY:West River ICE SCREAM Halloween Party
+DESCRIPTION:In person · Paid\n\nHAPPY HALLOWEEN! Come dressed in your best
+  costume and skate to a live DJ! Free food and refreshments will be availa
+ ble \\(while supplies last\\). We’ll have a photo booth and door prizes 
+ during the event. AGES: All ages…\n\nListed by The Dickinson Press commu
+ nity calendar\n\nhttps://dickinsonparks.org/event/west-river-ice-scream-ha
+ lloween-party/
+LOCATION:West River Ice Center\, 1865 Empire Road\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/west-river-ice-scream-halloween-party/
+GEO:46.888747;-102.814867
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:af5673863363b7f5@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:13th Annual Trick or Trunk
+DESCRIPTION:In person · Free\n\n13th Annual Trick or Trunk Put on your fav
+ orite costume and join the Dickinson Area Chamber of Commerce for the 13th
+  Annual Trick or Trunk on Saturday\, October 31\, from 3:00 PM to 5:00 PM 
+ in Downtown Legacy Square and…\n\nListed by The Dickinson Press communit
+ y calendar\n\nhttps://www.facebook.com/events/1583903103521443/
+LOCATION:Dickinson Legacy Square\, 118 1st Ave W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1583903103521443/
+GEO:46.880102;-102.786447
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:02e6ed154e09ea8e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261106T020000Z
+DTEND:20261106T033000Z
+SUMMARY:Steven Farmer: Live in Belfield ND
+DESCRIPTION:In person\n\nInternationally touring comedian Steven Farmer hea
+ dlines Belfield Theater and Performance Center! \\(Limited Seating\\)\n\nL
+ isted by The Dickinson Press community calendar\n\nhttps://events.massivet
+ ix.com/e/steven-farmer-live-in-belfield?aff=cityspark
+LOCATION:Belfield Theater and Performance Center\, 113 1st Avenue Northwest
+ \, Belfield\, ND
+URL:https://events.massivetix.com/e/steven-farmer-live-in-belfield?aff=city
+ spark
+GEO:46.885555;-103.200706
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6c5c18a86b8cb9b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:West Marches D&D
+DESCRIPTION:In person\n\nIn an effort to include more people\, we are excit
+ ed to introduce our new\, more casual Dungeons & Dragons campaign - West M
+ arches D&D! YOU MAY WANT TO JOIN WEST MARCHES D&D IF… 1. You cannot cons
+ istently show up to game…\n\nListed by The Dickinson Press community cal
+ endar\n\nhttps://www.facebook.com/events/1004475348650242/
+LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
+URL:https://www.facebook.com/events/1004475348650242/
+GEO:46.8819015473;-102.787194103
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fd04347f535f0ebf@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261107T150000Z
+DTEND:20261107T160000Z
+SUMMARY:Fall Optimist Basketball Tournament
+DESCRIPTION:In person · Paid\n\nWelcome to the Annual “FALL” Optimist 
+ Youth Basketball Tournament! All proceeds benefit the Optimist Club of Dic
+ kinson which in turn sponsors many Dickinson youth programs. DIVISIONS: Bo
+ ys & Girls Grades 2-8 ENTRY…\n\nListed by The Dickinson Press community 
+ calendar\n\nhttps://www.facebook.com/events/28831036106514883/
+LOCATION:Dickinson\, ND
+URL:https://www.facebook.com/events/28831036106514883/
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a5eade3d81b7e9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261107T160000Z
+DTEND:20261107T190000Z
+SUMMARY:Dickinson State University Women's Wrestling vs DSU Women&# 3's Ope
+ n
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5588andsport\\_id=19 Dickinson State University W
+ omen's Wrestling vs DSU Women's Open\n\nListed by The Dickinson Press comm
+ unity calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=5588andsp
+ ort_id=19
+LOCATION:Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5588andsport_id=19
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5c285a005847b9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261114T020000Z
+DTEND:20261114T033000Z
+SUMMARY:CTRL Play: Grades 6-8
+DESCRIPTION:In person · Free\n\nReady for an epic night of gaming\, snacks
+ \, and hanging out with your friends? Join us for CTRL Play in the Golf Si
+ mulator/Gaming Room at the WRCC! Whether you’re looking to challenge you
+ r friends\, discover a new game…\n\nListed by The Dickinson Press commun
+ ity calendar\n\nhttps://dickinsonparks.org/event/ctrlplay-nov/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/ctrlplay-nov/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac693d89196b84ed@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261121T040000Z
+DTEND:20261121T060000Z
+SUMMARY:Teen After Hours
+DESCRIPTION:In person · Free\n\nJoin us for an exclusive high school event
+  at the West River Community Center. Whether you’re looking to play some
+  more basketball\, squeeze in another weight-lifting session\, challenge y
+ our friends to a game of Madden…\n\nListed by The Dickinson Press commun
+ ity calendar\n\nhttps://dickinsonparks.org/event/teenafterhours-nov/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/teenafterhours-nov/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9725d5bb4ae6ff0d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261122T010000Z
+DTEND:20261122T020000Z
+SUMMARY:Acoustic Night with Jerilyn Wiseman
+DESCRIPTION:In person\n\nJoin us for a chill Saturday night with Jerilynn W
+ iseman. Jerilyn has been playing music since 2018. She loves to interact w
+ ith the crowd and provide an intimate experience.\n\nListed by The Dickins
+ on Press community calendar\n\nhttps://www.facebook.com/events/17892048889
+ 36686/
+LOCATION:2708 21st St E\, Dickinson\, ND
+URL:https://www.facebook.com/events/1789204888936686/
+GEO:46.9034433;-102.74346
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7952f8cd825192ba@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261201T230000Z
+DTEND:20261202T043000Z
+SUMMARY:Girls Basketball @ South Heart
+DESCRIPTION:In person\n\nStart time is 4:00PM MT\n\nListed by The Dickinson
+  Press community calendar\n\nhttps://www.newtown.k12.nd.us/events
+LOCATION:310 4th St NW\, South Heart\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:46.866657;-102.990784
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26a0d14991dc3707@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Santa Hotline
+DESCRIPTION:In person\n\nHey Kids! Santa wants to know what’s on your Chr
+ istmas list! Sign up to receive a phone call from the North Pole and help 
+ Santa and his elves get ready for Christmas Day. Phone calls will be made 
+ to registered…\n\nListed by The Dickinson Press community calendar\n\nht
+ tps://dickinsonparks.org/event/santa-hotline/
+LOCATION:Dickinson\, ND
+URL:https://dickinsonparks.org/event/santa-hotline/
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d43978000abb2d3@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261204T000000Z
+DTEND:20261204T020000Z
+SUMMARY:Santa Hotline
+DESCRIPTION:In person\n\nHey Kids! Santa wants to know what’s on your Chr
+ istmas list! Sign up to receive a phone call from the North Pole and help 
+ Santa and his elves get ready for Christmas Day. Phone calls will be made 
+ to registered…\n\nListed by The Dickinson Press community calendar\n\nht
+ tps://dickinsonparks.org/event/santa-hotline-2/
+LOCATION:Dickinson\, ND
+URL:https://dickinsonparks.org/event/santa-hotline-2/
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e02274c84de67fdd@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Dickinson State University Women's Wrestling at Doane Open
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5591andsport\\_id=19 Dickinson State University W
+ omen's Wrestling at Doane Open\n\nListed by The Dickinson Press community 
+ calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=5591andsport_id
+ =19
+LOCATION:Crete\, Neb\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5591andsport_id=19
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:05c4803ef5819c72@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261204T230000Z
+DTEND:20261205T010000Z
+SUMMARY:Dickinson State University Women's Basketball at Dakota Sta te Univ
+ ersity
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5526andsport\\_id=13 Dickinson State University W
+ omen's Basketball at Dakota State University\n\nListed by The Dickinson Pr
+ ess community calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=5
+ 526andsport_id=13
+LOCATION:Madison\, S.D\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5526andsport_id=13
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb40cbde7b70d85@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261205T160000Z
+DTEND:20261205T190000Z
+SUMMARY:Dickinson State University Men's Wrestling at Doane Open
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5603andsport\\_id=20 Dickinson State University M
+ en's Wrestling at Doane Open\n\nListed by The Dickinson Press community ca
+ lendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=5603andsport_id=2
+ 0
+LOCATION:Crete\, Neb\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5603andsport_id=20
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3d05e8f8d1ad2d31@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261205T173000Z
+DTEND:20261205T183000Z
+SUMMARY:Jingle Bell 5K
+DESCRIPTION:In person · Paid\n\nJoin Us for Our Holiday-Spirited Annual 5K
+  Run/Walk! 🎄 Kick off the season with fun\, fitness\, and holiday cheer
+ ! Dress in your favorite festive attire and jingle all the way—every par
+ ticipant will receive bells to wear…\n\nListed by The Dickinson Press co
+ mmunity calendar\n\nhttps://dickinsonparks.org/event/jingle-bell-5k/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/jingle-bell-5k/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:28eed3dfacc73b47@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261205T230000Z
+DTEND:20261206T010000Z
+SUMMARY:Dickinson State University Women's Basketball at Bellevue U niversi
+ ty
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5527andsport\\_id=13 Dickinson State University W
+ omen's Basketball at Bellevue University\n\nListed by The Dickinson Press 
+ community calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=5527a
+ ndsport_id=13
+LOCATION:Bellevue\, Neb\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5527andsport_id=13
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fc67f485052b2848@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261207T233500Z
+DTEND:20261208T003500Z
+SUMMARY:Badlands Big Sticks
+DESCRIPTION:In person\n\nA baseball game featuring the Badlands Big Sticks\
+ , with no further details available.\n\nListed by The Dickinson Press comm
+ unity calendar\n\nhttps://northwoodsleague.com/kokomo-jackrabbits/schedule
+ /
+LOCATION:Dickinson\, ND
+URL:https://northwoodsleague.com/kokomo-jackrabbits/schedule/
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b119efd99c63224b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261212T040000Z
+DTEND:20261212T060000Z
+SUMMARY:Teen After Hours: Middle School Edition
+DESCRIPTION:In person · Free\n\nMiddle schoolers\, get ready for an epic n
+ ight at the WRCC! Play basketball\, take on friends in Madden\, or just ki
+ ck back and hang out. This is a FREE event – all middle school students 
+ \\(Grades 6-8\\) welcome!\n\nListed by The Dickinson Press community calen
+ dar\n\nhttps://dickinsonparks.org/event/teensafterhours-middleschool-dec/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/teensafterhours-middleschool-dec/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2136aae80c0d9b3f@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Dickinson State University Women's Basketball vs Bismarck S tate Co
+ llege
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5528andsport\\_id=13 Dickinson State University W
+ omen's Basketball vs Bismarck State College\n\nListed by The Dickinson Pre
+ ss community calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=55
+ 28andsport_id=13
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5528andsport_id=13
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c573c8a8bfdfee6e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+SUMMARY:Dickinson State University Women's Basketball vs Rocky Moun tain Co
+ llege (Mont.)
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5529andsport\\_id=13 Dickinson State University W
+ omen's Basketball vs Rocky Mountain College \\(Mont.\\)\n\nListed by The D
+ ickinson Press community calendar\n\nhttps://dsubluehawks.com/calendar.asp
+ x?game_id=5529andsport_id=13
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5529andsport_id=13
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bd48fbf74775600d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:Dickinson State University Women's Basketball vs Carroll Co llege (
+ Mont.)
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5530andsport\\_id=13 Dickinson State University W
+ omen's Basketball vs Carroll College \\(Mont.\\)\n\nListed by The Dickinso
+ n Press community calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_
+ id=5530andsport_id=13
+LOCATION:Dickson\, Scott Gymnasium\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5530andsport_id=13
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13d4400b06f91914@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270101T010000Z
+DTEND:20270101T040000Z
+SUMMARY:New Year's Eve Skating Party
+DESCRIPTION:In person · Paid\n\nDickinson Parks and Recreation invites you
+  to bring the entire family to our annual New Years’ Eve ice skating par
+ ty! We will have both the Cornerstone and Charbonneau rinks open! Get gear
+ ed up to ring in the new year…\n\nListed by The Dickinson Press communit
+ y calendar\n\nhttps://dickinsonparks.org/event/new-years-eve-skating-party
+ /
+LOCATION:West River Ice Center\, 1865 Empire Road\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/new-years-eve-skating-party/
+GEO:46.888747;-102.814867
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:08171582482f6498@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270101T040000Z
+DTEND:20270101T071500Z
+SUMMARY:Teen After Hours: NYE Party Edition
+DESCRIPTION:In person\n\nGet ready to ring in the new year with an unforget
+ table night packed with excitement\, fun\, and memories! This New Year’s
+  Eve celebration is specially designed for middle school and high school s
+ tudents to say goodbye to…\n\nListed by The Dickinson Press community ca
+ lendar\n\nhttps://dickinsonparks.org/event/teen-after-hours-nye-party-edit
+ ion/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/teen-after-hours-nye-party-edition/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:54ff945e7a3d1bf5@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270115T230000Z
+DTEND:20270116T033000Z
+SUMMARY:Girls Basketball @ Killdeer
+DESCRIPTION:In person\n\nStart Time is 4:00pm MT\n\nListed by The Dickinson
+  Press community calendar\n\nhttps://www.newtown.k12.nd.us/events
+LOCATION:1415 High St NW\, Killdeer\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:47.3746;-102.77257
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad97377490eeb9f@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270116T040000Z
+DTEND:20270116T060000Z
+SUMMARY:Teen After Hours
+DESCRIPTION:In person · Free\n\nJoin us for an exclusive high school event
+  at the West River Community Center. Whether you’re looking to play some
+  more basketball\, squeeze in another weight-lifting session\, challenge y
+ our friends to a game of Madden…\n\nListed by The Dickinson Press commun
+ ity calendar\n\nhttps://dickinsonparks.org/event/teenafterhours-jan/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/teenafterhours-jan/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:21834c410db1be53@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270116T150000Z
+DTEND:20270116T160000Z
+SUMMARY:Winter Optimist Basketball Tournament
+DESCRIPTION:In person · Paid\n\nWelcome to the Optimist Youth Basketball T
+ ournament! All proceeds benefit the Optimist Club of Dickinson which in tu
+ rn sponsors many Dickinson youth programs. DIVISIONS: Boys & Girls Grades 
+ 2-6 TOURNAMENT INFORMATION…\n\nListed by The Dickinson Press community c
+ alendar\n\nhttps://www.facebook.com/events/2128420268553540/
+LOCATION:Dickinson\, ND
+URL:https://www.facebook.com/events/2128420268553540/
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f0e8cf92ac9f45@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270122T230000Z
+DTEND:20270123T011500Z
+SUMMARY:Boys Basketball @ Killdeer
+DESCRIPTION:In person\n\nStart time 4:00pm MT\n\nListed by The Dickinson Pr
+ ess community calendar\n\nhttps://www.newtown.k12.nd.us/events
+LOCATION:101 High St NW\, Killdeer\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:47.372331;-102.756208
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc0979bddfa6575f@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270123T150000Z
+DTEND:20270124T010000Z
+SUMMARY:Beat the Winter Blues
+DESCRIPTION:In person\n\nGet out of the cold and join us for a fun-filled d
+ ay indoors at the West River Community Center! You and your family can enj
+ oy a variety of exciting activities all day long\, including inflatables\,
+  music\, crafts\, pool…\n\nListed by The Dickinson Press community calen
+ dar\n\nhttps://dickinsonparks.org/event/beat-the-winter-blues/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/beat-the-winter-blues/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d745d761f48e6562@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270130T160000Z
+DTEND:20270130T170000Z
+SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
+DESCRIPTION:In person · Paid\n\nGet ready for Double Dinks: Dink\, Laugh\,
+  Repeat\, a fun\, social\, and inclusive pickleball mini tournament design
+ ed for players of all skill levels! This doubles event features fixed part
+ ners\, with teams consisting of any…\n\nListed by The Dickinson Press co
+ mmunity calendar\n\nhttps://dickinsonparks.org/event/double-dinks-jan/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/double-dinks-jan/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78aae00d85d9a152@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270205T230000Z
+DTEND:20270206T040000Z
+SUMMARY:Girls Basketball @ Dickinson Trinity
+DESCRIPTION:In person\n\nStart time is 4:00pm MT\n\nListed by The Dickinson
+  Press community calendar\n\nhttps://www.newtown.k12.nd.us/events
+LOCATION:810 Empire Rd\, Dickinson\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:46.891263;-102.798184
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a59129c8229ac5@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Rogina Cusic Memorial Tennis Tournament
+DESCRIPTION:In person · Paid\n\nTake part in our annual Rogina Cusic Memor
+ ial Doubles Tennis Tournament at the West River Community Center. Particip
+ ants of all skill levels are welcome to register. Please join us in celebr
+ ating the life of Rogina…\n\nListed by The Dickinson Press community cal
+ endar\n\nhttps://dickinsonparks.org/event/rogina-cusic-tennis-tournament/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/rogina-cusic-tennis-tournament/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ec8db9e65778b67c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270213T040000Z
+DTEND:20270213T060000Z
+SUMMARY:Teen After Hours: Middle School Edition
+DESCRIPTION:In person · Free\n\nMiddle schoolers\, get ready for an epic n
+ ight at the WRCC! Play basketball\, take on friends in Madden\, or just ki
+ ck back and hang out. This is a FREE event – all middle school students 
+ \\(Grades 6-8\\) welcome!\n\nListed by The Dickinson Press community calen
+ dar\n\nhttps://dickinsonparks.org/event/teenafterhours-middleschool-feb/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/teenafterhours-middleschool-feb/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0d56515fdd3eef31@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270219T230000Z
+DTEND:20270220T040000Z
+SUMMARY:Boys Basketball @ Dickinson Trinity
+DESCRIPTION:In person\n\nStart time is 4:00pm MT\n\nListed by The Dickinson
+  Press community calendar\n\nhttps://www.newtown.k12.nd.us/events
+LOCATION:810 Empire Rd\, Dickinson\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:46.891263;-102.798184
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:608611dd0cebecfa@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270220T020000Z
+DTEND:20270220T033000Z
+SUMMARY:CTRL Play: Grades 9-12
+DESCRIPTION:In person · Free\n\nReady for an epic night of gaming\, snacks
+ \, and hanging out with your friends? Join us for CTRL Play in the Golf Si
+ mulator/Gaming Room at the WRCC! Whether you’re looking to challenge you
+ r friends\, discover a new game…\n\nListed by The Dickinson Press commun
+ ity calendar\n\nhttps://dickinsonparks.org/event/ctrlplay-feb/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/ctrlplay-feb/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10e81162a00486b7@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270222T230000Z
+DTEND:20270223T040000Z
+SUMMARY:Girls Basketball Regional Tournament
+DESCRIPTION:In person\n\nA regional tournament for girls high school basket
+ ball in Killdeer.\n\nListed by The Dickinson Press community calendar\n\nh
+ ttps://www.newtown.k12.nd.us/events
+LOCATION:1415 High St NW\, Killdeer\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:47.3746;-102.77257
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f84083fd7d8b406e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270223T230000Z
+DTEND:20270224T040000Z
+SUMMARY:Girls Basketball Regional Tournament
+DESCRIPTION:In person\n\nA regional tournament for girls high school basket
+ ball in Killdeer.\n\nListed by The Dickinson Press community calendar\n\nh
+ ttps://www.newtown.k12.nd.us/events
+LOCATION:1415 High St NW\, Killdeer\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:47.3746;-102.77257
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ee920fe0e02301@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270225T230000Z
+DTEND:20270226T040000Z
+SUMMARY:Girls Basketball Regional Tournament
+DESCRIPTION:In person\n\nA regional tournament for girls high school basket
+ ball in Killdeer.\n\nListed by The Dickinson Press community calendar\n\nh
+ ttps://www.newtown.k12.nd.us/events
+LOCATION:1415 High St NW\, Killdeer\, ND
+URL:https://www.newtown.k12.nd.us/events
+GEO:47.3746;-102.77257
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7096139c9207e8@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270306T160000Z
+DTEND:20270306T170000Z
+SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
+DESCRIPTION:In person · Paid\n\nGet ready for Double Dinks: Dink\, Laugh\,
+  Repeat\, a fun\, social\, and inclusive pickleball mini tournament design
+ ed for players of all skill levels! This doubles event features fixed part
+ ners\, with teams consisting of any…\n\nListed by The Dickinson Press co
+ mmunity calendar\n\nhttps://dickinsonparks.org/event/double-dinks-mar/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/double-dinks-mar/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ccb32f8bc1bedd@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270313T020000Z
+DTEND:20270313T033000Z
+SUMMARY:CTRL Play: Grades 6-8
+DESCRIPTION:In person · Free\n\nReady for an epic night of gaming\, snacks
+ \, and hanging out with your friends? Join us for CTRL Play in the Golf Si
+ mulator/Gaming Room at the WRCC! Whether you’re looking to challenge you
+ r friends\, discover a new game…\n\nListed by The Dickinson Press commun
+ ity calendar\n\nhttps://dickinsonparks.org/event/ctrlplay-mar/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/ctrlplay-mar/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc9c1ee68405adf@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270320T030000Z
+DTEND:20270320T050000Z
+SUMMARY:Teen After Hours
+DESCRIPTION:In person · Free\n\nJoin us for an exclusive high school event
+  at the West River Community Center. Whether you’re looking to play some
+  more basketball\, squeeze in another weight-lifting session\, challenge y
+ our friends to a game of Madden…\n\nListed by The Dickinson Press commun
+ ity calendar\n\nhttps://dickinsonparks.org/event/teenafterhours-mar/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/teenafterhours-mar/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:27e237f3ab27a740@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270410T030000Z
+DTEND:20270410T050000Z
+SUMMARY:Teen After Hours: Middle School Edition
+DESCRIPTION:In person · Free\n\nMiddle schoolers\, get ready for an epic n
+ ight at the WRCC! Play basketball\, take on friends in Madden\, or just ki
+ ck back and hang out. This is a FREE event – all middle school students 
+ \\(Grades 6-8\\) welcome!\n\nListed by The Dickinson Press community calen
+ dar\n\nhttps://dickinsonparks.org/event/teenafterhours-middleschool-apr/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/teenafterhours-middleschool-apr/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:346afb272c2f115c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:"It's a Big Dill" Pickleball Tournament
+DESCRIPTION:In person · Paid\n\nJoin us for the 4th Annual Dakota Communit
+ y Bank & Trust “It’s a Big Dill” Pickleball Tournament at the West R
+ iver Community Center. Youth and Senior divisions will play on Friday even
+ ing\; Men and Women will play on…\n\nListed by The Dickinson Press commu
+ nity calendar\n\nhttps://dickinsonparks.org/event/pickleball-tournament/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/pickleball-tournament/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:edf5711f51e9aa1f@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270501T010000Z
+DTEND:20270501T023000Z
+SUMMARY:CTRL Play: Grades 9-12
+DESCRIPTION:In person · Free\n\nReady for an epic night of gaming\, snacks
+ \, and hanging out with your friends? Join us for CTRL Play in the Golf Si
+ mulator/Gaming Room at the WRCC! Whether you’re looking to challenge you
+ r friends\, discover a new game…\n\nListed by The Dickinson Press commun
+ ity calendar\n\nhttps://dickinsonparks.org/event/ctrlplay-apr/
+LOCATION:West River Community Center\, 2004 Fairway Street\, Dickinson\, ND
+URL:https://dickinsonparks.org/event/ctrlplay-apr/
+GEO:46.888736;-102.81416
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c521affd45622fe@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270810T030000Z
+DTEND:20270810T040000Z
+SUMMARY:11th European Heart Congress
+DESCRIPTION:In person\n\nThe 11th European Heart Congress\, taking place on
+  August 09–10\, 2027\, in London\, UK\, is a premier international platf
+ orm dedicated to advancing heart health\, cardiac research\, innovative th
+ erapies\, advanced diagnostics…\n\nListed by The Dickinson Press communi
+ ty calendar\n\nhttps://cardiology.inovinemeetings.com/submit-abstract.php
+LOCATION:New England\, ND
+URL:https://cardiology.inovinemeetings.com/submit-abstract.php
+GEO:46.53918;-102.86822
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9aad552f07a388@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270811T000000Z
+DTEND:20270811T010000Z
+SUMMARY:11th European Heart Congress
+DESCRIPTION:In person\n\nThe 11th European Heart Congress\, taking place on
+  August 09–10\, 2027\, in London\, UK\, is a premier international platf
+ orm dedicated to advancing heart health\, cardiac research\, innovative th
+ erapies\, advanced diagnostics…\n\nListed by The Dickinson Press communi
+ ty calendar\n\nhttps://cardiology.inovinemeetings.com/submit-abstract.php
+LOCATION:New England\, ND
+URL:https://cardiology.inovinemeetings.com/submit-abstract.php
+GEO:46.53918;-102.86822
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1e833048ec6af2@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270811T150000Z
+DTEND:20270812T000000Z
+SUMMARY:3rd European Congress on Infectious Diseases & Immunology
+DESCRIPTION:In person\n\nThe 3rd European Congress on Infectious Diseases &
+  Immunology\, taking place on August 11–12\, 2027\, in London\, UK\, is 
+ a premier international platform dedicated to advancing infectious disease
+  research\, clinical…\n\nListed by The Dickinson Press community calenda
+ r\n\nhttps://infectiousconference.org
+LOCATION:UK\, London\, New England\, ND
+URL:https://infectiousconference.org
+GEO:46.539303;-102.868036
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

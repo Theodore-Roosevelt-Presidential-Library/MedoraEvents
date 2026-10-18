@@ -1,0 +1,511 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//MedoraEvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Medora Events — Watford City
+X-WR-CALDESC:Events from Watford City events.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/watford.ics
+BEGIN:VEVENT
+UID:464c44dc2a133f9f@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261018T200000Z
+DTEND:20261018T220000Z
+SUMMARY:Nu Blu Concert
+DESCRIPTION:In person · Paid\n\nOne the top acoustic acts in the music ind
+ ustry. Led by husband and wife\, Daniel and Carolyn Routh\, Nu-Blu deliver
+ s a warm\, layered Appalachian sound. Blending seamless vocal harmonies\, 
+ they deliver upbeat…\n\nListed by Watford City events\n\nhttps://www.vis
+ itwatfordcity.com/Calendar/Details/4633/One-of-these-Nights-The-Ultimate-T
+ ribute-to-the-Eagles
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4633/One-of-these-Nig
+ hts-The-Ultimate-Tribute-to-the-Eagles
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2df4441aee968ff1@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261020T210000Z
+DTEND:20261021T010000Z
+SUMMARY:Artist's Open Studio: October
+DESCRIPTION:In person · Free\n\n🎨 Open Studio at Long X Art Center Look
+ ing for a creative space to paint\, draw\, and connect? Join us for Open S
+ tudio\, a relaxed time for artists of all levels to create\, share ideas\,
+  and enjoy being part of a supportive…\n\nListed by Watford City events\
+ n\nhttps://www.visitwatfordcity.com/Calendar/Details/4703/Artist-s-Open-St
+ udio-October
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4703/Artist-s-Open-St
+ udio-October
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:08bd48939cef3570@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261020T233030Z
+DTEND:20261021T010000Z
+SUMMARY:Trivia Tuesday at Stonehome Brewing Co
+DESCRIPTION:In person\n\nJoin us every Tuesday in October at 6:30 PM for Tr
+ ivia Tuesday at Stonehome! Test your knowledge\, enjoy great food and drin
+ ks\, and compete for a fun night out. Call 701-444-2337 to reserve your te
+ ams spot.\n\nListed by Watford City events\n\nhttps://www.visitwatfordcity
+ .com/Calendar/Details/4691/Trivia-Tuesday-at-Stonehome-Brewing-Co
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4691/Trivia-Tuesday-a
+ t-Stonehome-Brewing-Co
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c7ba4bfb59fdba6@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261024T050000Z
+DTEND:20261024T060000Z
+SUMMARY:Live Podcast Midwest Murder
+DESCRIPTION:In person\n\nMidwest Murder Live Podcast Returns to the Rough R
+ ider Center! Get ready\, Watford City—Midwest Murder is coming back to t
+ he Rough Rider Center on October 25th! Join us for another unforgettable M
+ idwest Murder Live…\n\nListed by Watford City events\n\nhttps://www.visi
+ twatfordcity.com/Calendar/Details/4622/Live-Podcast-Midwest-Murder
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4622/Live-Podcast-Mid
+ west-Murder
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:973e73ee260ab5bf@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261024T180000Z
+DTEND:20261024T220000Z
+SUMMARY:Private Guitar Lessons: October
+DESCRIPTION:In person · Paid\n\nPrivate lessons to amplify your skills. Jo
+ in local musician Dave Cooper for private guitar lessons in the Long X Art
+ s Gallery Available Courses: Electric Guitar Acoustic Guitar Bass Guitar U
+ kulele Mandolin Banjo Lessons…\n\nListed by Watford City events\n\nhttps
+ ://www.visitwatfordcity.com/Calendar/Details/4701/Private-Guitar-Lessons-O
+ ctober
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4701/Private-Guitar-L
+ essons-October
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d2164cc37449a5fa@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:Watercolor Sip 'n Paint: Scary Silhouette
+DESCRIPTION:In person\n\nUnwind and tap into your creative side with a spoo
+ ky afternoon of art! Join us for a Halloween-themed Watercolor Sip 'n Pain
+ t featuring a chilling Scary Silhouette design. Whether you're an experien
+ ced watercolorist or…\n\nListed by Watford City events\n\nhttps://www.vi
+ sitwatfordcity.com/Calendar/Details/4702/Watercolor-Sip-n-Paint-Scary-Silh
+ ouette
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4702/Watercolor-Sip-n
+ -Paint-Scary-Silhouette
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4a89dac0e2587e0a@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261024T200000Z
+DTEND:20261024T210000Z
+SUMMARY:Broncs in the Bakken
+DESCRIPTION:In person · Paid\n\nJoin us for the 10th Annual Broncs in the 
+ Bakken on Saturday\, October 24\, at 3:00 p.m. in the indoor arena at the 
+ McKenzie County Ag Expo. Produced by Stan Headings\, this premier ABHA-san
+ ctioned Bucking Horse Futurity…\n\nListed by Watford City events\n\nhttp
+ s://www.visitwatfordcity.com/Calendar/Details/4596/Broncs-in-the-Bakken
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4596/Broncs-in-the-Ba
+ kken
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15e8149b9f0a0b2d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261027T233030Z
+DTEND:20261028T010000Z
+SUMMARY:Trivia Tuesday at Stonehome Brewing Co
+DESCRIPTION:In person\n\nJoin us every Tuesday in October at 6:30 PM for Tr
+ ivia Tuesday at Stonehome! Test your knowledge\, enjoy great food and drin
+ ks\, and compete for a fun night out. Call 701-444-2337 to reserve your te
+ ams spot.\n\nListed by Watford City events\n\nhttps://www.visitwatfordcity
+ .com/Calendar/Details/4691/Trivia-Tuesday-at-Stonehome-Brewing-Co
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4691/Trivia-Tuesday-a
+ t-Stonehome-Brewing-Co
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:263e03d0f5c679d0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261029T210000Z
+DTEND:20261029T223030Z
+SUMMARY:Bat Night
+DESCRIPTION:In person\n\nLooking to learn more about bats and have some fun
+  too? Join us on October 29 for Bat Night! See poster for all the details!
+ \n\nListed by Watford City events\n\nhttps://www.visitwatfordcity.com/Cale
+ ndar/Details/4740/Bat-Night-
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4740/Bat-Night-
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce865289a6a03d0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261030T200000Z
+DTEND:20261030T220000Z
+SUMMARY:Trail of Treats
+DESCRIPTION:In person\n\nJoin Watford City area businesses for a safe and f
+ un Halloween!\n\nListed by Watford City events\n\nhttps://www.visitwatford
+ city.com/Calendar/Details/4710/Trail-of-Treats
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4710/Trail-of-Treats
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e77c8243b1e2f211@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261030T233030Z
+DTEND:20261031T040000Z
+SUMMARY:Haunted Corn Maze
+DESCRIPTION:In person\n\nThink you’re brave enough to make it through? Ge
+ t ready for a night of frights\, surprises and plenty of scares at the Ag 
+ Expo Haunted Maze! On October 30 & 31\, the maze will come alive with live
+  actors lurking around…\n\nListed by Watford City events\n\nhttps://www.
+ visitwatfordcity.com/Calendar/Details/4722/Haunted-Corn-Maze
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4722/Haunted-Corn-Maz
+ e
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:21731f83d4428973@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261031T150000Z
+DTEND:20261031T210000Z
+SUMMARY:Paint Your Own Pottery Open Studio: October
+DESCRIPTION:In person · Paid\n\n🎃 HALLOWEEN PAINT YOUR OWN POTTERY! 
+ 🎃 October 31 | 10 AM – 4 PM Get into the Halloween spirit with a fun\
+ , kid-friendly day of Paint Your Own Pottery! Walk in or pre-register to c
+ hoose from a variety of pottery pieces…\n\nListed by Watford City events
+ \n\nhttps://www.visitwatfordcity.com/Calendar/Details/4699/Paint-Your-Own-
+ Pottery-Open-Studio-October
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4699/Paint-Your-Own-P
+ ottery-Open-Studio-October
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:841a77d11c1ecfcb@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261031T233030Z
+DTEND:20261101T040000Z
+SUMMARY:Haunted Corn Maze
+DESCRIPTION:In person\n\nThink you’re brave enough to make it through? Ge
+ t ready for a night of frights\, surprises and plenty of scares at the Ag 
+ Expo Haunted Maze! On October 30 & 31\, the maze will come alive with live
+  actors lurking around…\n\nListed by Watford City events\n\nhttps://www.
+ visitwatfordcity.com/Calendar/Details/4722/Haunted-Corn-Maze
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4722/Haunted-Corn-Maz
+ e
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:374373ebccdbfa61@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261101T050000Z
+DTEND:20270115T070000Z
+SUMMARY:Deck the Hall | Christmas Tree Competition
+DESCRIPTION:In person · Paid\n\nGet ready to deck the halls and show off y
+ our holiday creativity! Deck the Halls is a festive Christmas tree decorat
+ ing competition where teams\, businesses\, organizations\, and community m
+ embers can transform a Christmas…\n\nListed by Watford City events\n\nht
+ tps://www.visitwatfordcity.com/Calendar/Details/4726/Deck-the-Hall-Christm
+ as-Tree-Competition
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4726/Deck-the-Hall-Ch
+ ristmas-Tree-Competition
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9d18cf039fdd887c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261102T233000Z
+DTEND:20261103T040000Z
+SUMMARY:Chefs Table x Gyno Babia
+DESCRIPTION:In person · Paid\n\nThe Chef’s Table × Gyno Babia Join us f
+ or an unforgettable evening at the Rough Rider Center as Chef Gyno Babia o
+ f The Brickhouse presents an exclusive five-course culinary experience. Ea
+ ch chef-curated course will be…\n\nListed by Watford City events\n\nhttp
+ s://www.visitwatfordcity.com/Calendar/Details/4715/Chefs-Table-x-Gyno-Babi
+ a-
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4715/Chefs-Table-x-Gy
+ no-Babia-
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:707e3de75e6ba842@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261108T000000Z
+DTEND:20261108T020000Z
+SUMMARY:North Dakota Stagefest
+DESCRIPTION:In person · Paid\n\nExperience the performing talents of commu
+ nity actors from Grand Forks\, Elgin\, Williston\, and Mckenzie County all
+  in one night! Four community theaters\, Greater Grand Forks Community The
+ atre\, Entertainment\, Inc.…\n\nListed by Watford City events\n\nhttps:/
+ /www.visitwatfordcity.com/Calendar/Details/4733/North-Dakota-Stagefest
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4733/North-Dakota-Sta
+ gefest
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a73186b674e7af4e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261112T220000Z
+DTEND:20261113T020000Z
+SUMMARY:20th Annual Holiday Extravaganza
+DESCRIPTION:In person\n\nSupper! Shopping! Sweet treats! All under one roof
+  for one night! This event showcases many home-based businesses in the are
+ a\, as well as a few local stores\, bringing you a unique Christmas shoppi
+ ng experience!\n\nListed by Watford City events\n\nhttps://www.visitwatfor
+ dcity.com/Calendar/Details/4184/19th-Annual-Holiday-Extravaganza
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4184/19th-Annual-Holi
+ day-Extravaganza
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eac91d541384f26e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261114T160000Z
+DTEND:20261114T220000Z
+SUMMARY:Clay Sculpting Open Studio -November
+DESCRIPTION:In person · Paid\n\nClay Sculpting Open Studio 👐✨ Join us
+  for a hands-on Clay Sculpting Open Studio where creativity takes shape! E
+ ach person receives 1 pound of clay included in the $45 price\, with the o
+ ption to add extra clay for $10 per…\n\nListed by Watford City events\n\
+ nhttps://www.visitwatfordcity.com/Calendar/Details/4731/Clay-Sculpting-Ope
+ n-Studio-November-
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4731/Clay-Sculpting-O
+ pen-Studio-November-
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d072b7379f1d009b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261117T220000Z
+DTEND:20261118T020000Z
+SUMMARY:Artist's Open Studio: November
+DESCRIPTION:In person · Free\n\nLooking for a creative space to paint\, dr
+ aw\, and connect? Join us for Open Studio\, a relaxed time for artists of 
+ all levels to create\, share ideas\, and enjoy being part of a supportive 
+ art community. Bring your own…\n\nListed by Watford City events\n\nhttps
+ ://www.visitwatfordcity.com/Calendar/Details/4730/Artist-s-Open-Studio-Nov
+ ember-
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4730/Artist-s-Open-St
+ udio-November-
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f2011856e66ceb3@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261117T230000Z
+DTEND:20261118T020000Z
+SUMMARY:Turkey Bingo
+DESCRIPTION:In person\n\nTurkey Bingo will held on Tuesday\, November 17 at
+  the Middle School Commons Area in conjunction with the 4H Soup and Sandwi
+ ch Supper. Supper is at 5:00 and Bingo starts at 6:30.\n\nListed by Watfor
+ d City events\n\nhttps://www.visitwatfordcity.com/Calendar/Details/4711/Tu
+ rkey-Bingo-and-4H-Soup-and-Sandwich-Supper
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4711/Turkey-Bingo-and
+ -4H-Soup-and-Sandwich-Supper
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5534533bbb3e36@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261122T010000Z
+DTEND:20261122T050000Z
+SUMMARY:Harmony for Hope
+DESCRIPTION:In person · Free\n\nJoin us for a fun\, acapella filled evenin
+ g with amazing drinks\, charcuterie\, and desserts along with fun auction 
+ items! Harmony for Hope An Evening of Music\, Celebration & Giving Join th
+ e Benefit Fund of McKenzie Health…\n\nListed by Watford City events\n\nh
+ ttps://www.visitwatfordcity.com/Calendar/Details/4734/Harmony-for-Hope
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4734/Harmony-for-Hope
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d895061dd1a2d7c4@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261128T003030Z
+DTEND:20261128T013030Z
+SUMMARY:Parade of Lights
+DESCRIPTION:In person\n\nCome see the parade featuring Santa\, hot coco\, a
+ nd plenty of lights! This year’s parade will start at the old Fairground
+ s and head west on 4th Avenue\, turn south on Main Street and end with fir
+ eworks.\n\nListed by Watford City events\n\nhttps://www.visitwatfordcity.c
+ om/Calendar/Details/4712/Parade-of-Lights
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4712/Parade-of-Lights
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2b82fcde5bfb03a1@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261128T160000Z
+DTEND:20261128T220000Z
+SUMMARY:Paint Your Own Pottery: November
+DESCRIPTION:In person · Paid\n\n🍂🦃 Give Thanks & Get Creative! 🦃
+ 🍂 Gather your family and friends and stop by the gallery for a cozy pot
+ tery painting experience! 🎨🍁 Choose your favorite piece—from bowls
+  and figurines to banks\, boxes\, and more—and paint…\n\nListed by Wat
+ ford City events\n\nhttps://www.visitwatfordcity.com/Calendar/Details/4732
+ /Paint-Your-Own-Pottery-November-
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4732/Paint-Your-Own-P
+ ottery-November-
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c626546edf0aa63@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261203T013030Z
+DTEND:20261203T033030Z
+SUMMARY:Magical Medora Christmas
+DESCRIPTION:In person\n\nThe Christmas spirit is coming to Watford City in 
+ early December! The Magical Medora Christmas Tour 2026 is bringing an even
+ ing of professional music and holiday joy to the stage. Our talented cast 
+ of musicians…\n\nListed by Watford City events\n\nhttps://www.visitwatfo
+ rdcity.com/Calendar/Details/4735/Magical-Medora-Christmas
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4735/Magical-Medora-C
+ hristmas
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c8908a29b34a7859@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261205T160000Z
+DTEND:20261205T220000Z
+SUMMARY:Clay Sculpting Open Studio -December
+DESCRIPTION:In person · Paid\n\nClay Sculpting Open Studio 👐✨ Join us
+  for a hands-on Clay Sculpting Open Studio where creativity takes shape! E
+ ach person receives 1 pound of clay included in the $45 price\, with the o
+ ption to add extra clay for $10 per…\n\nListed by Watford City events\n\
+ nhttps://www.visitwatfordcity.com/Calendar/Details/4741/Clay-Sculpting-Ope
+ n-Studio-December
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4741/Clay-Sculpting-O
+ pen-Studio-December
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b3aab5dddcbdc1@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261209T220000Z
+DTEND:20261210T020000Z
+SUMMARY:Artist's Open Studio: December
+DESCRIPTION:In person · Free\n\n🎨 Open Studio at Long X Art Center Look
+ ing for a creative space to paint\, draw\, and connect? Join us for Open S
+ tudio\, a relaxed time for artists of all levels to create\, share ideas\,
+  and enjoy being part of a supportive…\n\nListed by Watford City events\
+ n\nhttps://www.visitwatfordcity.com/Calendar/Details/4727/Artist-s-Open-St
+ udio-October
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4727/Artist-s-Open-St
+ udio-October
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d3afcc41d96d291c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20261212T160000Z
+DTEND:20261212T210000Z
+SUMMARY:Christmas Fest
+DESCRIPTION:In person · Free\n\nCelebrate the holiday season with us at th
+ e Rough Rider Center’s Christmas Fest! Join us for a festive day filled 
+ with holiday fun for the whole family. Shop from local vendors and let the
+  kids take part in fun…\n\nListed by Watford City events\n\nhttps://www.
+ visitwatfordcity.com/Calendar/Details/4723/Christmas-Fest
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4723/Christmas-Fest
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:04f290f1ad6fa8e7@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270214T010000Z
+DTEND:20270214T030000Z
+SUMMARY:Tap Into Soul
+DESCRIPTION:In person · Paid\n\nAn exciting new take on a timeless genre o
+ f music. Blending multi-octave vocals and world-class tap dancing on a sou
+ lful setlist featuring both classic and contemporary chart-topping hits. T
+ he incredible music featured…\n\nListed by Watford City events\n\nhttps:
+ //www.visitwatfordcity.com/Calendar/Details/4632/One-of-these-Nights-The-U
+ ltimate-Tribute-to-the-Eagles
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4632/One-of-these-Nig
+ hts-The-Ultimate-Tribute-to-the-Eagles
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d9927956e05e55a@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART:20270514T000000Z
+DTEND:20270514T020000Z
+SUMMARY:One of these Nights: The Ultimate Tribute to the Eagles
+DESCRIPTION:In person · Paid\n\nGet ready to be transported back to the go
+ lden era of classic rock! This extraordinary band brings to life the timel
+ ess music of the Eagles\,. From their flawless harmonies to their electrif
+ ying guitar solos\, every note…\n\nListed by Watford City events\n\nhttp
+ s://www.visitwatfordcity.com/Calendar/Details/4631/One-of-these-Nights-The
+ -Ultimate-Tribute-to-the-Eagles
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4631/One-of-these-Nig
+ hts-The-Ultimate-Tribute-to-the-Eagles
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

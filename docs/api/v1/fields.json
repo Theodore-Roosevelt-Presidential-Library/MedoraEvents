@@ -1,0 +1,231 @@
+{
+ "generated": "2026-10-18T15:51:18+00:00",
+ "site": "https://medoraevents.labs.trlibrary.com",
+ "fields": [
+  {
+   "name": "id",
+   "type": "string",
+   "description": "Stable ID for this occurrence (source + source event + start time)."
+  },
+  {
+   "name": "series_id",
+   "type": "string",
+   "description": "Shared by every occurrence of the same program or tour."
+  },
+  {
+   "name": "source",
+   "type": "string",
+   "description": "Source ID (see /api/v1/sources.json)."
+  },
+  {
+   "name": "source_name",
+   "type": "string",
+   "description": "Display name of the organization that lists the event."
+  },
+  {
+   "name": "source_event_id",
+   "type": "string",
+   "description": "The source's own ID or URL slug."
+  },
+  {
+   "name": "also_listed",
+   "type": "array",
+   "description": "Other calendars that list the same event: [{source, url, title}]. Each event appears once."
+  },
+  {
+   "name": "title",
+   "type": "string",
+   "description": "Event title as published."
+  },
+  {
+   "name": "description",
+   "type": "string",
+   "description": "Plain-text description."
+  },
+  {
+   "name": "summary",
+   "type": "string",
+   "description": "First ~220 characters of the description."
+  },
+  {
+   "name": "url",
+   "type": "string",
+   "description": "Event page on the source site."
+  },
+  {
+   "name": "image",
+   "type": "string|null",
+   "description": "Image URL from the source."
+  },
+  {
+   "name": "start",
+   "type": "string",
+   "description": "ISO 8601 start, in the event's local time zone (date only when all_day)."
+  },
+  {
+   "name": "end",
+   "type": "string|null",
+   "description": "ISO 8601 end, same rules as start."
+  },
+  {
+   "name": "all_day",
+   "type": "boolean",
+   "description": "True when no start time is published."
+  },
+  {
+   "name": "timezone",
+   "type": "string",
+   "description": "IANA time zone of the venue, e.g. America/Denver."
+  },
+  {
+   "name": "attendance",
+   "type": "enum",
+   "description": "How people attend.",
+   "values": [
+    "in_person",
+    "virtual",
+    "hybrid",
+    "unknown"
+   ]
+  },
+  {
+   "name": "online_url",
+   "type": "string|null",
+   "description": "Livestream or online link, when published."
+  },
+  {
+   "name": "cost",
+   "type": "enum",
+   "description": "Whether attending costs money.",
+   "values": [
+    "free",
+    "paid",
+    "unknown"
+   ]
+  },
+  {
+   "name": "cost_note",
+   "type": "string|null",
+   "description": "Wording such as 'Included with admission' or 'Timed-entry pass required'."
+  },
+  {
+   "name": "price_min",
+   "type": "number|null",
+   "description": "Lowest listed price in USD."
+  },
+  {
+   "name": "price_max",
+   "type": "number|null",
+   "description": "Highest listed price in USD."
+  },
+  {
+   "name": "registration_required",
+   "type": "boolean|null",
+   "description": "True when the source says registration or tickets are required."
+  },
+  {
+   "name": "registration_url",
+   "type": "string|null",
+   "description": "Where to register or buy tickets."
+  },
+  {
+   "name": "venue",
+   "type": "object",
+   "description": "{name, address, city, region, postal_code, country, lat, lon}."
+  },
+  {
+   "name": "organizer",
+   "type": "string|null",
+   "description": "Organizing body (park unit, museum department, etc.)."
+  },
+  {
+   "name": "kind",
+   "type": "enum",
+   "description": "Type of listing.",
+   "values": [
+    "event",
+    "tour",
+    "exhibition",
+    "program",
+    "closure"
+   ]
+  },
+  {
+   "name": "categories",
+   "type": "array",
+   "description": "Source categories or program types."
+  },
+  {
+   "name": "audiences",
+   "type": "array",
+   "description": "Audience labels from the source (e.g. All Ages)."
+  },
+  {
+   "name": "recurring",
+   "type": "boolean",
+   "description": "True for repeating tours and programs (one record per occurrence)."
+  },
+  {
+   "name": "status",
+   "type": "enum",
+   "description": "Listing status.",
+   "values": [
+    "scheduled",
+    "cancelled",
+    "postponed",
+    "sold_out"
+   ]
+  },
+  {
+   "name": "accessibility",
+   "type": "string|null",
+   "description": "Accessibility note from the source."
+  },
+  {
+   "name": "region_label",
+   "type": "string",
+   "description": "Short place label for display, e.g. 'Dickinson, ND'."
+  },
+  {
+   "name": "area",
+   "type": "enum",
+   "description": "In town, a drive out of Medora, or online.",
+   "values": [
+    "medora",
+    "nearby",
+    "online"
+   ]
+  },
+  {
+   "name": "area_label",
+   "type": "string",
+   "description": "'In Medora', 'Out of Medora' or 'Online'."
+  },
+  {
+   "name": "drive_minutes",
+   "type": "number|null",
+   "description": "Approximate one-way drive time from Medora in minutes (estimate; 0 in town)."
+  },
+  {
+   "name": "drive_label",
+   "type": "string|null",
+   "description": "Display text, e.g. 'About 35 min from Medora'."
+  },
+  {
+   "name": "first_seen",
+   "type": "string",
+   "description": "Date this calendar first picked up the event."
+  },
+  {
+   "name": "last_seen",
+   "type": "string",
+   "description": "Date of the most recent run that still found it."
+  },
+  {
+   "name": "extra",
+   "type": "object",
+   "description": "Source-specific fields (park code, room, capacity, presenter, ...)."
+  }
+ ],
+ "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json"
+}

@@ -1,0 +1,23 @@
+{
+ "generated": "2026-10-18T15:51:18+00:00",
+ "site": "https://medoraevents.labs.trlibrary.com",
+ "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
+ "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
+ "source": {
+  "id": "facebook",
+  "name": "Facebook events near Medora",
+  "short": "Facebook",
+  "url": "https://www.facebook.com/events/search?q=medora",
+  "type": "regional",
+  "region": "Medora, ND",
+  "every_days": 2,
+  "ok": false,
+  "count": 0,
+  "error": "FetchError: APIFY_TOKEN not set",
+  "last_success": null,
+  "checked": "2026-10-18T15:47:14+00:00",
+  "seconds": 0.0
+ },
+ "count": 0,
+ "events": []
+}

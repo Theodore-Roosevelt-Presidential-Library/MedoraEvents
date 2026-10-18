@@ -1,0 +1,23 @@
+{
+ "generated": "2026-10-18T15:51:18+00:00",
+ "site": "https://medoraevents.labs.trlibrary.com",
+ "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
+ "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
+ "source": {
+  "id": "ndtourism",
+  "name": "North Dakota Tourism",
+  "short": "ND Tourism",
+  "url": "https://www.ndtourism.com/listings/events",
+  "type": "regional",
+  "region": "North Dakota",
+  "every_days": 3,
+  "ok": false,
+  "count": 0,
+  "error": "FetchError: FIRECRAWL_API_KEY not set",
+  "last_success": null,
+  "checked": "2026-10-18T15:47:14+00:00",
+  "seconds": 0.0
+ },
+ "count": 0,
+ "events": []
+}

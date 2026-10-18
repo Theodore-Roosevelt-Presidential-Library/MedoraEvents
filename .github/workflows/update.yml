@@ -1,0 +1,54 @@
+name: Update events
+
+on:
+  schedule:
+    - cron: "17 10 * * *"   # daily, ~5:17 a.m. Central
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Refresh only these sources (comma-separated ids, blank = all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: medoraevents-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Scrape sources and publish
+        env:
+          NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          ONLY: ${{ github.event.inputs.only }}
+        run: |
+          if [ -n "$ONLY" ]; then python -m medevents.build --only "$ONLY"; else python -m medevents.build; fi
+
+      - name: Commit updated data
+        run: |
+          git config user.name "medoraevents-bot"
+          git config user.email "medoraevents-bot@users.noreply.github.com"
+          git add docs data
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update events $(date -u +%Y-%m-%d)"
+            git push
+          fi

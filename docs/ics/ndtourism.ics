@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//MedoraEvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Medora Events — ND Tourism
+X-WR-CALDESC:Events from North Dakota Tourism.
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/ndtourism.ics
+END:VCALENDAR

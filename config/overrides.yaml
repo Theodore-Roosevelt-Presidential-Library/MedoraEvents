@@ -1,0 +1,18 @@
+# Hand corrections applied on every run.
+#
+# exclude: drop events from the calendar. Match by id, series_id, exact url, or a title regex
+#          (optionally limited to one source).
+# edits:   overwrite fields on an event (by id) or a whole series (by series_id).
+#
+# Find ids in docs/api/v1/events.json or the review list at /api/v1/review.json.
+
+exclude: []
+#  - title: "Franklin"            # regex on title
+#    source: loc
+#  - url: https://www.si.edu/events?trumbaEmbed=view%3Devent%26eventid%3D123
+#  - id: 1a2b3c4d5e6f7a8b
+
+edits: {}
+#  3f2a9c1d0b7e:                  # series_id
+#    attendance: hybrid
+#    cost: free

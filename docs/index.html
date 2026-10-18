@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Medora Events</title>
+<meta name="description" content="Everything happening in Medora, North Dakota, and the nearby Badlands in one calendar: shows, concerts, races, history programs and festivals, updated daily.">
+<meta property="og:title" content="Medora Events — everything happening in and around Medora">
+<meta property="og:description" content="Shows, concerts, races, history programs and festivals in Medora and the nearby Badlands.">
+<link rel="stylesheet" href="widgets/widget.css">
+<style>
+  body{background:var(--bg)}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+  header.top{background:#25282a;color:#fff;padding:28px 0 30px;border-bottom:4px solid var(--accent)}
+  header.top .k{font-family:var(--serif);font-size:15px;opacity:.85;margin:0 0 6px}
+  header.top h1{font-family:var(--display);font-weight:800;text-transform:uppercase;font-size:64px;line-height:.92;margin:0;letter-spacing:.01em}
+  header.top p.lead{font-family:var(--serif);font-size:18px;max-width:720px;margin:12px 0 0;opacity:.92}
+  .sub{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+  .sub a{background:var(--accent);color:#1b1b1b;text-decoration:none;font-weight:700;font-size:14px;border-radius:4px;padding:9px 14px}
+  .sub a.alt{background:transparent;color:#fff;border:1px solid rgba(255,255,255,.4)}
+  .sub a:hover{background:#fff;color:#1b1b1b}
+  nav.tabs{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line)}
+  nav.tabs .wrap{display:flex;gap:4px;overflow-x:auto}
+  nav.tabs a{padding:12px 14px;font-weight:700;font-size:14px;text-decoration:none;border-bottom:3px solid transparent;white-space:nowrap}
+  nav.tabs a:hover,nav.tabs a.on{border-bottom-color:var(--accent)}
+  section{padding:34px 0;border-bottom:1px solid var(--line)}
+  section h2{font-family:var(--display);font-weight:700;text-transform:uppercase;font-size:38px;line-height:1;margin:0 0 6px}
+  section .intro{font-family:var(--serif);font-size:16px;color:var(--muted);max-width:760px;margin:0 0 20px}
+  .views{display:flex;gap:6px;margin-bottom:14px}
+  iframe.cal{width:100%;border:0;display:block}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+  .card{background:var(--surface);border-radius:4px;padding:18px}
+  .card h3{font-family:var(--serif);font-weight:500;font-size:19px;margin:0 0 6px}
+  .card p{margin:0 0 10px;font-size:14px;color:var(--muted)}
+  code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px}
+  pre{background:#25282a;color:#f3f1ea;border-radius:4px;padding:14px;overflow:auto;white-space:pre-wrap;word-break:break-all;margin:0}
+  .copy{margin-top:8px}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+  td code{background:var(--surface);padding:1px 5px;border-radius:3px}
+  .ok{color:var(--chip-free);font-weight:700}.err{color:var(--accent-strong);font-weight:700}
+  .builder{display:grid;grid-template-columns:300px 1fr;gap:24px;align-items:start}
+  .builder label{display:block;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:12px 0 6px}
+  .builder .opts{display:flex;flex-wrap:wrap;gap:6px}
+  .builder input[type=text],.builder input[type=number]{width:100%;font:inherit;padding:7px 9px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--text)}
+  .seg button{border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:4px 12px;font-size:13px}
+  .seg button[aria-pressed=true]{background:var(--text);color:var(--bg);border-color:var(--text)}
+  .srcpick{max-height:180px;overflow:auto;border:1px solid var(--line);border-radius:4px;padding:6px}
+  .srcpick label{display:flex;gap:8px;text-transform:none;letter-spacing:0;font-weight:400;font-size:14px;color:var(--text);margin:4px 0}
+  footer{padding:30px 0 50px;font-size:13px;color:var(--muted)}
+  @media (max-width:800px){header.top h1{font-size:46px}.grid2,.builder{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <p class="k">Theodore Roosevelt Presidential Library · Labs</p>
+    <h1>Medora Events</h1>
+    <p class="lead">Shows, concerts, races, history programs and festivals in Medora and the towns around it — from the Chateau de Morès to Dickinson and Watford City — gathered from local partners into one calendar and refreshed every day.</p>
+    <div class="sub">
+      <a href="webcal://medoraevents.labs.trlibrary.com/calendar.ics">Subscribe (Apple / Outlook)</a>
+      <a class="alt" href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fmedoraevents.labs.trlibrary.com%2Fcalendar.ics" target="_blank" rel="noopener">Add to Google Calendar</a>
+      <a class="alt" href="#embed">Embed a widget</a>
+      <a class="alt" href="#api">JSON API</a>
+    </div>
+  </div>
+</header>
+<nav class="tabs" aria-label="Sections"><div class="wrap">
+  <a href="#calendar" class="on">Calendar</a><a href="#subscribe">Subscribe</a><a href="#embed">Embed</a><a href="#api">API</a><a href="#sources">Sources</a><a href="#fields">Fields</a>
+</div></nav>
+
+<main>
+<section id="calendar"><div class="wrap">
+  <div class="views seg" role="group" aria-label="View">
+    <button data-view="month" aria-pressed="true">Month</button><button data-view="week" aria-pressed="false">Week</button><button data-view="browse" aria-pressed="false">List</button>
+  </div>
+  <iframe class="cal" id="cal" title="Medora events calendar" src="widgets/month.html?title=none&frame=cal" style="height:820px"></iframe>
+</div></section>
+
+<section id="subscribe"><div class="wrap">
+  <h2>Subscribe</h2>
+  <p class="intro">Add a feed to Apple Calendar, Google Calendar or Outlook and new events show up on their own. Feeds refresh every few hours.</p>
+  <div class="grid2" id="feeds"></div>
+</div></section>
+
+<section id="embed"><div class="wrap">
+  <h2>Embed a widget</h2>
+  <p class="intro">Pick a view and filters, then paste the snippet into any page. <strong>Browse</strong> gives visitors search, date and filter controls and keeps loading events as they scroll, all inside the embed. In Drupal, use the <em>Full HTML</em> text format (or paste the iframe version). The widget sizes itself to its content.</p>
+  <div class="builder">
+    <div>
+      <label>View</label>
+      <div class="seg opts" id="b-view"><button data-v="upcoming" aria-pressed="true">Upcoming</button><button data-v="browse" aria-pressed="false">Browse (filters + load more)</button><button data-v="month" aria-pressed="false">Month</button><button data-v="week" aria-pressed="false">Week</button></div>
+      <label>Where</label>
+      <div class="seg opts" id="b-area"><button data-v="medora" aria-pressed="false">In Medora</button><button data-v="nearby" aria-pressed="false">Out of Medora</button></div>
+      <label>Cost</label>
+      <div class="seg opts" id="b-cost"><button data-v="free" aria-pressed="false">Free</button><button data-v="paid" aria-pressed="false">Paid</button></div>
+      <label>Organizations</label>
+      <div class="srcpick" id="b-source"></div>
+      <label for="b-limit">Events shown (Browse: per page)</label>
+      <input type="number" id="b-limit" value="6" min="1" max="50">
+      <label for="b-title">Heading (blank = default, "none" = no heading)</label>
+      <input type="text" id="b-title" placeholder="Upcoming in Medora">
+      <label>Options</label>
+      <div class="seg opts" id="b-flags"><button data-v="show_recurring" aria-pressed="false">Include daily activities</button><button data-v="compact" aria-pressed="false">Compact</button><button data-v="filters" aria-pressed="false">Show filter bar</button><button data-v="transparent" aria-pressed="false">Transparent background</button></div>
+    </div>
+    <div>
+      <label>Snippet</label>
+      <pre id="b-code"></pre>
+      <button class="tre-btn copy" data-copy="b-code">Copy snippet</button>
+      <label>Iframe only (no script)</label>
+      <pre id="b-iframe"></pre>
+      <button class="tre-btn copy" data-copy="b-iframe">Copy iframe</button>
+      <label>Preview</label>
+      <div id="b-preview" style="border:1px dashed var(--line);border-radius:4px;padding:12px"></div>
+    </div>
+  </div>
+</div></section>
+
+<section id="api"><div class="wrap">
+  <h2>JSON API</h2>
+  <p class="intro">Static JSON files, rebuilt on every run. No key needed; CORS is open. Every record carries the same fields — see <a href="#fields">Fields</a>.</p>
+  <table>
+    <thead><tr><th>Endpoint</th><th>What it returns</th></tr></thead>
+    <tbody>
+      <tr><td><code>/api/v1/events.json</code></td><td>Every upcoming occurrence, all fields (closures included, <code>kind: "closure"</code>). Also <code>events.min.json</code>.</td></tr>
+      <tr><td><code>/api/v1/upcoming.json</code></td><td>Next 200 events with repeating tours collapsed to their next date (<code>occurrences</code> = count).</td></tr>
+      <tr><td><code>/api/v1/months/YYYY-MM.json</code></td><td>Events starting in one month.</td></tr>
+      <tr><td><code>/api/v1/sources/{id}.json</code></td><td>One organization's events plus its last-run status.</td></tr>
+      <tr><td><code>/api/v1/sources.json</code></td><td>Every source, when it last succeeded, event count and any error.</td></tr>
+      <tr><td><code>/api/v1/fields.json</code></td><td>The field dictionary.</td></tr>
+      <tr><td><code>/api/v1/review.json</code></td><td>Keyword matches that may not be about TR, and dates read from prose — for staff review.</td></tr>
+      <tr><td><code>/api/v1/widget.json</code></td><td>Slim index the widgets load.</td></tr>
+    </tbody>
+  </table>
+  <p style="margin-top:16px"><a class="tre-btn" href="api/v1/upcoming.json" style="text-decoration:none">Open upcoming.json</a></p>
+</div></section>
+
+<section id="sources"><div class="wrap">
+  <h2>Sources</h2>
+  <p class="intro">Medora partners are included in full. Regional calendars (Dickinson State, Watford City, the Dickinson Press, ND Tourism, Facebook) are filtered to Medora and the towns around it. The same event posted in several places appears once.</p>
+  <table><thead><tr><th>Organization</th><th>Type</th><th>Events</th><th>Last success</th><th>Status</th></tr></thead><tbody id="src-rows"><tr><td colspan="5">Loading…</td></tr></tbody></table>
+</div></section>
+
+<section id="fields"><div class="wrap">
+  <h2>Fields</h2>
+  <p class="intro">The metadata kept for every event.</p>
+  <table><thead><tr><th>Field</th><th>Type</th><th>Description</th></tr></thead><tbody id="field-rows"></tbody></table>
+</div></section>
+</main>
+<footer><div class="wrap">Event details belong to the organizations that publish them — check the event page before you travel. Built by the <a href="https://www.trlibrary.com">Theodore Roosevelt Presidential Library</a> · <a href="https://labs.trlibrary.com">Labs</a> · <a href="https://github.com/Theodore-Roosevelt-Presidential-Library/MedoraEvents">Source on GitHub</a></div></footer>
+
+<script src="embed.js"></script>
+<script>
+(function () {
+  var SITE = "https://medoraevents.labs.trlibrary.com/";
+  var cal = document.getElementById("cal");
+  window.addEventListener("message", function (ev) { if (ev.data && ev.data.type === "medevents:height" && ev.data.frame === "cal") cal.style.height = Math.max(300, ev.data.height) + "px"; });
+  document.querySelectorAll(".views button").forEach(function (b) {
+    b.onclick = function () {
+      document.querySelectorAll(".views button").forEach(function (x) { x.setAttribute("aria-pressed", x === b); });
+      cal.src = "widgets/" + b.dataset.view + ".html?title=none&frame=cal" + (b.dataset.view === "browse" ? "&limit=15" : "");
+    };
+  });
+  var tabs = document.querySelectorAll("nav.tabs a");
+  var io = new IntersectionObserver(function (es) { es.forEach(function (e) { if (e.isIntersecting) tabs.forEach(function (t) { t.classList.toggle("on", t.getAttribute("href") === "#" + e.target.id); }); }); }, { rootMargin: "-40% 0px -55% 0px" });
+  document.querySelectorAll("main section").forEach(function (s) { io.observe(s); });
+
+  function feedCard(title, desc, path) {
+    var https = SITE + path, webcal = https.replace(/^https:/, "webcal:");
+    return '<div class="card"><h3>' + title + "</h3><p>" + desc + '</p><div class="sub" style="margin-top:8px">' +
+      '<a href="' + webcal + '">Apple / Outlook</a>' +
+      '<a class="tre-secondary" style="color:var(--text)" href="https://calendar.google.com/calendar/r?cid=' + encodeURIComponent(webcal) + '" target="_blank" rel="noopener">Google</a>' +
+      '<a class="tre-secondary" style="color:var(--text)" href="https://outlook.live.com/calendar/0/addfromweb?url=' + encodeURIComponent(https) + "&name=" + encodeURIComponent(title) + '" target="_blank" rel="noopener">Outlook.com</a></div>' +
+      '<p style="margin-top:10px"><code>' + https + "</code></p></div>";
+  }
+  var feeds = [
+    ["Everything special", "Shows, concerts, races, talks and festivals in Medora and the region. Leaves out daily activities like trail rides and dining.", "calendar.ics"],
+    ["In Medora only", "Events in town and in the South Unit of Theodore Roosevelt National Park.", "ics/medora.ics"],
+    ["Worth the drive", "Events out of Medora: Belfield, Beach, Dickinson, Watford City and around.", "ics/nearby.ics"],
+    ["Free events", "Special events with no charge.", "ics/free.ics"]
+  ];
+  document.getElementById("feeds").innerHTML = feeds.map(function (f) { return feedCard(f[0], f[1], f[2]); }).join("");
+
+  fetch("api/v1/sources.json", { cache: "no-cache" }).then(function (r) { return r.json(); }).then(function (d) {
+    document.getElementById("src-rows").innerHTML = d.sources.map(function (s) {
+      return '<tr><td><a href="' + s.url + '" target="_blank" rel="noopener">' + s.name + "</a><br><small>" + (s.region || "") + "</small></td><td>" + (s.type === "partner" ? "Medora partner" : "Regional, filtered to the area") +
+        "</td><td>" + s.count + "</td><td>" + (s.last_success || "—") + "</td><td>" + (s.ok ? '<span class="ok">OK</span>' : '<span class="err">Failing</span><br><small>' + (s.error || "") + (s.using_cached_from ? " · showing data from " + s.using_cached_from : "") + "</small>") +
+        ' · <a href="ics/' + s.id + '.ics">iCal</a> · <a href="api/v1/sources/' + s.id + '.json">JSON</a></td></tr>';
+    }).join("");
+    var pick = document.getElementById("b-source");
+    pick.innerHTML = d.sources.map(function (s) { return '<label><input type="checkbox" value="' + s.id + '"> ' + s.name + "</label>"; }).join("");
+    pick.onchange = build;
+  });
+  fetch("api/v1/fields.json", { cache: "no-cache" }).then(function (r) { return r.json(); }).then(function (d) {
+    document.getElementById("field-rows").innerHTML = d.fields.map(function (f) {
+      return "<tr><td><code>" + f.name + "</code></td><td>" + f.type + "</td><td>" + f.description + (f.values ? "<br><small>" + f.values.map(function (v) { return "<code>" + v + "</code>"; }).join(" ") + "</small>" : "") + "</td></tr>";
+    }).join("");
+  });
+
+  // embed builder
+  function pressed(id) { return Array.prototype.filter.call(document.querySelectorAll("#" + id + " button"), function (b) { return b.getAttribute("aria-pressed") === "true"; }).map(function (b) { return b.dataset.v; }); }
+  document.querySelectorAll(".builder .seg").forEach(function (g) {
+    g.addEventListener("click", function (ev) {
+      var b = ev.target.closest("button"); if (!b) return;
+      if (g.id === "b-view") g.querySelectorAll("button").forEach(function (x) { x.setAttribute("aria-pressed", x === b); });
+      else b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true");
+      build();
+    });
+  });
+  ["b-limit", "b-title"].forEach(function (id) { document.getElementById(id).oninput = build; });
+  var timer;
+  function build() {
+    var view = pressed("b-view")[0] || "upcoming", flags = pressed("b-flags");
+    var attrs = [["data-medora-events", view]];
+    var a = pressed("b-area"), c = pressed("b-cost");
+    var s = Array.prototype.filter.call(document.querySelectorAll("#b-source input"), function (i) { return i.checked; }).map(function (i) { return i.value; });
+    if (s.length) attrs.push(["data-source", s.join(",")]);
+    if (a.length) attrs.push(["data-area", a.join(",")]);
+    if (c.length) attrs.push(["data-cost", c.join(",")]);
+    if (view === "upcoming" || view === "browse") attrs.push(["data-limit", document.getElementById("b-limit").value || (view === "browse" ? "10" : "6")]);
+    var t = document.getElementById("b-title").value.trim(); if (t) attrs.push(["data-title", t]);
+    if (flags.indexOf("show_recurring") >= 0) attrs.push(["data-recurring", view === "upcoming" ? "collapse" : "show"]);
+    if (flags.indexOf("compact") >= 0) attrs.push(["data-compact", "1"]);
+    if (flags.indexOf("filters") >= 0) attrs.push(["data-filters", "1"]);
+    if (flags.indexOf("transparent") >= 0) attrs.push(["data-bg", "transparent"]);
+    var div = "<div " + attrs.map(function (x) { return x[0] + '="' + x[1].replace(/"/g, "&quot;") + '"'; }).join(" ") + "></div>";
+    document.getElementById("b-code").textContent = div + '\n<script src="' + SITE + 'embed.js" async><\/script>';
+    var q = attrs.slice(1).map(function (x) { return x[0].slice(5) + "=" + encodeURIComponent(x[1]); }).join("&");
+    document.getElementById("b-iframe").textContent = '<iframe src="' + SITE + "widgets/" + view + ".html" + (q ? "?" + q : "") + '" title="Events in Medora" style="width:100%;height:' + (view === "upcoming" ? 640 : view === "browse" ? 1100 : 820) + 'px;border:0" loading="lazy"></iframe>';
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+      var p = document.getElementById("b-preview"); p.innerHTML = div;
+      var d = p.firstChild; var e = document.createElement("script"); e.src = "embed.js"; p.appendChild(e);
+    }, 250);
+  }
+  document.querySelectorAll("[data-copy]").forEach(function (b) {
+    b.onclick = function () {
+      var txt = document.getElementById(b.dataset.copy).textContent;
+      (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(function () { b.textContent = "Copied"; setTimeout(function () { b.textContent = b.dataset.copy === "b-code" ? "Copy snippet" : "Copy iframe"; }, 1500); });
+    };
+  });
+  build();
+})();
+</script>
+</body>
+</html>

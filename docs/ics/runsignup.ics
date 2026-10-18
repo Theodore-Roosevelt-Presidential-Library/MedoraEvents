@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Theodore Roosevelt Presidential Library//MedoraEvents//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Medora Events — RunSignup
+X-WR-CALDESC:Events from RunSignup (races near Medora).
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/runsignup.ics
+BEGIN:VEVENT
+UID:3d475f78daa23b0e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:2026 Glendive Turkey Trot 5k
+DESCRIPTION:In person · Paid · Race registration fee\n\nStart your holida
+ y with a healthy tradition before the big feast! Join us for the 2026 Glen
+ dive Turkey Trot 5K on Thanksgiving morning\, November 26th at Makoshika W
+ ellness (111 W. Bell\, Studio Side). 📅 Race Day Details…\n\nListed by
+  RunSignup (races near Medora)\n\nhttps://runsignup.com/Race/MT/Glendive/2
+ 021GlendiveTurkeyTrot5k
+LOCATION:111 W. Bell St\, Glendive\, MT
+URL:https://runsignup.com/Race/MT/Glendive/2021GlendiveTurkeyTrot5k
+CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:09bf19e436135b8b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261018T155119Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Richland Ranger Turkey Trot
+DESCRIPTION:In person · Paid · Race registration fee\n\n🦃🏃‍♀️
+  3rd Annual Richland Ranger Turkey Trot! 🏃‍♂️🦃 It’s that tim
+ e of year again… time to run before you eat! 😂 Join the Richland Rang
+ ers Hockey Team for our 3rd Annual Turkey Trot\, where we combine two of A
+ merica’s…\n\nListed by RunSignup (races near Medora)\n\nhttps://runsig
+ nup.com/Race/MT/Sidney/RichlandRangerTurkeyTrot
+LOCATION:601 7th Ave SW\, Sidney\, MT
+URL:https://runsignup.com/Race/MT/Sidney/RichlandRangerTurkeyTrot
+CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+# Events to add by hand (for organizations without a calendar we can read).
+# Required: title, start. Dates without a time are all-day.
+#
+# - title: Roosevelt Symposium
+#   start: 2027-05-14 09:00
+#   end: 2027-05-14 17:00
+#   timezone: America/Denver
+#   url: https://example.org/event
+#   description: A day of talks...
+#   attendance: in_person      # in_person | virtual | hybrid
+#   cost: free                 # free | paid | unknown
+#   organizer: Example Society
+#   venue: {name: Example Hall, city: Dickinson, region: ND}
+[]
