@@ -4,7 +4,7 @@ Everything happening in Medora, North Dakota, and the towns around it, in one ca
 
 | Output | URL |
 |---|---|
-| Widgets | `/widgets/upcoming.html`, `/widgets/browse.html` (search + filters + load more), `/widgets/month.html`, `/widgets/week.html` |
+| Widgets | `/widgets/upcoming.html`, `/widgets/browse.html` (search + filters + load more), `/widgets/month.html`, `/widgets/week.html`, `/widgets/map.html` (Medora venues or the region by town) |
 | Embed loader | `/embed.js` |
 | iCal | `/calendar.ics` (special events), `/calendar-all.ics` (incl. daily activities), `/ics/medora.ics` (in town), `/ics/nearby.ics` (out of Medora), `/ics/free.ics`, `/ics/{source}.ics` |
 | JSON API | `/api/v1/events.json`, `upcoming.json`, `months/YYYY-MM.json`, `sources/{id}.json`, `sources.json`, `fields.json`, `review.json` |
@@ -54,7 +54,7 @@ Time zones: southwest ND (Billings, Golden Valley, Stark, Slope, Bowman, Adams, 
 <script src="https://medoraevents.labs.trlibrary.com/embed.js" async></script>
 ```
 
-Views: `upcoming | browse | month | week`. Options: `data-area` (`medora`, `nearby`), `data-source`, `data-cost`, `data-kind`, `data-q`, `data-when`, `data-limit`, `data-more`, `data-recurring` (`hide` default = leave out daily activities like trail rides and dining), `data-filters`, `data-title`, `data-theme`, `data-bg`, `data-compact`, `data-date`.
+Views: `upcoming | browse | month | week | map`. The map takes `data-scope` (`medora` = venue pins in town, `region` = one pin per town, with drive times). Options: `data-area` (`medora`, `nearby`), `data-source`, `data-cost`, `data-kind`, `data-q`, `data-when`, `data-limit`, `data-more`, `data-recurring` (`hide` default = leave out daily activities like trail rides and dining), `data-filters`, `data-title`, `data-theme`, `data-bg`, `data-compact`, `data-date`.
 
 ## Running
 
@@ -67,3 +67,14 @@ python -m medevents.build --only medora,chamber
 Repo secrets: `NPS_API_KEY`, `FIRECRAWL_API_KEY`, `APIFY_TOKEN`. Pages: deploy from `main` / `/docs`, custom domain `medoraevents.labs.trlibrary.com` (covered by the `*.labs` wildcard DNS).
 
 Hand corrections: `config/overrides.yaml`; hand-added events: `config/manual_events.yaml`.
+
+## Map pins
+
+Every in-person event gets coordinates (`lat`, `lon`, `geo_precision`) in this order:
+
+1. `config/venues.yaml`: hand-checked pins. These always win, so fix a wrong pin here.
+2. Coordinates published by the calendar itself (CitySpark, Facebook), if they're within the region.
+3. OpenStreetMap Nominatim lookup of "venue, town, ND". Results are cached in `data/geocode.json`, and each run makes at most 80 new lookups, one per second.
+4. The town's center, with `geo_precision: "town"`. On the Medora map these events are listed under "Around Medora" rather than pinned.
+
+Map tiles © OpenStreetMap contributors. The map uses Leaflet from cdnjs.

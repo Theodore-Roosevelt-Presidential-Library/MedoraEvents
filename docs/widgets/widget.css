@@ -197,4 +197,6 @@ a{color:inherit}
 .tre-place-more{background:none;border:0;padding:6px 0 0;color:var(--accent-strong);font-size:13px;font-weight:700}
 .tre-place-more:empty{display:none}
 .leaflet-container{font-family:var(--sans)}
+.tre-map .leaflet-tile-pane{filter:grayscale(.75) sepia(.12) contrast(.92) brightness(1.04)}
+.tre-map-dark .leaflet-tile-pane{filter:grayscale(1) invert(.92) hue-rotate(180deg) contrast(.85)}
 @media (max-width:760px){.tre-mapwrap{grid-template-columns:1fr;height:auto}.tre-map{height:380px}.tre-maplist{max-height:none;overflow:visible}}

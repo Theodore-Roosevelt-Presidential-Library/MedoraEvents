@@ -73,7 +73,7 @@
 <main>
 <section id="calendar"><div class="wrap">
   <div class="views seg" role="group" aria-label="View">
-    <button data-view="month" aria-pressed="true">Month</button><button data-view="week" aria-pressed="false">Week</button><button data-view="browse" aria-pressed="false">List</button>
+    <button data-view="month" aria-pressed="true">Month</button><button data-view="week" aria-pressed="false">Week</button><button data-view="browse" aria-pressed="false">List</button><button data-view="map" aria-pressed="false">Map</button>
   </div>
   <iframe class="cal" id="cal" title="Medora events calendar" src="widgets/month.html?title=none&frame=cal" style="height:820px"></iframe>
 </div></section>
@@ -90,7 +90,7 @@
   <div class="builder">
     <div>
       <label>View</label>
-      <div class="seg opts" id="b-view"><button data-v="upcoming" aria-pressed="true">Upcoming</button><button data-v="browse" aria-pressed="false">Browse (filters + load more)</button><button data-v="month" aria-pressed="false">Month</button><button data-v="week" aria-pressed="false">Week</button></div>
+      <div class="seg opts" id="b-view"><button data-v="upcoming" aria-pressed="true">Upcoming</button><button data-v="browse" aria-pressed="false">Browse (filters + load more)</button><button data-v="month" aria-pressed="false">Month</button><button data-v="week" aria-pressed="false">Week</button><button data-v="map" aria-pressed="false">Map</button></div>
       <label>Where</label>
       <div class="seg opts" id="b-area"><button data-v="medora" aria-pressed="false">In Medora</button><button data-v="nearby" aria-pressed="false">Out of Medora</button></div>
       <label>Cost</label>
@@ -216,7 +216,8 @@
     var a = pressed("b-area"), c = pressed("b-cost");
     var s = Array.prototype.filter.call(document.querySelectorAll("#b-source input"), function (i) { return i.checked; }).map(function (i) { return i.value; });
     if (s.length) attrs.push(["data-source", s.join(",")]);
-    if (a.length) attrs.push(["data-area", a.join(",")]);
+    if (view === "map") { if (a.length === 1) attrs.push(["data-scope", a[0] === "nearby" ? "region" : "medora"]); }
+    else if (a.length) attrs.push(["data-area", a.join(",")]);
     if (c.length) attrs.push(["data-cost", c.join(",")]);
     if (view === "upcoming" || view === "browse") attrs.push(["data-limit", document.getElementById("b-limit").value || (view === "browse" ? "10" : "6")]);
     var t = document.getElementById("b-title").value.trim(); if (t) attrs.push(["data-title", t]);
@@ -227,7 +228,7 @@
     var div = "<div " + attrs.map(function (x) { return x[0] + '="' + x[1].replace(/"/g, "&quot;") + '"'; }).join(" ") + "></div>";
     document.getElementById("b-code").textContent = div + '\n<script src="' + SITE + 'embed.js" async><\/script>';
     var q = attrs.slice(1).map(function (x) { return x[0].slice(5) + "=" + encodeURIComponent(x[1]); }).join("&");
-    document.getElementById("b-iframe").textContent = '<iframe src="' + SITE + "widgets/" + view + ".html" + (q ? "?" + q : "") + '" title="Events in Medora" style="width:100%;height:' + (view === "upcoming" ? 640 : view === "browse" ? 1100 : 820) + 'px;border:0" loading="lazy"></iframe>';
+    document.getElementById("b-iframe").textContent = '<iframe src="' + SITE + "widgets/" + view + ".html" + (q ? "?" + q : "") + '" title="Events in Medora" style="width:100%;height:' + (view === "upcoming" ? 640 : view === "browse" ? 1100 : view === "map" ? 860 : 820) + 'px;border:0" loading="lazy"></iframe>';
     clearTimeout(timer);
     timer = setTimeout(function () {
       var p = document.getElementById("b-preview"); p.innerHTML = div;

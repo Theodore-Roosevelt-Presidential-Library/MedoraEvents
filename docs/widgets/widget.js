@@ -311,7 +311,15 @@
       g.name = best || townOf(g.evs[0]);
       if (state.scope === "region") g.approx = false;   // town pins are meant to be towns
       g.sub = state.scope === "region" ? (g.key === "Medora" ? "Pick Medora above to see venues" : g.evs[0].drive_label || "")
-        : (g.approx ? "In Medora; exact spot not listed" : "");
+        : (g.approx ? "The calendar didn't name a venue" : "");
+      if (state.scope === "medora" && g.approx) g.name = "Around Medora";
+    });
+    order.sort(function (a, b) {
+      if (state.scope === "region") {
+        var da = a.key === "Medora" ? -1 : (a.evs[0].drive_minutes == null ? 999 : a.evs[0].drive_minutes), db = b.key === "Medora" ? -1 : (b.evs[0].drive_minutes == null ? 999 : b.evs[0].drive_minutes);
+        return da - db;
+      }
+      return (a.approx ? 1 : 0) - (b.approx ? 1 : 0);
     });
     return { list: order, unplaced: unplaced };
   }
@@ -336,8 +344,9 @@
     if (!app.querySelector(".tre-mapwrap")) {
       app.innerHTML = '<div class="tre-maptop"></div><div class="tre-mapwrap"><div class="tre-map" id="tre-map" role="region" aria-label="Map of events"></div><div class="tre-maplist" aria-live="polite"></div></div><div class="tre-mapnote"></div>' + footer();
       mapObj = L.map("tre-map", { scrollWheelZoom: false, zoomControl: true, attributionControl: true });
-      L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark() ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
-        maxZoom: 19, subdomains: "abcd", attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>' }).addTo(mapObj);
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors' }).addTo(mapObj);
+      if (dark()) app.querySelector(".tre-map").classList.add("tre-map-dark");
       mapObj.on("focus click", function () { mapObj.scrollWheelZoom.enable(); });
       mapObj.on("mouseout blur", function () { mapObj.scrollWheelZoom.disable(); });
       pinLayer = L.layerGroup().addTo(mapObj);
@@ -347,6 +356,7 @@
     if (hadFocus) { qEl = document.getElementById("tre-q"); qEl.focus(); try { qEl.setSelectionRange(caret, caret); } catch (err) {} }
     pinLayer.clearLayers(); pinByKey = {};
     P.list.forEach(function (g) {
+      if (state.scope === "medora" && g.approx) return;   // a town-center pin would sit on top of Old Town Hall
       var m = L.marker([g.lat, g.lon], { icon: pinIcon(g, state.place === g.key), title: g.name, keyboard: true, riseOnHover: true });
       m.on("click", function () { if (state.scope === "region" && g.key === "Medora") { setScope("medora"); return; } selectPlace(g.key, false); });
       m.addTo(pinLayer); pinByKey[g.key] = m;
@@ -357,7 +367,7 @@
       : '<div class="tre-empty">No events on the map match these filters.</div>';
     var online = filtered().filter(function (e) { return eDate(e) >= TODAY && e.attendance === "virtual"; }).length;
     app.querySelector(".tre-mapnote").innerHTML = [
-      state.scope === "medora" ? "Pins show event venues in Medora. Dashed pins mean the calendar didn't name a venue." : "Pins show towns; drive times are approximate, one way from Medora.",
+      state.scope === "medora" ? "Pins show event venues in Medora. Events whose calendar didn't name a venue are listed under Around Medora." : "Pins show towns; drive times are approximate, one way from Medora.",
       online ? online + " online event" + (online === 1 ? "" : "s") + " not shown." : "",
       P.unplaced ? P.unplaced + " event" + (P.unplaced === 1 ? "" : "s") + " without a location not shown." : ""].filter(Boolean).join(" ");
     if (lastScope !== state.scope) { lastScope = state.scope; fitPins(); }
