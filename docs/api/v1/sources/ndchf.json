@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:51:18+00:00",
+ "generated": "2026-10-18T15:52:50+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -10,12 +10,13 @@
   "url": "https://northdakotacowboy.org/events/",
   "type": "partner",
   "region": "Medora, ND",
-  "ok": true,
+  "ok": false,
   "count": 3,
-  "error": null,
+  "error": "TypeError: 'NoneType' object is not callable",
   "last_success": "2026-10-18",
-  "checked": "2026-10-18T15:51:11+00:00",
-  "seconds": 0.2
+  "checked": "2026-10-18T15:52:40+00:00",
+  "using_cached_from": "2026-10-18",
+  "seconds": 0.3
  },
  "count": 2,
  "events": [
