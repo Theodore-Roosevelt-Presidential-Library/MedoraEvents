@@ -32,14 +32,21 @@ MOUNTAIN = "America/Denver"
 
 def town_tz(e: dict) -> str | None:
     v = e.get("venue") or {}
-    text = " ".join(x for x in (v.get("city"), v.get("address"), v.get("name")) if x).lower()
+    city = (v.get("city") or "").lower().strip()
+    region = (v.get("region") or "").upper()
+    if city:   # the city field is authoritative ("Student Center" in Dickinson is not Center, ND)
+        if city in CENTRAL:
+            return "America/Chicago"
+        if region == "MT" or city == "medora" or city in DRIVE_MINUTES:
+            return MOUNTAIN
+        return None
+    text = " ".join(x for x in (v.get("address"), v.get("name")) if x).lower()
     if not text:
         return None
-    if any(re.search(r"\b" + re.escape(t) + r"\b", text) for t in CENTRAL):
+    if any(re.search(r"\b" + re.escape(t) + r"\b", text) for t in CENTRAL - {"center"}):
         return "America/Chicago"
-    if (v.get("region") or "").upper() in ("ND", "MT") or re.search(r"\b(nd|mt|north dakota|montana)\b", text):
-        return MOUNTAIN if (v.get("region") or "").upper() == "MT" or any(
-            re.search(r"\b" + re.escape(t) + r"\b", text) for t in DRIVE_MINUTES) or "medora" in text else None
+    if region == "MT" or "medora" in text or any(re.search(r"\b" + re.escape(t) + r"\b", text) for t in DRIVE_MINUTES):
+        return MOUNTAIN
     return None
 
 

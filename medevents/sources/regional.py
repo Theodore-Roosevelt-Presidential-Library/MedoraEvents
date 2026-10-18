@@ -57,13 +57,17 @@ class dsu:
               "url": "https://dickinsonstate.edu/events", "type": "regional", "region": "Dickinson, ND"}
     FEED = "https://www.trumba.com/calendars/dickinson-state-university-events.json"
     SKIP_CATS = ("Other Events",)   # meetings, room bookings, weekly services
+    # academic-calendar dates and standing services aren't things a visitor drives in for
+    SKIP_TITLE = re.compile(r"\b(first day|last day|preregistration|registration (opens|begins|ends)|courses?\b|classes|"
+                            r"deadline|grades due|finals|midterm|commencement rehearsal|church|bible study|worship|chapel|"
+                            r"meeting|office hours|advising)\b", re.I)
 
     @staticmethod
     def fetch():
         out = []
         for r in get_json(dsu.FEED, timeout=90):
             cat = (r.get("categoryCalendar") or "").split("|")[-1]
-            if cat in dsu.SKIP_CATS or r.get("canceled"):
+            if cat in dsu.SKIP_CATS or r.get("canceled") or dsu.SKIP_TITLE.search(r.get("title") or ""):
                 continue
             off = r.get("startTimeZoneOffset") or "-0600"
             tzinfo = timezone(timedelta(hours=int(off[:3]), minutes=int(off[0] + off[3:5])))
@@ -124,7 +128,7 @@ class cityspark:
     SOURCE = {"id": "cityspark", "name": "The Dickinson Press community calendar", "short": "Dickinson Press calendar",
               "url": "https://www.thedickinsonpress.com/calendar", "type": "regional", "region": "Southwest North Dakota"}
     NOISE = re.compile(r"\b(meeting|board of|commission|council|bible study|church service|worship|mass\b|aa\b|al-anon|"
-                       r"support group|blood drive|wedding|private|class reunion|office hours|tutoring)\b", re.I)
+                       r"support group|blood drive|wedding|private|class reunion|office hours|tutoring|auction|church at|sunday school)\b", re.I)
 
     @staticmethod
     def fetch():

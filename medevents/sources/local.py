@@ -6,7 +6,7 @@ from datetime import date, datetime
 
 from bs4 import BeautifulSoup
 
-from ..http import get
+from ..http import FetchError, get
 from ..model import Event, Venue, at, clean_text, guess_cost, nearest_year, parse_clock
 from .generic import TZ, _venue_from_text
 
@@ -65,6 +65,8 @@ class cowboy:
     def fetch():
         soup = BeautifulSoup(get(cowboy.SOURCE["url"]).text, "lxml")
         main = soup.find("main") or soup.body
+        if main is None:
+            raise FetchError("no page body (likely blocked)")
         for t in main(["script", "style", "noscript", "svg"]):
             t.decompose()
         links = [(a.get_text(" ", strip=True).lower(), a.get("href")) for a in main.find_all("a", href=True)]
