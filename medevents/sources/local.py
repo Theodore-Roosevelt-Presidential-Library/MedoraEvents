@@ -11,6 +11,11 @@ from ..model import Event, Venue, at, clean_text, guess_cost, nearest_year, pars
 from .generic import TZ, _venue_from_text
 
 MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+FAR_STATES = re.compile(r"\b(Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|"
+                        r"Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|"
+                        r"Mississippi|Missouri|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|"
+                        r"Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|Tennessee|Texas|Utah|Vermont|Virginia|"
+                        r"Washington|West Virginia|Wisconsin|Wyoming)\b")
 M_RX = r"(January|February|March|April|May|June|July|August|September|October|November|December)"
 
 
@@ -84,7 +89,7 @@ class cowboy:
                 title, _, venue = title_line.partition(", ")
                 d0 = _md(dm.group(3), dm.group(1), year)
                 d1 = _md(dm.group(3), dm.group(2), year) if dm.group(2) else d0
-                if d1 >= date.today():
+                if d1 >= date.today() and not FAR_STATES.search(venue):   # e.g. the Winter Roundup in Wickenburg, Arizona
                     link = next((h for t, h in links if "detail" in t or "ticket" in t), cowboy.SOURCE["url"])
                     out.append(Event(
                         source="ndchf", source_event_id=re.sub(r"\W+", "-", f"{title}-{d0}".lower()), title=title.strip(),
