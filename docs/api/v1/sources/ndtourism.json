@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T16:03:18+00:00",
+ "generated": "2026-10-19T10:33:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -13,11 +13,11 @@
   "every_days": 3,
   "ok": false,
   "count": 0,
-  "error": "FetchError: FIRECRAWL_API_KEY not set",
+  "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 28s, r",
   "last_success": null,
-  "checked": "2026-10-18T16:03:01+00:00",
+  "checked": "2026-10-19T10:31:32+00:00",
   "using_cached_from": null,
-  "seconds": 0.0
+  "seconds": 32.3
  },
  "count": 0,
  "events": []

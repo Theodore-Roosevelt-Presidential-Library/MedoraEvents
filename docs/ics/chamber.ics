@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/chamber.ics
 BEGIN:VEVENT
 UID:59305d12847761a0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261018T160319Z
+DTSTAMP:20261019T103318Z
 DTSTART:20261107T003000Z
 DTEND:20261107T040000Z
 SUMMARY:Annual Medora’s Hunters Feed
@@ -20,25 +20,27 @@ DESCRIPTION:In person · Free\n\nMedora’s Annual Hunters Feed will be hel
  ames for a chance to win many prizes\, including over 8 different guns. Co
  me out\, enjoy a fun evening and…\n\nListed by Medora Area Chamber of Co
  mmerce\n\nhttps://medorachamber.org/event/annual-medoras-hunters-feed-2/
-LOCATION:Medora Community Center\, Medora\, ND
+LOCATION:Medora Community Center\, Medora\, North Dakota\, Medora\, ND
 URL:https://medorachamber.org/event/annual-medoras-hunters-feed-2/
+GEO:46.9143;-103.525
 CATEGORIES:Medora Area Chamber of Commerce,In person,Free,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:96886a45245e93ed@medoraevents.labs.trlibrary.com
-DTSTAMP:20261018T160319Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261207
+DTSTAMP:20261019T103318Z
+DTSTART:20261204T070000Z
+DTEND:20261204T080000Z
 SUMMARY:Medora’s Old Fashioned Cowboy Christmas
 DESCRIPTION:In person\n\n🎄 Home for Medora’s Old Fashioned Cowboy Chri
  stmas in Medora! 🎄 Mark your calendars for December 4–6 and bring the
   whole family to Medora for a little old-fashioned Christmas magic! Enjoy 
  a weekend filled with…\n\nListed by Medora Area Chamber of Commerce\n\nh
  ttps://medorachamber.org/event/medoras-old-fashioned-cowboy-christmas-2/
-LOCATION:Medora City\, Medora\, ND
+LOCATION:Medora City\, Medora\, ND\, US 58645\, Medora\, ND
 URL:https://medorachamber.org/event/medoras-old-fashioned-cowboy-christmas-
  2/
+GEO:46.9143;-103.525
 CATEGORIES:Medora Area Chamber of Commerce,In person,Event
 STATUS:CONFIRMED
 END:VEVENT

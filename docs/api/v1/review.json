@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T16:03:18+00:00",
+ "generated": "2026-10-19T10:33:18+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -76,7 +76,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -165,10 +165,15 @@
      "source": "cityspark",
      "url": "https://www.history.nd.gov/events",
      "title": "Chateau Lantern Tours at night at Chateau de Morès State Historic Site"
+    },
+    {
+     "source": "facebook",
+     "url": "https://www.facebook.com/events/1080563428041083/",
+     "title": "Chateau Lantern Tours 2026"
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -255,7 +260,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-18",
+   "last_seen": "2026-10-19",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
