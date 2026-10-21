@@ -1,91 +1,11 @@
 {
- "generated": "2026-10-20T10:29:37+00:00",
+ "generated": "2026-10-21T10:32:28+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
  "note": "Events where calendars disagree on the start time (see extra.time_conflicts), and dates read from prose. Fix in config/overrides.yaml.",
- "count": 4,
+ "count": 3,
  "events": [
-  {
-   "source": "medora",
-   "source_event_id": "MEC-6de381ba5775fba44c7cc303a8c65279@medora.com",
-   "title": "Chateau de Morès’ Books and Banter: “The Raven”",
-   "start": "2026-10-20T10:00:00-06:00",
-   "end": "2026-10-20T23:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://medora.com/calendar/books-and-banter-the-raven/",
-   "description": "“Books and Banter,” a monthly book club featuring Victorian-era literature, will meet Tuesday, Oct. 20, 9-10 a.m. at the Chateau de Morès Interpretive Center in Medora. Book selections are intended to be easy to read and fun to discuss. Coffee and tea will be provided. This month’s book, “The Raven” by Edgar Allan Poe, is available to read for free via <a href=”https://www.google.com/url?q=https://www.gutenberg.org/ebooks/1065",
-   "image": "https://medora.com/wp-content/uploads/2024/10/Chateau-De-Mores.jpg",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Chateau de Mores",
-    "address": "Medora, ND",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.914972,
-    "lon": -103.534102
-   },
-   "organizer": "Theodore Roosevelt Medora Foundation",
-   "kind": "event",
-   "categories": [
-    "Daily",
-    "Events"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "4df438071fcb",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "time_conflicts": [
-     {
-      "source": "chateau",
-      "start": "2026-10-20T09:00:00-06:00"
-     },
-     {
-      "source": "cityspark",
-      "start": "2026-10-20T09:00:00-06:00"
-     }
-    ]
-   },
-   "id": "5f0d5c90c98a69e2",
-   "summary": "“Books and Banter,” a monthly book club featuring Victorian-era literature, will meet Tuesday, Oct. 20, 9-10 a.m. at the Chateau de Morès Interpretive Center in Medora. Book selections are intended to be easy to read…",
-   "source_name": "Theodore Roosevelt Medora Foundation",
-   "also_listed": [
-    {
-     "source": "chateau",
-     "url": "https://www.history.nd.gov/events/calendar.html",
-     "title": "Books and Banter: \"The Raven\""
-    },
-    {
-     "source": "cityspark",
-     "url": "https://www.history.nd.gov/events",
-     "title": "‘Books and Banter' book club meets Oct. 20 at the Chateau de Mores"
-    }
-   ],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-20",
-   "region_label": "Medora, ND",
-   "area": "medora",
-   "area_label": "In Medora",
-   "drive_minutes": 0,
-   "drive_label": null,
-   "lat": 46.9124256,
-   "lon": -103.5347822,
-   "geo_precision": "venue"
-  },
   {
    "source": "medora",
    "source_event_id": "MEC-5f62e80430001cc8f6e5f7fa220b740d@medora.com",
@@ -165,15 +85,10 @@
      "source": "cityspark",
      "url": "https://www.history.nd.gov/events",
      "title": "Chateau Lantern Tours at night at Chateau de Morès State Historic Site"
-    },
-    {
-     "source": "facebook",
-     "url": "https://www.facebook.com/events/1080563428041083/",
-     "title": "Chateau Lantern Tours 2026"
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -260,7 +175,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -296,8 +211,8 @@
     "region": "ND",
     "postal_code": null,
     "country": "US",
-    "lat": 46.9143,
-    "lon": -103.525
+    "lat": null,
+    "lon": null
    },
    "organizer": "Theodore Roosevelt Medora Foundation",
    "kind": "event",
@@ -319,10 +234,6 @@
      {
       "source": "chamber",
       "start": "2026-11-06T17:30:00-07:00"
-     },
-     {
-      "source": "facebook",
-      "start": "2026-11-06T17:30:00-07:00"
      }
     ]
    },
@@ -339,22 +250,17 @@
      "source": "discover",
      "url": "https://medorachamber.org/event/annual-medoras-hunters-feed-2/",
      "title": "Medora’s Annual Hunters Feed"
-    },
-    {
-     "source": "facebook",
-     "url": "https://www.facebook.com/events/987030653704928/",
-     "title": "Medora's Annual Hunter's Feed"
     }
    ],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20",
+   "last_seen": "2026-10-21",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
-   "lat": 46.9143,
-   "lon": -103.525,
+   "lat": 46.9127199,
+   "lon": -103.5219173,
    "geo_precision": "venue"
   }
  ]

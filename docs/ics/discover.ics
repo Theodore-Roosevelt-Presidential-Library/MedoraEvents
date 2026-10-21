@@ -12,17 +12,14 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/discover.ics
 BEGIN:VEVENT
 UID:c23343dfc9cd3ad3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261115T000000Z
-DTEND:20261115T010000Z
+DTSTAMP:20261021T103228Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
 SUMMARY:Races in the Badlands
-DESCRIPTION:In person\n\nRaces in the Badlands - Medora\, ND\n\nListed by D
- iscover Medora (Medora Convention & Visitors Bureau)\n\nhttps://www.facebo
- ok.com/events/1030701156568159/
-LOCATION:Medora Community Center\, 250 Main St\, Medora\, ND\, United State
- s\, North Dakota 58645\, Medora\, ND
+DESCRIPTION:In person\n\nListed by Discover Medora (Medora Convention & Vis
+ itors Bureau)\n\nhttps://www.facebook.com/events/1030701156568159/
+LOCATION:Medora Community Center\, Medora\, ND
 URL:https://www.facebook.com/events/1030701156568159/
-GEO:46.91529;-103.52623
 CATEGORIES:Discover Medora (Medora Convention & Visitors Bureau),In person,
  Event
 STATUS:CONFIRMED

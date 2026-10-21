@@ -9,39 +9,4 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/facebook.ics
-BEGIN:VEVENT
-UID:57c3f33f4638e9fe@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261117T160000Z
-DTEND:20261117T170000Z
-SUMMARY:Books and Banter: The Cloak
-DESCRIPTION:In person · Free\n\nJoin us in the movie room for a monthly bo
- ok club featuring Victorian-era literature\, including titles found in the
-  Chateau library. The book selections are intended to be easy to read and 
- fun to discuss. Coffee and tea…\n\nListed by Facebook events near Medora
- \n\nhttps://www.facebook.com/events/4194723194152861/
-LOCATION:3426 Chateau Road\, Medora\, ND\, United States\, North Dakota 586
- 45\, 3426 Chateau Road\, Medora\, ND\, United States\, North Dakota 58645
-URL:https://www.facebook.com/events/4194723194152861/
-GEO:46.91483;-103.54315
-CATEGORIES:Facebook events near Medora,In person,Free,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5afcebea03b75705@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20270130T013000Z
-DTEND:20270130T023000Z
-SUMMARY:Girlfriend Getaway 2027
-DESCRIPTION:In person\n\nAbout the Girlfriend Getaway The Girlfriend Getawa
- y was created from a simple belief: women need spaces where they can recon
- nect with themselves and with each other. So many of us spend our days car
- ing for everyone…\n\nListed by Facebook events near Medora\n\nhttps://ww
- w.facebook.com/events/931803769390852/
-LOCATION:Medora\, North Dakota\, Medora\, North Dakota\, Medora\, ND
-URL:https://www.facebook.com/events/931803769390852/
-GEO:46.9143;-103.525
-CATEGORIES:Facebook events near Medora,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR

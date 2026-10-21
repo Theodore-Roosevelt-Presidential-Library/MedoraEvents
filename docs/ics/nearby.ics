@@ -11,129 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/nearby.ics
 BEGIN:VEVENT
-UID:85ed5165040e7853@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261020T163000Z
-DTEND:20261020T170000Z
-SUMMARY:Pre-School Storytime
-DESCRIPTION:In person\n\n30 minutes in length. Stories\, arts & crafts\, fe
- lt board stories\, music\, and activities for children ages 3 to 5. Guardi
- an is not required to sit with child/children but must stay in the Easy Bo
- ok Room.\n\nListed by The Dickinson Press community calendar\n\nhttps://ww
- w.facebook.com/events/1804308197655625/1838082857611492/?active_tab=about
-LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
-URL:https://www.facebook.com/events/1804308197655625/1838082857611492/?acti
- ve_tab=about
-GEO:46.8819015473;-102.787194103
-CATEGORIES:The Dickinson Press community calendar,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2df4441aee968ff1@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261020T210000Z
-DTEND:20261021T010000Z
-SUMMARY:Artist's Open Studio: October
-DESCRIPTION:In person · Free\n\n🎨 Open Studio at Long X Art Center Look
- ing for a creative space to paint\, draw\, and connect? Join us for Open S
- tudio\, a relaxed time for artists of all levels to create\, share ideas\,
-  and enjoy being part of a supportive…\n\nListed by Watford City events\
- n\nhttps://www.visitwatfordcity.com/Calendar/Details/4703/Artist-s-Open-St
- udio-October
-LOCATION:Watford City\, ND
-URL:https://www.visitwatfordcity.com/Calendar/Details/4703/Artist-s-Open-St
- udio-October
-CATEGORIES:Watford City events,In person,Free,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2e18905cfca369f2@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261020T220000Z
-DTEND:20261020T230000Z
-SUMMARY:Tweens: Haunted Gingerbread Houses
-DESCRIPTION:In person\n\nVarious activities for tweens at the library inclu
- ding: T.A.B. \\(Tween Advisory Board\\)\, crafts\, gaming\, science projec
- ts\, and more!\n\nListed by The Dickinson Press community calendar\n\nhttp
- s://www.facebook.com/events/1745630963408353/
-LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
-URL:https://www.facebook.com/events/1745630963408353/
-GEO:46.8819015473;-102.787194103
-CATEGORIES:The Dickinson Press community calendar,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cb8ea47201bfc549@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261021T000000Z
-DTEND:20261021T010000Z
-SUMMARY:Crack the Case: Murder at the Magic Mirror Casino
-DESCRIPTION:In person\n\nA disgraced Las Vegas magician was found dead behi
- nd the Magic Mirror Casino. Look through a file of suspect profiles\, poli
- ce reports\, phone/text records\, witness statements\, photographs and oth
- er evidence to solve this…\n\nListed by The Dickinson Press community ca
- lendar\n\nhttps://www.facebook.com/events/1095646746198224/
-LOCATION:Dickinson Area Public Library\, 139 3rd St W\, Dickinson\, ND
-URL:https://www.facebook.com/events/1095646746198224/
-GEO:46.8819015473;-102.787194103
-CATEGORIES:The Dickinson Press community calendar,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:373b02a839966092@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261021T000000Z
-DTEND:20261021T010000Z
-SUMMARY:NAfME Ukulele Jam
-DESCRIPTION:In person\n\nUkulele Jam: No Experience Required! Ever wanted t
- o play an instrument? Grab a ukulele and give it a try! Join us for a fun\
- , beginner-friendly session where you'll learn a few chords\, strum along 
- to popular songs\, and…\n\nListed by Dickinson State University\n\nhttps
- ://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D2107747
- 28
-LOCATION:May Hall\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D210774728
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:08bd48939cef3570@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261020T233030Z
-DTEND:20261021T010000Z
-SUMMARY:Trivia Tuesday at Stonehome Brewing Co
-DESCRIPTION:In person\n\nJoin us every Tuesday in October at 6:30 PM for Tr
- ivia Tuesday at Stonehome! Test your knowledge\, enjoy great food and drin
- ks\, and compete for a fun night out. Call 701-444-2337 to reserve your te
- ams spot.\n\nListed by Watford City events\n\nhttps://www.visitwatfordcity
- .com/Calendar/Details/4691/Trivia-Tuesday-at-Stonehome-Brewing-Co
-LOCATION:Watford City\, ND
-URL:https://www.visitwatfordcity.com/Calendar/Details/4691/Trivia-Tuesday-a
- t-Stonehome-Brewing-Co
-CATEGORIES:Watford City events,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7f786fcf43f78451@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART:20261021T010000Z
-DTEND:20261021T040000Z
-SUMMARY:Haunted House SET UP
-DESCRIPTION:In person\n\nBuilding: Klinefelter Hall Room: 1st\, 2nd\, 3rd\,
-  4th Fl oor Organizer: Sarah Crossingham Category: Community Events\,Fine 
- and Performing Arts Audience: Private Link: https://forms.cloud.microsoft/
- r/GsNV1vsZ3s Prep for…\n\nListed by The Dickinson Press community calend
- ar\n\nhttps://forms.cloud.microsoft/r/GsNV1vsZ3s
-LOCATION:Klinefelter Hall\, Dickinson\, ND
-URL:https://forms.cloud.microsoft/r/GsNV1vsZ3s
-GEO:46.87918;-102.78962
-CATEGORIES:The Dickinson Press community calendar,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6a9b94fcf05cde58@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261021T200000Z
 DTEND:20261021T210000Z
 SUMMARY:Homeschool Hangout
@@ -150,7 +29,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:25b0caec1a4eef0e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261021T233000Z
 DTEND:20261022T003000Z
 SUMMARY:Pitter Patter Club: Spooky Boogie Night
@@ -167,7 +46,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a2ab87e3362e354c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261022T010000Z
 DTEND:20261022T040000Z
 SUMMARY:Haunted House SET UP
@@ -184,7 +63,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:90da02de227e67a8@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261022T020000Z
 DTEND:20261022T030000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -202,7 +81,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:38331e067895648e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261022T140000Z
 DTEND:20261022T150000Z
 SUMMARY:1st Annual Rise & Lead: Women in Business
@@ -219,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8fd8ffad2a38c2ed@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261022T160000Z
 DTEND:20261022T210000Z
 SUMMARY:1st Annual Rise & Lead: Women in Business
@@ -236,7 +115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7d87726ccc018d3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261023T010000Z
 DTEND:20261023T040000Z
 SUMMARY:Haunted House SET UP
@@ -253,7 +132,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:369fd9cf23d6aaf0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261023T010000Z
 DTEND:20261023T023000Z
 SUMMARY:Phat Fish Comedy Night
@@ -270,7 +149,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f82bae5f481ecb9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Dickinson Pickleball Club Tournament
@@ -287,7 +166,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30a075efaee6f68d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Dickinson State University Men's Basketball vs Doane Univer sity
@@ -304,7 +183,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e57f8f44164c16c8@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261023T233000Z
 DTEND:20261024T003000Z
 SUMMARY:Touch Down Club Social
@@ -320,7 +199,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:accea4913ace7447@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T000000Z
 DTEND:20261024T040000Z
 SUMMARY:Teen Halloween Lock-In
@@ -337,7 +216,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d71ab91d8b885a84@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Dickinson State University Men's Cross Country at Blazing T iger NA
@@ -355,7 +234,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c7ba4bfb59fdba6@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T050000Z
 DTEND:20261024T060000Z
 SUMMARY:Live Podcast Midwest Murder
@@ -372,7 +251,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa2e198ff10abffa@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T150000Z
 DTEND:20261024T160000Z
 SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
@@ -389,7 +268,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4991455e9ce36cf4@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T160000Z
 DTEND:20261024T190000Z
 SUMMARY:DSU HF Tailgate
@@ -405,7 +284,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:973e73ee260ab5bf@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T180000Z
 DTEND:20261024T220000Z
 SUMMARY:Private Guitar Lessons: October
@@ -423,7 +302,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d2164cc37449a5fa@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T180000Z
 DTEND:20261024T200000Z
 SUMMARY:Watercolor Sip 'n Paint: Scary Silhouette
@@ -441,7 +320,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f9785dfb2d49e8f7@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T190000Z
 DTEND:20261024T200000Z
 SUMMARY:Saturday Craft Club: Halloween Coasters
@@ -457,7 +336,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2a15bd2156d30272@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T200000Z
 DTEND:20261024T230000Z
 SUMMARY:Dickinson State University Football vs Valley City State University
@@ -476,7 +355,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a89dac0e2587e0a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261024T200000Z
 DTEND:20261024T210000Z
 SUMMARY:Broncs in the Bakken
@@ -493,7 +372,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:04d12b137841c588@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261025T000000Z
 DTEND:20261025T010000Z
 SUMMARY:30TH BIRTHDAY BASH! THANK YOU TO.MY COMMUNITY!
@@ -514,7 +393,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:792d94015b847e3d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261025T010000Z
 DTEND:20261025T023000Z
 SUMMARY:Dickinson ND\, Mediumship Gallery w/ Tania Rae
@@ -531,7 +410,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e7427bb69095f4ee@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261025T190000Z
 DTEND:20261025T200000Z
 SUMMARY:Jam Session
@@ -547,7 +426,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:97be065f07b74632@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261025T200000Z
 DTEND:20261025T210000Z
 SUMMARY:Good News Gospel Concert
@@ -562,8 +441,25 @@ CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f4a2c4d6539a316a@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:911 Dispatcher Training
+DESCRIPTION:In person\n\nA professional training session for 911 dispatcher
+ s.\n\nListed by The Dickinson Press community calendar\n\nhttps://www.daws
+ on.edu/news-events/event-calendar.html/event/2026/10/30/911-dispatcher-tra
+ ining/579354
+LOCATION:Glendive\, MT
+URL:https://www.dawson.edu/news-events/event-calendar.html/event/2026/10/30
+ /911-dispatcher-training/579354
+GEO:47.10529;-104.71246
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:c8a64ad921f05f09@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261026T160000Z
 DTEND:20261026T163000Z
 SUMMARY:Tiny Tots Storytime
@@ -582,7 +478,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bd30cc458218247c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261026T220000Z
 DTEND:20261027T000000Z
 SUMMARY:Dickinson State University Women's JV Volleyball vs Lake Region Sta
@@ -600,7 +496,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1c05eab20f67c62@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261027T003000Z
 DTEND:20261027T013000Z
 SUMMARY:CAB Weekly Meetings
@@ -617,7 +513,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13f79f6054f5d01b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261027T163000Z
 DTEND:20261027T170000Z
 SUMMARY:Pre-School Storytime
@@ -635,7 +531,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7ba6e473eeded9f2@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261027T220000Z
 DTEND:20261027T230000Z
 SUMMARY:Anime & Manga Club
@@ -652,7 +548,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15e8149b9f0a0b2d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261027T233030Z
 DTEND:20261028T010000Z
 SUMMARY:Trivia Tuesday at Stonehome Brewing Co
@@ -669,7 +565,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e53ff6463156d0bc@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261028T210000Z
 DTEND:20261029T010000Z
 SUMMARY:Pumpkin Carving
@@ -687,7 +583,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9ea52f51238a4160@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261029T020000Z
 DTEND:20261029T030000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -705,7 +601,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3f855d5093f8d3e3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261029T213000Z
 DTEND:20261029T233000Z
 SUMMARY:Howl-ween (& Hoomans) Paw-ty
@@ -722,7 +618,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:263e03d0f5c679d0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261029T210000Z
 DTEND:20261029T223030Z
 SUMMARY:Bat Night
@@ -737,7 +633,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85bb477b13e0f50c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261030T000000Z
 DTEND:20261030T020000Z
 SUMMARY:Dickinson State University Women's Volleyball vs Valley City State 
@@ -755,7 +651,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4ce865289a6a03d0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261030T200000Z
 DTEND:20261030T220000Z
 SUMMARY:Trail of Treats
@@ -769,7 +665,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:06f9095d689fd4ff@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261030T220000Z
 DTEND:20261031T000000Z
 SUMMARY:Dickinson State University Women's JV Volleyball vs Mayville State 
@@ -786,8 +682,24 @@ CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:428f9b930afb1979@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261030T230000Z
+DTEND:20261031T030000Z
+SUMMARY:Haunted House
+DESCRIPTION:In person · Free\n\nThe Lewis and Clark Trail Museum's 6th ann
+ ual Haunted House attraction will be hosted on October 30th and 31st with 
+ a PG kid friendly section from 6 pm - 8 pm both nights. And a scarier PG-1
+ 3/R rated section from 8 pm …\n\nListed by Watford City events\n\nhttps:
+ //www.visitwatfordcity.com/Calendar/Details/4744/Haunted-House
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4744/Haunted-House
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ec007ba15df1e6c6@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261031T000000Z
 DTEND:20261031T030000Z
 SUMMARY:DHS Playoff Football Game
@@ -801,7 +713,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a11c962a5f552b83@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261031T000000Z
 DTEND:20261031T020000Z
 SUMMARY:Dickinson State University Women's Volleyball vs Mayville State Uni
@@ -819,7 +731,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0ddbc1058ff39cdb@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261031T000000Z
 DTEND:20261031T030000Z
 SUMMARY:West River ICE SCREAM Halloween Party
@@ -837,7 +749,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e77c8243b1e2f211@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261030T233030Z
 DTEND:20261031T040000Z
 SUMMARY:Haunted Corn Maze
@@ -854,7 +766,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21731f83d4428973@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261031T150000Z
 DTEND:20261031T210000Z
 SUMMARY:Paint Your Own Pottery Open Studio: October
@@ -872,7 +784,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:af5673863363b7f5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261031T210000Z
 DTEND:20261031T230000Z
 SUMMARY:13th Annual Trick or Trunk
@@ -888,8 +800,24 @@ CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ccbdaab4ae238e4e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261031T230000Z
+DTEND:20261101T030000Z
+SUMMARY:Haunted House
+DESCRIPTION:In person · Free\n\nThe Lewis and Clark Trail Museum's 6th ann
+ ual Haunted House attraction will be hosted on October 30th and 31st with 
+ a PG kid friendly section from 6 pm - 8 pm both nights. And a scarier PG-1
+ 3/R rated section from 8 pm …\n\nListed by Watford City events\n\nhttps:
+ //www.visitwatfordcity.com/Calendar/Details/4744/Haunted-House
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4744/Haunted-House
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:841a77d11c1ecfcb@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261031T233030Z
 DTEND:20261101T040000Z
 SUMMARY:Haunted Corn Maze
@@ -906,7 +834,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:374373ebccdbfa61@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261101T050000Z
 DTEND:20270115T070000Z
 SUMMARY:Deck the Hall | Christmas Tree Competition
@@ -923,26 +851,10 @@ CATEGORIES:Watford City events,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f0f65dc54f4598a9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Dickinson State University Men's JV Basketball vs Bismarck State Co
- llege
-DESCRIPTION:In person\n\nDickinson State University Men's JV Basketball vs 
- Bismarck State College\n\nListed by Dickinson State University\n\nhttps://
- dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473532
-LOCATION:Scott Gymnasium\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D207473532
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:07e7d7f050821a68@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
+UID:1e36db93a2eeffb8@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261103T000000Z
+DTEND:20261103T020000Z
 SUMMARY:Dickinson State University Women's JV Basketball vs Bismarck State 
  College
 DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
@@ -952,12 +864,13 @@ DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D210779000
+GEO:46.87918;-102.78962
 CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9d18cf039fdd887c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261102T233000Z
 DTEND:20261103T040000Z
 SUMMARY:Chefs Table x Gyno Babia
@@ -975,7 +888,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2a4e35b7aaa21b16@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261103T013000Z
 DTEND:20261103T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -991,8 +904,25 @@ CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:7d48580b1b1c8e98@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261103T020000Z
+DTEND:20261103T040000Z
+SUMMARY:Dickinson State University Men's JV Basketball vs Bismarck State Co
+ llege
+DESCRIPTION:In person\n\nDickinson State University Men's JV Basketball vs 
+ Bismarck State College\n\nListed by Dickinson State University\n\nhttps://
+ dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207473532
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D207473532
+GEO:46.87918;-102.78962
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:98a6bdf3fb4e6f7f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261103T140000Z
 DTEND:20261104T020000Z
 SUMMARY:2026 General Election
@@ -1009,7 +939,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5fe3065963259408@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261105T030000Z
 DTEND:20261105T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -1027,7 +957,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a7e851223365388@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:DSU Give Day
@@ -1044,8 +974,8 @@ CATEGORIES:Dickinson State University,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9ab2c60e3c78986a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:d075fef779ec6a31@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20261106T020000Z
 DTEND:20261106T033000Z
 SUMMARY:Steven Farmer: Live in Belfield ND
@@ -1063,7 +993,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0cc073800f36edc0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
 SUMMARY:Dickinson State Women's Wrestling Open Tournament
@@ -1080,7 +1010,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e6c5c18a86b8cb9b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:West Marches D&D
@@ -1097,7 +1027,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf1096a4991a69e3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Dickinson State University Women's Wrestling vs Hastings College (N
@@ -1113,7 +1043,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dd5a1d859e58be04@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261107T020000Z
 DTEND:20261107T050000Z
 SUMMARY:Dickinson State University Women's Wrestling vs University of Sioux
@@ -1130,7 +1060,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9b045dd20ef5f8bf@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Asiya Korepanova:Piano the Beloved
@@ -1146,7 +1076,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fd04347f535f0ebf@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261107T150000Z
 DTEND:20261107T160000Z
 SUMMARY:Fall Optimist Basketball Tournament
@@ -1163,7 +1093,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e2a5eade3d81b7e9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261107T160000Z
 DTEND:20261107T190000Z
 SUMMARY:Dickinson State University Women's Wrestling vs DSU Women&# 3's Ope
@@ -1181,7 +1111,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c33fb6260cbbb286@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261107T160000Z
 DTEND:20261107T190000Z
 SUMMARY:Dickinson State University Women's Wrestling vs DSU Women's Open
@@ -1196,7 +1126,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:707e3de75e6ba842@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261108T000000Z
 DTEND:20261108T020000Z
 SUMMARY:North Dakota Stagefest
@@ -1212,42 +1142,8 @@ CATEGORIES:Watford City events,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0bbbbc548019e282@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Dickinson State University Men's JV Basketball vs Rocky Mountain Co
- llege (Mont.)
-DESCRIPTION:In person\n\nDickinson State University Men's JV Basketball vs 
- Rocky Mountain College (Mont.)\n\nListed by Dickinson State University\n\n
- https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D20
- 7473533
-LOCATION:Scott Gymnasium\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D207473533
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9e03a299edd4d8f2@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Dickinson State University Women's JV Basketball vs Rocky Mountain 
- College (Mont.)
-DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
- s Rocky Mountain College (Mont.)\n\nListed by Dickinson State University\n
- \nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D
- 210779001
-LOCATION:Scott Gymnasium\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D210779001
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:1a386dca068c4e49@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261108T140000Z
 DTEND:20261109T030000Z
 SUMMARY:Fall Optimist Youth Basketball
@@ -1260,27 +1156,46 @@ CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2810efc0ce73dc53@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
+UID:1eba499edc8353f0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261108T210000Z
+DTEND:20261108T230000Z
+SUMMARY:Dickinson State University Women's JV Basketball vs Rocky Mountain 
+ College (Mont.)
+DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
+ s Rocky Mountain College (Mont.)\n\nListed by Dickinson State University\n
+ \nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D
+ 210779001
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D210779001
+GEO:46.87918;-102.78962
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e14ce27914489c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261108T230000Z
+DTEND:20261109T010000Z
 SUMMARY:Dickinson State University Men's JV Basketball vs Rocky Mountain Co
  llege (Mont.)
 DESCRIPTION:In person\n\nDickinson State University Men's JV Basketball vs 
  Rocky Mountain College (Mont.)\n\nListed by Dickinson State University\n\n
  https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D20
- 7473534
+ 7473533
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D207473534
+ D207473533
+GEO:46.87918;-102.78962
 CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8459e329fbcb7125@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
+UID:e667cadab61ed18d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261110T000000Z
+DTEND:20261110T020000Z
 SUMMARY:Dickinson State University Women's JV Basketball vs Rocky Mountain 
  College (Mont.)
 DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
@@ -1290,12 +1205,13 @@ DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D210779002
+GEO:46.87918;-102.78962
 CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f71f41622aab5f1d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261110T013000Z
 DTEND:20261110T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -1311,8 +1227,26 @@ CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:7e1c56eaff662f0d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261110T020000Z
+DTEND:20261110T040000Z
+SUMMARY:Dickinson State University Men's JV Basketball vs Rocky Mountain Co
+ llege (Mont.)
+DESCRIPTION:In person\n\nDickinson State University Men's JV Basketball vs 
+ Rocky Mountain College (Mont.)\n\nListed by Dickinson State University\n\n
+ https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D20
+ 7473534
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D207473534
+GEO:46.87918;-102.78962
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e598c89870ae5b14@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Veterans Day holiday
@@ -1326,7 +1260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fff0bd26beb59434@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261112T030000Z
 DTEND:20261112T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -1343,42 +1277,8 @@ CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c86efed2b1daa625@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Dickinson State University Men's JV Basketball vs Nueta Hidatsa Sah
- nish College
-DESCRIPTION:In person\n\nDickinson State University Men's JV Basketball vs 
- Nueta Hidatsa Sahnish College\n\nListed by Dickinson State University\n\nh
- ttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207
- 473535
-LOCATION:Scott Gymnasium\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D207473535
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8789db5be6c1063e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Dickinson State University Women's JV Basketball vs Nueta Hidatsa S
- ahnish College
-DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
- s Nueta Hidatsa Sahnish College\n\nListed by Dickinson State University\n\
- nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D2
- 10779003
-LOCATION:Scott Gymnasium\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D210779003
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a73186b674e7af4e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261112T220000Z
 DTEND:20261113T020000Z
 SUMMARY:20th Annual Holiday Extravaganza
@@ -1394,8 +1294,44 @@ CATEGORIES:Watford City events,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:19688fb86b4660ee@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:Dickinson State University Women's JV Basketball vs Nueta Hidatsa S
+ ahnish College
+DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
+ s Nueta Hidatsa Sahnish College\n\nListed by Dickinson State University\n\
+ nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D2
+ 10779003
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D210779003
+GEO:46.87918;-102.78962
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:87411e3d5a8a4fb6@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART:20261113T020000Z
+DTEND:20261113T040000Z
+SUMMARY:Dickinson State University Men's JV Basketball vs Nueta Hidatsa Sah
+ nish College
+DESCRIPTION:In person\n\nDickinson State University Men's JV Basketball vs 
+ Nueta Hidatsa Sahnish College\n\nListed by Dickinson State University\n\nh
+ ttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207
+ 473535
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D207473535
+GEO:46.87918;-102.78962
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3f5c285a005847b9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261114T020000Z
 DTEND:20261114T033000Z
 SUMMARY:CTRL Play: Grades 6-8
@@ -1412,7 +1348,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:296005b63a74c503@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Dickinson State University Men's JV Basketball at Dawson Co mmunity
@@ -1430,7 +1366,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eac91d541384f26e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261114T160000Z
 DTEND:20261114T220000Z
 SUMMARY:Clay Sculpting Open Studio -November
@@ -1448,7 +1384,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:db8068a9d94f4a0c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261117T013000Z
 DTEND:20261117T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -1465,7 +1401,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d072b7379f1d009b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261117T220000Z
 DTEND:20261118T020000Z
 SUMMARY:Artist's Open Studio: November
@@ -1483,7 +1419,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f2011856e66ceb3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Turkey Bingo
@@ -1500,7 +1436,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:31acdb5bbd73c926@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261118T190000Z
 DTEND:20261119T020000Z
 SUMMARY:Opportunities in Agriculture
@@ -1518,7 +1454,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:32f0e5363bce0083@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261119T020000Z
 DTEND:20261120T050000Z
 SUMMARY:Derrick Knopsnyder
@@ -1536,7 +1472,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e10afe0d6d3f0d7a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261119T030000Z
 DTEND:20261119T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -1554,7 +1490,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:212e00a2c27a0301@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261119T200000Z
 DTEND:20261119T230000Z
 SUMMARY:Intelligent Design Book event
@@ -1571,7 +1507,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ac693d89196b84ed@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
 SUMMARY:Teen After Hours
@@ -1588,7 +1524,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9725d5bb4ae6ff0d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261122T010000Z
 DTEND:20261122T020000Z
 SUMMARY:Acoustic Night with Jerilyn Wiseman
@@ -1605,7 +1541,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ad5534533bbb3e36@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261122T010000Z
 DTEND:20261122T050000Z
 SUMMARY:Harmony for Hope
@@ -1621,7 +1557,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d8111603b527dc3d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -1638,7 +1574,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:95de8c293135c350@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261124T020000Z
 DTEND:20261124T040000Z
 SUMMARY:Dickinson State University Men's Basketball at University of Idaho 
@@ -1654,8 +1590,39 @@ CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:126a293773b56a15@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Dickinson State University Women's JV Basketball vs Williston State
+  College
+DESCRIPTION:In person\n\nDickinson State University Women's JV Basketball v
+ s Williston State College\n\nListed by Dickinson State University\n\nhttps
+ ://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D2107790
+ 07
+LOCATION:Scott Gymnasium\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D210779007
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ca53d11963be9fec@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:Thanksgiving holiday
+DESCRIPTION:In person\n\nListed by Dickinson State University\n\nhttps://di
+ ckinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D209414541
+LOCATION:Dickinson State University\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D209414541
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3d475f78daa23b0e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Glendive Turkey Trot 5k
@@ -1672,7 +1639,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:09bf19e436135b8b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Richland Ranger Turkey Trot
@@ -1689,7 +1656,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d895061dd1a2d7c4@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261128T003030Z
 DTEND:20261128T013030Z
 SUMMARY:Parade of Lights
@@ -1705,7 +1672,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b82fcde5bfb03a1@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Paint Your Own Pottery: November
@@ -1722,8 +1689,8 @@ CATEGORIES:Watford City events,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7952f8cd825192ba@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:aa452e17734ff4e8@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20261201T230000Z
 DTEND:20261202T043000Z
 SUMMARY:Girls Basketball @ South Heart
@@ -1737,7 +1704,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:26a0d14991dc3707@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:Santa Hotline
@@ -1754,7 +1721,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c626546edf0aa63@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261203T013030Z
 DTEND:20261203T033030Z
 SUMMARY:Magical Medora Christmas
@@ -1771,7 +1738,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8d43978000abb2d3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Santa Hotline
@@ -1788,7 +1755,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e02274c84de67fdd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Dickinson State University Women's Wrestling at Doane Open
@@ -1805,7 +1772,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05c4803ef5819c72@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261204T230000Z
 DTEND:20261205T010000Z
 SUMMARY:Dickinson State University Women's Basketball at Dakota Sta te Univ
@@ -1823,7 +1790,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0fb40cbde7b70d85@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261205T160000Z
 DTEND:20261205T190000Z
 SUMMARY:Dickinson State University Men's Wrestling at Doane Open
@@ -1840,7 +1807,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c8908a29b34a7859@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261205T160000Z
 DTEND:20261205T220000Z
 SUMMARY:Clay Sculpting Open Studio -December
@@ -1858,7 +1825,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3d05e8f8d1ad2d31@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261205T173000Z
 DTEND:20261205T183000Z
 SUMMARY:Jingle Bell 5K
@@ -1875,7 +1842,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:28eed3dfacc73b47@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261205T230000Z
 DTEND:20261206T010000Z
 SUMMARY:Dickinson State University Women's Basketball at Bellevue U niversi
@@ -1893,7 +1860,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fc67f485052b2848@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261207T233500Z
 DTEND:20261208T003500Z
 SUMMARY:Badlands Big Sticks
@@ -1909,7 +1876,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4b3aab5dddcbdc1@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261209T220000Z
 DTEND:20261210T020000Z
 SUMMARY:Artist's Open Studio: December
@@ -1927,7 +1894,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b119efd99c63224b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261212T040000Z
 DTEND:20261212T060000Z
 SUMMARY:Teen After Hours: Middle School Edition
@@ -1944,7 +1911,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d3afcc41d96d291c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261212T160000Z
 DTEND:20261212T210000Z
 SUMMARY:Christmas Fest
@@ -1960,7 +1927,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2136aae80c0d9b3f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Bismarck S tate Co
@@ -1978,7 +1945,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c573c8a8bfdfee6e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261219T000000Z
 DTEND:20261219T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Rocky Moun tain Co
@@ -1996,7 +1963,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bd48fbf74775600d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20261220T000000Z
 DTEND:20261220T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Carroll Co llege (
@@ -2014,7 +1981,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13d4400b06f91914@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270101T010000Z
 DTEND:20270101T040000Z
 SUMMARY:New Year's Eve Skating Party
@@ -2032,7 +1999,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08171582482f6498@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270101T040000Z
 DTEND:20270101T071500Z
 SUMMARY:Teen After Hours: NYE Party Edition
@@ -2049,8 +2016,8 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:54ff945e7a3d1bf5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:1849f546afbee59f@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20270115T230000Z
 DTEND:20270116T033000Z
 SUMMARY:Girls Basketball @ Killdeer
@@ -2064,7 +2031,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3ad97377490eeb9f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270116T040000Z
 DTEND:20270116T060000Z
 SUMMARY:Teen After Hours
@@ -2081,7 +2048,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21834c410db1be53@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270116T150000Z
 DTEND:20270116T160000Z
 SUMMARY:Winter Optimist Basketball Tournament
@@ -2097,8 +2064,8 @@ CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b2f0e8cf92ac9f45@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:c0f8b5b84bd25238@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20270122T230000Z
 DTEND:20270123T011500Z
 SUMMARY:Boys Basketball @ Killdeer
@@ -2112,7 +2079,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc0979bddfa6575f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270123T150000Z
 DTEND:20270124T010000Z
 SUMMARY:Beat the Winter Blues
@@ -2129,7 +2096,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d745d761f48e6562@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270130T160000Z
 DTEND:20270130T170000Z
 SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
@@ -2145,8 +2112,8 @@ CATEGORIES:The Dickinson Press community calendar,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:78aae00d85d9a152@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:bfe755cf6a1126ce@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20270205T230000Z
 DTEND:20270206T040000Z
 SUMMARY:Girls Basketball @ Dickinson Trinity
@@ -2160,7 +2127,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5a59129c8229ac5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Rogina Cusic Memorial Tennis Tournament
@@ -2177,7 +2144,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ec8db9e65778b67c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270213T040000Z
 DTEND:20270213T060000Z
 SUMMARY:Teen After Hours: Middle School Edition
@@ -2194,7 +2161,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:04f290f1ad6fa8e7@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270214T010000Z
 DTEND:20270214T030000Z
 SUMMARY:Tap Into Soul
@@ -2211,8 +2178,8 @@ CATEGORIES:Watford City events,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0d56515fdd3eef31@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:7c4e31b17f02978a@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20270219T230000Z
 DTEND:20270220T040000Z
 SUMMARY:Boys Basketball @ Dickinson Trinity
@@ -2226,7 +2193,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:608611dd0cebecfa@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270220T020000Z
 DTEND:20270220T033000Z
 SUMMARY:CTRL Play: Grades 9-12
@@ -2242,14 +2209,14 @@ CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:10e81162a00486b7@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:23c328576073b470@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20270222T230000Z
 DTEND:20270223T040000Z
 SUMMARY:Girls Basketball Regional Tournament
-DESCRIPTION:In person\n\nA regional tournament for girls high school basket
- ball in Killdeer.\n\nListed by The Dickinson Press community calendar\n\nh
- ttps://www.newtown.k12.nd.us/events
+DESCRIPTION:In person\n\nGirls basketball regional tournament action.\n\nLi
+ sted by The Dickinson Press community calendar\n\nhttps://www.newtown.k12.
+ nd.us/events
 LOCATION:1415 High St NW\, Killdeer\, ND
 URL:https://www.newtown.k12.nd.us/events
 GEO:47.3746;-102.77257
@@ -2257,14 +2224,14 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f84083fd7d8b406e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:8351050d3770c2ba@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20270223T230000Z
 DTEND:20270224T040000Z
 SUMMARY:Girls Basketball Regional Tournament
-DESCRIPTION:In person\n\nA regional tournament for girls high school basket
- ball in Killdeer.\n\nListed by The Dickinson Press community calendar\n\nh
- ttps://www.newtown.k12.nd.us/events
+DESCRIPTION:In person\n\nGirls basketball regional tournament action.\n\nLi
+ sted by The Dickinson Press community calendar\n\nhttps://www.newtown.k12.
+ nd.us/events
 LOCATION:1415 High St NW\, Killdeer\, ND
 URL:https://www.newtown.k12.nd.us/events
 GEO:47.3746;-102.77257
@@ -2272,14 +2239,14 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e2ee920fe0e02301@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+UID:0a76a8fe59544af2@medoraevents.labs.trlibrary.com
+DTSTAMP:20261021T103228Z
 DTSTART:20270225T230000Z
 DTEND:20270226T040000Z
 SUMMARY:Girls Basketball Regional Tournament
-DESCRIPTION:In person\n\nA regional tournament for girls high school basket
- ball in Killdeer.\n\nListed by The Dickinson Press community calendar\n\nh
- ttps://www.newtown.k12.nd.us/events
+DESCRIPTION:In person\n\nGirls basketball regional tournament action.\n\nLi
+ sted by The Dickinson Press community calendar\n\nhttps://www.newtown.k12.
+ nd.us/events
 LOCATION:1415 High St NW\, Killdeer\, ND
 URL:https://www.newtown.k12.nd.us/events
 GEO:47.3746;-102.77257
@@ -2288,7 +2255,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9b7096139c9207e8@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270306T160000Z
 DTEND:20270306T170000Z
 SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
@@ -2305,7 +2272,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b8ccb32f8bc1bedd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270313T020000Z
 DTEND:20270313T033000Z
 SUMMARY:CTRL Play: Grades 6-8
@@ -2322,7 +2289,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0bc9c1ee68405adf@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270320T030000Z
 DTEND:20270320T050000Z
 SUMMARY:Teen After Hours
@@ -2339,7 +2306,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:27e237f3ab27a740@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270410T030000Z
 DTEND:20270410T050000Z
 SUMMARY:Teen After Hours: Middle School Edition
@@ -2356,7 +2323,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:346afb272c2f115c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:"It's a Big Dill" Pickleball Tournament
@@ -2373,7 +2340,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:edf5711f51e9aa1f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270501T010000Z
 DTEND:20270501T023000Z
 SUMMARY:CTRL Play: Grades 9-12
@@ -2390,7 +2357,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8d9927956e05e55a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270514T000000Z
 DTEND:20270514T020000Z
 SUMMARY:One of these Nights: The Ultimate Tribute to the Eagles
@@ -2408,7 +2375,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c521affd45622fe@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270810T030000Z
 DTEND:20270810T040000Z
 SUMMARY:11th European Heart Congress
@@ -2425,7 +2392,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae9aad552f07a388@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270811T000000Z
 DTEND:20270811T010000Z
 SUMMARY:11th European Heart Congress
@@ -2442,7 +2409,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd1e833048ec6af2@medoraevents.labs.trlibrary.com
-DTSTAMP:20261020T102938Z
+DTSTAMP:20261021T103228Z
 DTSTART:20270811T150000Z
 DTEND:20270812T000000Z
 SUMMARY:3rd European Congress on Infectious Diseases & Immunology
