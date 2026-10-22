@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T10:32:28+00:00",
+ "generated": "2026-10-22T10:32:07+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -12,11 +12,11 @@
   "region": "Medora, ND",
   "ok": false,
   "count": 2,
-  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "error": "FetchError: Firecrawl 500: {\"success\":false,\"code\":\"SCRAPE_ALL_ENGINES_FAILED\",\"error\":\"All scraping engines failed to retrieve content from this URL. Engines tried: [index, fire-engine;chrome-cdp, fire-engine(retry);chrome-cdp",
   "last_success": "2026-10-20",
-  "checked": "2026-10-21T10:31:23+00:00",
+  "checked": "2026-10-22T10:30:54+00:00",
   "using_cached_from": "2026-10-20",
-  "seconds": 0.2
+  "seconds": 17.4
  },
  "count": 1,
  "events": [
@@ -71,7 +71,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",

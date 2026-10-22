@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T10:32:28+00:00",
+ "generated": "2026-10-22T10:32:07+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -88,7 +88,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -175,7 +175,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -253,7 +253,7 @@
     }
    ],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-21",
+   "last_seen": "2026-10-22",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
