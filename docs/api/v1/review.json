@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T10:32:07+00:00",
+ "generated": "2026-10-23T10:30:34+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -85,10 +85,15 @@
      "source": "cityspark",
      "url": "https://www.history.nd.gov/events",
      "title": "Chateau Lantern Tours at night at Chateau de Morès State Historic Site"
+    },
+    {
+     "source": "facebook",
+     "url": "https://www.facebook.com/events/1080563428041083/",
+     "title": "Chateau Lantern Tours 2026"
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -175,7 +180,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -211,8 +216,8 @@
     "region": "ND",
     "postal_code": null,
     "country": "US",
-    "lat": null,
-    "lon": null
+    "lat": 46.9143,
+    "lon": -103.525
    },
    "organizer": "Theodore Roosevelt Medora Foundation",
    "kind": "event",
@@ -234,6 +239,10 @@
      {
       "source": "chamber",
       "start": "2026-11-06T17:30:00-07:00"
+     },
+     {
+      "source": "facebook",
+      "start": "2026-11-06T17:30:00-07:00"
      }
     ]
    },
@@ -250,17 +259,22 @@
      "source": "discover",
      "url": "https://medorachamber.org/event/annual-medoras-hunters-feed-2/",
      "title": "Medora’s Annual Hunters Feed"
+    },
+    {
+     "source": "facebook",
+     "url": "https://www.facebook.com/events/987030653704928/",
+     "title": "Medora's Annual Hunter's Feed"
     }
    ],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
-   "lat": 46.9127199,
-   "lon": -103.5219173,
+   "lat": 46.9143,
+   "lon": -103.525,
    "geo_precision": "venue"
   }
  ]

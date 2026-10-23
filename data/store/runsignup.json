@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-22",
+ "fetched": "2026-10-23",
  "events": [
   {
    "source": "runsignup",
@@ -47,6 +47,54 @@
    },
    "id": "3d475f78daa23b0e",
    "summary": "Start your holiday with a healthy tradition before the big feast! Join us for the 2026 Glendive Turkey Trot 5K on Thanksgiving morning, November 26th at Makoshika Wellness (111 W. Bell, Studio Side). 📅 Race Day Details…",
+   "source_name": "RunSignup (races near Medora)"
+  },
+  {
+   "source": "runsignup",
+   "source_event_id": "172870",
+   "title": "Glendive Race Warriors Open",
+   "start": "2026-10-23",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://runsignup.com/Race/MT/Glendive/RaceWarriorsOpen",
+   "description": "College XC Race",
+   "image": "https://d368g9lw5ileu7.cloudfront.net/img/logos/genericWebsiteLogos/running-shoe1-300px.bMjMog.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": "Race registration fee",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://runsignup.com/Race/MT/Glendive/RaceWarriorsOpen",
+   "venue": {
+    "name": null,
+    "address": "508 Country Club Road",
+    "city": "Glendive",
+    "region": "MT",
+    "postal_code": "59330",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Races"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "7b0da5f27b74",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "runsignup_id": 172870
+   },
+   "id": "9ccbaabbb5ad98cc",
+   "summary": "College XC Race",
    "source_name": "RunSignup (races near Medora)"
   },
   {

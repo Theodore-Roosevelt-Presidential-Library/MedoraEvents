@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T10:32:07+00:00",
+ "generated": "2026-10-23T10:30:34+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -13,9 +13,9 @@
   "ok": true,
   "count": 5,
   "error": null,
-  "last_success": "2026-10-22",
-  "checked": "2026-10-22T10:31:12+00:00",
-  "seconds": 0.6
+  "last_success": "2026-10-23",
+  "checked": "2026-10-23T10:29:52+00:00",
+  "seconds": 0.5
  },
  "count": 1,
  "events": [
@@ -23,12 +23,12 @@
    "source": "discover",
    "source_event_id": "races-in-the-badlands-2026-11-14",
    "title": "Races in the Badlands",
-   "start": "2026-11-14",
+   "start": "2026-11-14T17:00:00-07:00",
    "end": null,
-   "all_day": true,
+   "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.facebook.com/events/1030701156568159/",
-   "description": "",
+   "description": "Races in the Badlands - Medora, ND",
    "image": "https://discovermedora.com/wp-content/uploads/2026/08/Races-in-the-Badlands-320x243.jpg",
    "attendance": "in_person",
    "online_url": null,
@@ -37,16 +37,16 @@
    "price_min": null,
    "price_max": null,
    "registration_required": null,
-   "registration_url": null,
+   "registration_url": "https://northdakotacowboy.org/events/",
    "venue": {
     "name": "Medora Community Center",
-    "address": null,
+    "address": "250 Main St, Medora, ND, United States, North Dakota 58645",
     "city": "Medora",
     "region": "ND",
     "postal_code": null,
     "country": "US",
-    "lat": null,
-    "lon": null
+    "lat": 46.91529,
+    "lon": -103.52623
    },
    "organizer": null,
    "kind": "event",
@@ -63,24 +63,29 @@
     "category_id": "5"
    },
    "id": "c23343dfc9cd3ad3",
-   "summary": "",
+   "summary": "Races in the Badlands - Medora, ND",
    "source_name": "Discover Medora (Medora Convention & Visitors Bureau)",
    "also_listed": [
     {
      "source": "ndchf",
      "url": "https://northdakotacowboy.org/events/",
      "title": "Races in the Badlands"
+    },
+    {
+     "source": "facebook",
+     "url": "https://www.facebook.com/events/1030701156568159/",
+     "title": "Races in the Badlands"
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-22",
+   "last_seen": "2026-10-23",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
-   "lat": 46.9127199,
-   "lon": -103.5219173,
+   "lat": 46.91529,
+   "lon": -103.52623,
    "geo_precision": "venue"
   }
  ]
