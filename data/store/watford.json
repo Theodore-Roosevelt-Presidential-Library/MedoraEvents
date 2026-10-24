@@ -1,52 +1,6 @@
 {
- "fetched": "2026-10-23",
+ "fetched": "2026-10-24",
  "events": [
-  {
-   "source": "watford",
-   "source_event_id": "4622",
-   "title": "Live Podcast Midwest Murder",
-   "start": "2026-10-24T00:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "timezone": "America/Chicago",
-   "url": "https://www.visitwatfordcity.com/Calendar/Details/4622/Live-Podcast-Midwest-Murder",
-   "description": "Midwest Murder Live Podcast Returns to the Rough Rider Center!\n\nGet ready, Watford City—Midwest Murder is coming back to the Rough Rider Center on October 25th!\n\nJoin us for another unforgettable Midwest Murder Live Podcast as the popular true-crime podcast takes the stage for an evening of gripping storytelling, chilling cases, and the engaging live experience fans have come to love.\n\nWhether you’re a longtime Midwest Murder listener or experiencing the podcast live for the first time, mark your calendar and get ready for a night you won’t want to miss!\n\n🎙️ Midwest Murder Live Podcast 📅 October 25th 📍 Rough Rider Center – Watford City, ND\n\nMore information, including event details and ticket information, will be coming soon. Stay tuned!",
-   "image": "https://dawaplatform.blob.core.windows.net/watfordparks-image/Event/Events/Untitleddesign(3).jpg",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": null,
-    "address": null,
-    "city": "Watford City",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": null,
-   "kind": "event",
-   "categories": [
-    "Activities"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "55954eb3f7e0",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "3c7ba4bfb59fdba6",
-   "summary": "Midwest Murder Live Podcast Returns to the Rough Rider Center! Get ready, Watford City—Midwest Murder is coming back to the Rough Rider Center on October 25th! Join us for another unforgettable Midwest Murder Live…",
-   "source_name": "Watford City events"
-  },
   {
    "source": "watford",
    "source_event_id": "4701",

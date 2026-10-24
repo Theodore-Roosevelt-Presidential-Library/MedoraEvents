@@ -10,22 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/runsignup.ics
 BEGIN:VEVENT
-UID:9ccbaabbb5ad98cc@medoraevents.labs.trlibrary.com
-DTSTAMP:20261023T103035Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Glendive Race Warriors Open
-DESCRIPTION:In person · Paid · Race registration fee\n\nCollege XC Race\n
- \nListed by RunSignup (races near Medora)\n\nhttps://runsignup.com/Race/MT
- /Glendive/RaceWarriorsOpen
-LOCATION:508 Country Club Road\, Glendive\, MT
-URL:https://runsignup.com/Race/MT/Glendive/RaceWarriorsOpen
-CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:3d475f78daa23b0e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261023T103035Z
+DTSTAMP:20261024T102828Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Glendive Turkey Trot 5k
@@ -42,7 +28,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:09bf19e436135b8b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261023T103035Z
+DTSTAMP:20261024T102828Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Richland Ranger Turkey Trot
