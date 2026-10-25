@@ -1,103 +1,11 @@
 {
- "generated": "2026-10-24T10:28:28+00:00",
+ "generated": "2026-10-25T10:29:37+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
  "note": "Events where calendars disagree on the start time (see extra.time_conflicts), and dates read from prose. Fix in config/overrides.yaml.",
- "count": 2,
+ "count": 1,
  "events": [
-  {
-   "source": "medora",
-   "source_event_id": "MEC-5f62e80430001cc8f6e5f7fa220b740d@medora.com",
-   "title": "Lantern Tours at the Chateau de Mores",
-   "start": "2026-10-24T18:30:00-06:00",
-   "end": "2026-10-24T23:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://medora.com/calendar/lantern-tours-at-the-chateau-de-mores/",
-   "description": "Step into history and mystery at the Chateau de Morès State Historic Site in Medora during the Chateau Lantern Tours. Explore the darker side of the Chateau’s past in a thrilling evening of frights, delights, and minimal lights. The one-hour tours are offered Oct. 23 and 24 at 6:30, 7, 7:30, 8, and 8:30 p.m.  After an introduction at the Interpretive Center, walk to the Chateau for a tour through the main level and upstairs. While venturing through the Chateau, illuminated by lanterns, hear tales of apparitions, ghost lights, murder, and more. Although nothing will jump out to frighten you, you never know what will be around the next corner. Tickets are $10 for adults and $5 for ages 6 to 17 and can be purchased in advance to ensure a reserved spot by calling 701.623.4355 or visiting the Chateau de Morès Interpretive Center. Lanterns will be provided. Guests should dress warmly with the weather in mind. The Chateau de Morès is a historic home with narrow stairs, uneven floors, and other accessibility concerns. This event is part of the ND250 commemoration celebrating our country’s 250th birthday. For more information, contact Outreach Coordinator Shelby Reidle, shschateau@nd.gov or 701.623.4355. The Chateau de Morès State Historic Site is managed by the State Historical Society of North Dakota. The Chateau de Morès Interpretive Center and home are open daily from 9 a.m. to 5 p.m. through Sept. 30. Beginning Oct. 1, the Chateau de Morès Interpretive Center will be open Tuesday-Saturday, 9 a.m.-5 p.m., and closed Sunday-Monday.",
-   "image": "https://medora.com/wp-content/uploads/2024/10/459514944_931263169038238_1491748442909143494_n.jpg",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 5.0,
-   "price_max": 10.0,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Chateau de Mores",
-    "address": "Medora, ND",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.914972,
-    "lon": -103.534102
-   },
-   "organizer": "Theodore Roosevelt Medora Foundation",
-   "kind": "event",
-   "categories": [
-    "Daily",
-    "Events"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "622012c99ee2",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "times": [
-     "6:30 PM",
-     "7 PM",
-     "7:30 PM",
-     "8 PM",
-     "8:30 PM"
-    ],
-    "time_conflicts": [
-     {
-      "source": "chateau",
-      "start": "2026-10-24T17:30:00-06:00"
-     },
-     {
-      "source": "cityspark",
-      "start": "2026-10-24T20:00:00-06:00"
-     }
-    ]
-   },
-   "id": "92aa8addabc03ef5",
-   "summary": "Step into history and mystery at the Chateau de Morès State Historic Site in Medora during the Chateau Lantern Tours. Explore the darker side of the Chateau’s past in a thrilling evening of frights, delights, and…",
-   "source_name": "Theodore Roosevelt Medora Foundation",
-   "also_listed": [
-    {
-     "source": "chateau",
-     "url": "https://www.history.nd.gov/events/calendar.html",
-     "title": "Chateau Lantern Tours"
-    },
-    {
-     "source": "discover",
-     "url": "https://www.facebook.com/events/1080563428041083/",
-     "title": "Chateau Lantern Tours"
-    },
-    {
-     "source": "cityspark",
-     "url": "https://www.history.nd.gov/events",
-     "title": "Chateau Lantern Tours at night at Chateau de Morès State Historic Site"
-    }
-   ],
-   "first_seen": "2026-10-18",
-   "last_seen": "2026-10-24",
-   "region_label": "Medora, ND",
-   "area": "medora",
-   "area_label": "In Medora",
-   "drive_minutes": 0,
-   "drive_label": null,
-   "lat": 46.9124256,
-   "lon": -103.5347822,
-   "geo_precision": "venue"
-  },
   {
    "source": "medora",
    "source_event_id": "MEC-d7f71f28449665f9eefc114e5e7d3e7b@medora.com",
@@ -175,7 +83,7 @@
     }
    ],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-24",
+   "last_seen": "2026-10-25",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
