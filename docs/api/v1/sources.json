@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T10:29:37+00:00",
+ "generated": "2026-10-26T10:34:58+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": [
@@ -11,11 +11,11 @@
    "type": "partner",
    "region": "Medora, ND",
    "ok": true,
-   "count": 148,
+   "count": 146,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:27:38+00:00",
-   "seconds": 15.1
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:14+00:00",
+   "seconds": 15.3
   },
   {
    "id": "nps",
@@ -27,9 +27,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:27:53+00:00",
-   "seconds": 0.7
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:30+00:00",
+   "seconds": 0.3
   },
   {
    "id": "medora",
@@ -39,11 +39,11 @@
    "type": "partner",
    "region": "Medora, ND",
    "ok": true,
-   "count": 1694,
+   "count": 1692,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:27:54+00:00",
-   "seconds": 3.5
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:30+00:00",
+   "seconds": 3.8
   },
   {
    "id": "chateau",
@@ -55,9 +55,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:27:57+00:00",
-   "seconds": 0.7
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:34+00:00",
+   "seconds": 0.8
   },
   {
    "id": "chamber",
@@ -66,13 +66,12 @@
    "url": "https://medorachamber.org/events/",
    "type": "partner",
    "region": "Medora, ND",
-   "ok": false,
+   "ok": true,
    "count": 2,
-   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "last_success": "2026-10-23",
-   "checked": "2026-10-25T10:27:58+00:00",
-   "using_cached_from": "2026-10-23",
-   "seconds": 0.2
+   "error": null,
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:35+00:00",
+   "seconds": 1.4
   },
   {
    "id": "discover",
@@ -84,9 +83,9 @@
    "ok": true,
    "count": 4,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:27:58+00:00",
-   "seconds": 0.9
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:36+00:00",
+   "seconds": 1.2
   },
   {
    "id": "ndchf",
@@ -95,13 +94,12 @@
    "url": "https://northdakotacowboy.org/events/",
    "type": "partner",
    "region": "Medora, ND",
-   "ok": false,
+   "ok": true,
    "count": 2,
-   "error": "FetchError: no page body (likely blocked)",
-   "last_success": "2026-10-24",
-   "checked": "2026-10-25T10:27:59+00:00",
-   "using_cached_from": "2026-10-24",
-   "seconds": 0.1
+   "error": null,
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:37+00:00",
+   "seconds": 0.4
   },
   {
    "id": "uncorkd",
@@ -113,9 +111,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:27:59+00:00",
-   "seconds": 2.9
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:38+00:00",
+   "seconds": 2.7
   },
   {
    "id": "littlemo",
@@ -127,8 +125,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:02+00:00",
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:41+00:00",
    "seconds": 0.9
   },
   {
@@ -141,8 +139,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:03+00:00",
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:41+00:00",
    "seconds": 0.4
   },
   {
@@ -155,9 +153,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:03+00:00",
-   "seconds": 0.7
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:42+00:00",
+   "seconds": 0.3
   },
   {
    "id": "shsnd",
@@ -169,9 +167,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:04+00:00",
-   "seconds": 1.8
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:42+00:00",
+   "seconds": 2.5
   },
   {
    "id": "runsignup",
@@ -183,9 +181,9 @@
    "ok": true,
    "count": 2,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:06+00:00",
-   "seconds": 0.2
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:45+00:00",
+   "seconds": 0.3
   },
   {
    "id": "dsu",
@@ -195,10 +193,10 @@
    "type": "regional",
    "region": "Dickinson, ND",
    "ok": true,
-   "count": 53,
+   "count": 54,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:06+00:00",
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:45+00:00",
    "seconds": 0.4
   },
   {
@@ -211,9 +209,9 @@
    "ok": true,
    "count": 25,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:06+00:00",
-   "seconds": 0.3
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:45+00:00",
+   "seconds": 0.2
   },
   {
    "id": "ndparks",
@@ -225,9 +223,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:06+00:00",
-   "seconds": 0.3
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:45+00:00",
+   "seconds": 0.4
   },
   {
    "id": "cityspark",
@@ -237,11 +235,11 @@
    "type": "regional",
    "region": "Southwest North Dakota",
    "ok": true,
-   "count": 72,
+   "count": 70,
    "error": null,
-   "last_success": "2026-10-25",
-   "checked": "2026-10-25T10:28:07+00:00",
-   "seconds": 0.5
+   "last_success": "2026-10-26",
+   "checked": "2026-10-26T10:34:46+00:00",
+   "seconds": 0.1
   },
   {
    "id": "ndtourism",
@@ -253,11 +251,11 @@
    "every_days": 3,
    "ok": false,
    "count": 0,
-   "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 36s, r",
+   "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 49s, r",
    "last_success": null,
-   "checked": "2026-10-25T10:28:07+00:00",
+   "checked": "2026-10-26T10:34:46+00:00",
    "using_cached_from": null,
-   "seconds": 24.2
+   "seconds": 12.3
   },
   {
    "id": "facebook",

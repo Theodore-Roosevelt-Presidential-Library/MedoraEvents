@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-25",
+ "fetched": "2026-10-26",
  "events": [
   {
    "source": "trpl",
@@ -5263,57 +5263,6 @@
    "source": "trpl",
    "source_event_id": "architecture-and-sustainability-tour",
    "title": "Architecture and Sustainability Tour",
-   "start": "2026-10-25T11:30:00-06:00",
-   "end": "2026-10-25T12:45:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
-   "description": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and architecture shaped by the surrounding landscape.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Snohetta-TRPL-4-Lobby-CopyrightPlomp-FINAL_0.jpg.webp?h=7ae0bea3",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 25.0,
-   "price_max": 25.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/architecture-and-sustainability-tour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "tour",
-   "categories": [
-    "Specialty Tour"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "537182e7ada6",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Lobby",
-    "setting": "Indoor & Outdoor"
-   },
-   "id": "bc5d3147255c3322",
-   "summary": "Hear how the Theodore Roosevelt Presidential Library honors T.R.'s conservation legacy through its own design. Walk the building and grounds to discover sustainable materials, land stewardship practices, and…",
-   "source_name": "Theodore Roosevelt Presidential Library"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "architecture-and-sustainability-tour",
-   "title": "Architecture and Sustainability Tour",
    "start": "2026-11-01T11:30:00-07:00",
    "end": "2026-11-01T12:45:00-07:00",
    "all_day": false,
@@ -6429,57 +6378,6 @@
     "setting": "Indoor"
    },
    "id": "43614b7a0edc79f7",
-   "summary": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique…",
-   "source_name": "Theodore Roosevelt Presidential Library"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "tr-deep-dive-tour",
-   "title": "T.R. Deep-Dive Tour",
-   "start": "2026-10-25T14:00:00-06:00",
-   "end": "2026-10-25T15:15:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
-   "description": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique stories only objects can tell.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2025-07/Image-5--1-.png.webp?h=3c1e4160",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 25.0,
-   "price_max": 25.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/specialty-tour/tr-deep-dive-tour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "tour",
-   "categories": [
-    "Specialty Tour"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "5b44e4f8f95d",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Lobby",
-    "setting": "Indoor"
-   },
-   "id": "221111ecfe0acbad",
    "summary": "Examine Theodore Roosevelt's remarkable life through the objects he left behind. Discover what material culture reveals about TR's carefully crafted identity, political philosophy, and enduring legacy — and the unique…",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
