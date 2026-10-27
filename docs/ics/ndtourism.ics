@@ -9,4 +9,129 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/ndtourism.ics
+BEGIN:VEVENT
+UID:55078c1f36da74fa@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:First Annual Spooktacular Film Festival Featuring "The Texas Chain 
+ Saw Massacre"
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/dickinson/events/seasonal-events/first-annual-spooktacular-film-
+ festival-featuring-texas-chain-saw-massacre
+LOCATION:Dickinson State University\, 291 Campus Drive\, Dickinson\, ND 586
+ 01\, Dickinson\, ND
+URL:https://www.ndtourism.com/dickinson/events/seasonal-events/first-annual
+ -spooktacular-film-festival-featuring-texas-chain-saw-massacre
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ad727906ae696c87@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:An Evening for the Arts I SWAG&SC Gala
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/dickinson/events/culinary-experience-events/evening-arts-i-swags
+ c-gala
+LOCATION:Dickinson Eagles Club\, 31 First Ave E\, Dickinson\, ND 58601\, Di
+ ckinson\, ND
+URL:https://www.ndtourism.com/dickinson/events/culinary-experience-events/e
+ vening-arts-i-swagsc-gala
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b6de44d990ce87@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Dickinson Community Thanksgiving Dinner
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/dickinson/events/free-events/dickinson-community-thanksgiving-di
+ nner
+LOCATION:Dickinson State University\, 291 Campus Drive\, Dickinson\, ND 586
+ 01\, Dickinson\, ND
+URL:https://www.ndtourism.com/dickinson/events/free-events/dickinson-commun
+ ity-thanksgiving-dinner
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1de9524063ad018@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Christmas at Legacy Square
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/dickinson/events/festivals-fairs/christmas-legacy-square
+LOCATION:Dickinson Legacy Square\, 122 1st Ave W\, Dickinson\, ND 58601\, D
+ ickinson\, ND
+URL:https://www.ndtourism.com/dickinson/events/festivals-fairs/christmas-le
+ gacy-square
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b38db04aaa8ab689@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Dickinson Baking Championship I Christmas Pastry Gala
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/dickinson/events/culinary-experience-events/dickinson-baking-cha
+ mpionship-i-christmas-pastry-gala
+LOCATION:Prairie Hills Mall\, 1681 3rd Ave W\, Dickinson\, ND 58601\, Dicki
+ nson\, ND
+URL:https://www.ndtourism.com/dickinson/events/culinary-experience-events/d
+ ickinson-baking-championship-i-christmas-pastry-gala
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:191476da1a7a4285@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Holiday Bazaar
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/dickinson/events/festivals-fairs/holiday-bazaar
+LOCATION:Prairie Hills Mall\, 1681 3rd Ave W\, Dickinson\, ND 58601\, Dicki
+ nson\, ND
+URL:https://www.ndtourism.com/dickinson/events/festivals-fairs/holiday-baza
+ ar
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ced0a881c13998c8@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:The 70's Show
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/dickinson/events/shows-performances/70s-show
+LOCATION:DSU Dorothy Stickney Auditorium\, 291 Campus Dr.\, Dickinson\, ND 
+ 58601\, Dickinson\, ND
+URL:https://www.ndtourism.com/dickinson/events/shows-performances/70s-show
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:97a7c2629ad19ad8@medoraevents.labs.trlibrary.com
+DTSTAMP:20261027T103731Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+SUMMARY:North Dakota State High School Rodeo Finals
+DESCRIPTION:In person\n\nListed by North Dakota Tourism\n\nhttps://www.ndto
+ urism.com/bowman/events/outdoor-events/north-dakota-state-high-school-rode
+ o-finals
+LOCATION:Bowman County Fairgrounds\, 12 US-12\, Bowman\, ND 58623\, Bowman\
+ , ND
+URL:https://www.ndtourism.com/bowman/events/outdoor-events/north-dakota-sta
+ te-high-school-rodeo-finals
+CATEGORIES:North Dakota Tourism,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
