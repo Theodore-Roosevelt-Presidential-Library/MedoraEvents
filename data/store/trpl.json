@@ -1,6 +1,210 @@
 {
- "fetched": "2026-10-27",
+ "fetched": "2026-10-28",
  "events": [
+  {
+   "source": "trpl",
+   "source_event_id": "family-crafting-time",
+   "title": "Family Crafting Time",
+   "start": "2026-12-13T10:30:00-07:00",
+   "end": "2026-12-13T13:30:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "description": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home for your own tree. Stay for one craft or the whole morning.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/20260703-TRPL-GO-03519-sRGB.jpg.webp?h=fca28d8e",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 5.0,
+   "price_max": 5.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "Family"
+   ],
+   "recurring": true,
+   "series_id": "1b6c0ad8a0af",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Hunter Classroom",
+    "setting": "Indoor"
+   },
+   "id": "3f08be6d56ba4f7e",
+   "summary": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "family-crafting-time",
+   "title": "Family Crafting Time",
+   "start": "2026-12-19T10:30:00-07:00",
+   "end": "2026-12-19T13:30:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "description": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home for your own tree. Stay for one craft or the whole morning.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/20260703-TRPL-GO-03519-sRGB.jpg.webp?h=fca28d8e",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 5.0,
+   "price_max": 5.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "Family"
+   ],
+   "recurring": true,
+   "series_id": "1b6c0ad8a0af",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Hunter Classroom",
+    "setting": "Indoor"
+   },
+   "id": "cf20e78ce53df6f3",
+   "summary": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "family-crafting-time",
+   "title": "Family Crafting Time",
+   "start": "2026-12-20T10:30:00-07:00",
+   "end": "2026-12-20T13:30:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "description": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home for your own tree. Stay for one craft or the whole morning.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/20260703-TRPL-GO-03519-sRGB.jpg.webp?h=fca28d8e",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 5.0,
+   "price_max": 5.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "Family"
+   ],
+   "recurring": true,
+   "series_id": "1b6c0ad8a0af",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Hunter Classroom",
+    "setting": "Indoor"
+   },
+   "id": "768214135345ae34",
+   "summary": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "family-crafting-time",
+   "title": "Family Crafting Time",
+   "start": "2026-12-23T10:30:00-07:00",
+   "end": "2026-12-23T13:30:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "description": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home for your own tree. Stay for one craft or the whole morning.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/20260703-TRPL-GO-03519-sRGB.jpg.webp?h=fca28d8e",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 5.0,
+   "price_max": 5.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/family-crafting-time",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "Family"
+   ],
+   "recurring": true,
+   "series_id": "1b6c0ad8a0af",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Hunter Classroom",
+    "setting": "Indoor"
+   },
+   "id": "47e8b5a7f3871bc3",
+   "summary": "Families are invited to the Hunter Classroom for drop-in holiday crafting with natural materials. Projects may include salt dough ornaments, popcorn and cranberry garland, and dried orange strings, all made to take home…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
   {
    "source": "trpl",
    "source_event_id": "free-final-hour",
@@ -4389,6 +4593,57 @@
   },
   {
    "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-02-25T15:00:00-07:00",
+   "end": "2027-02-25T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "7e29ad79176e89d0",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
    "source_event_id": "room-sixty-years-front-lines-history",
    "title": "In the Room: Sixty Years on the Front Lines of History",
    "start": "2026-10-02",
@@ -4447,7 +4702,7 @@
    "source": "trpl",
    "source_event_id": "america-beautiful-film-screening",
    "title": "America the Beautiful Film Screening",
-   "start": "2026-11-11T06:30:00-07:00",
+   "start": "2026-11-11T18:30:00-07:00",
    "end": "2026-11-11T20:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
@@ -4490,7 +4745,7 @@
     "room": "Auditorium",
     "setting": "Indoor"
    },
-   "id": "b8c98367c685d0d6",
+   "id": "d1116d3985318de5",
    "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
@@ -5206,6 +5461,261 @@
    },
    "id": "e80a6d67304a410e",
    "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "butchery-workshop",
+   "title": "Butchery Workshop",
+   "start": "2027-01-23T09:00:00-07:00",
+   "end": "2027-01-23T11:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/butchery-workshop",
+   "description": "Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Theodore-Roosevelt-Presidential-Library-089.jpg.webp?h=bc8a00ed",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 225.0,
+   "price_max": 225.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/butchery-workshop",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "Adults"
+   ],
+   "recurring": false,
+   "series_id": "ef8f0dffa20c",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Salt+Scoria",
+    "setting": "Indoor"
+   },
+   "id": "843fabeb1ad6d9dd",
+   "summary": "Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "elkhorn-evenings",
+   "title": "Elkhorn Evenings",
+   "start": "2026-12-10T16:00:00-07:00",
+   "end": "2026-12-10T20:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/elkhorn-evenings",
+   "description": "On two Thursdays in December, the Theodore Roosevelt Presidential Library stays open after hours. At the Branding Market, participants choose a wood or leather item and watch it branded on the spot, or try the branding iron themselves. Items range from small keepsakes to larger gifts. At the Salt+Scoria counter, participants can build their own charcuterie board from local goods and take it home or enjoy it there. The exhibits stay open throughout the evening.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/20251111-TRPL-Nov-2025-02681-HDR-Edit-Adobe-RGB.jpg.webp?h=9102fb54",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/elkhorn-evenings",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "1154bb686668",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Theodore Roosevelt Presidential Library",
+    "setting": "Indoor"
+   },
+   "id": "39b8e81eaa0660d7",
+   "summary": "On two Thursdays in December, the Theodore Roosevelt Presidential Library stays open after hours. At the Branding Market, participants choose a wood or leather item and watch it branded on the spot, or try the branding…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "elkhorn-evenings",
+   "title": "Elkhorn Evenings",
+   "start": "2026-12-17T16:00:00-07:00",
+   "end": "2026-12-17T20:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/elkhorn-evenings",
+   "description": "On two Thursdays in December, the Theodore Roosevelt Presidential Library stays open after hours. At the Branding Market, participants choose a wood or leather item and watch it branded on the spot, or try the branding iron themselves. Items range from small keepsakes to larger gifts. At the Salt+Scoria counter, participants can build their own charcuterie board from local goods and take it home or enjoy it there. The exhibits stay open throughout the evening.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/20251111-TRPL-Nov-2025-02681-HDR-Edit-Adobe-RGB.jpg.webp?h=9102fb54",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/elkhorn-evenings",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "1154bb686668",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Theodore Roosevelt Presidential Library",
+    "setting": "Indoor"
+   },
+   "id": "31ad179101be5590",
+   "summary": "On two Thursdays in December, the Theodore Roosevelt Presidential Library stays open after hours. At the Branding Market, participants choose a wood or leather item and watch it branded on the spot, or try the branding…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "visit-santa-claus",
+   "title": "Visit with Santa Claus",
+   "start": "2026-12-17T18:00:00-07:00",
+   "end": "2026-12-17T19:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
+   "description": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a list and a camera.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media.jpg.webp?h=3799b3dc",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "Family"
+   ],
+   "recurring": true,
+   "series_id": "7c141e136d2d",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Theodore Roosevelt Presidential Library",
+    "setting": "Indoor"
+   },
+   "id": "eaff044a89f80ff0",
+   "summary": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a…",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "visit-santa-claus",
+   "title": "Visit with Santa Claus",
+   "start": "2026-12-19T13:00:00-07:00",
+   "end": "2026-12-19T14:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
+   "description": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a list and a camera.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media.jpg.webp?h=3799b3dc",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "Family"
+   ],
+   "recurring": true,
+   "series_id": "7c141e136d2d",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Theodore Roosevelt Presidential Library",
+    "setting": "Indoor"
+   },
+   "id": "2d912fbcca474663",
+   "summary": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a…",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
   {

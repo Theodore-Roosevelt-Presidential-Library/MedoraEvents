@@ -1,52 +1,6 @@
 {
- "fetched": "2026-10-27",
+ "fetched": "2026-10-28",
  "events": [
-  {
-   "source": "dsu",
-   "source_event_id": "211762950",
-   "title": "Intramural Pool League",
-   "start": "2026-10-27T19:00:00-06:00",
-   "end": "2026-10-27T20:30:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D211762950",
-   "description": "Chalk your cue and bring your best shot to the Intramural Pool League! Open to players of all skill levels, this casual and competitive league is the perfect place to meet new people, sharpen your game, and enjoy friendly competition. Whether you're a seasoned player or just learning the ropes, all are welcome.\n\nMatches are played weekly in a relaxed environment, with a focus on sportsmanship, fun, and community. Teams or individuals can sign up, and equipment is provided if needed. Join us for a great time, good vibes, and some solid 8-ball action!",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Student Center",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Dickinson State University Events"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "dc410f1561a1",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "a8de7ea04d6fd695",
-   "summary": "Chalk your cue and bring your best shot to the Intramural Pool League! Open to players of all skill levels, this casual and competitive league is the perfect place to meet new people, sharpen your game, and enjoy…",
-   "source_name": "Dickinson State University"
-  },
   {
    "source": "dsu",
    "source_event_id": "209577542",
