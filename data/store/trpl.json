@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-28",
+ "fetched": "2026-10-29",
  "events": [
   {
    "source": "trpl",
@@ -4644,6 +4644,57 @@
   },
   {
    "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
+   "start": "2027-02-26T15:00:00-07:00",
+   "end": "2027-02-26T16:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "8b5aadc2891d1393",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
    "source_event_id": "room-sixty-years-front-lines-history",
    "title": "In the Room: Sixty Years on the Front Lines of History",
    "start": "2026-10-02",
@@ -5467,8 +5518,8 @@
    "source": "trpl",
    "source_event_id": "butchery-workshop",
    "title": "Butchery Workshop",
-   "start": "2027-01-23T09:00:00-07:00",
-   "end": "2027-01-23T11:00:00-07:00",
+   "start": "2027-01-24T08:00:00-07:00",
+   "end": "2027-01-24T10:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/special-event/butchery-workshop",
@@ -5510,7 +5561,7 @@
     "room": "Salt+Scoria",
     "setting": "Indoor"
    },
-   "id": "843fabeb1ad6d9dd",
+   "id": "f7d2ef1c9099aa8d",
    "summary": "Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
@@ -5626,7 +5677,7 @@
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
    "description": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a list and a camera.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media.jpg.webp?h=3799b3dc",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media--1-.jpg.webp?h=d3dbd649",
    "attendance": "in_person",
    "online_url": null,
    "cost": "unknown",
@@ -5677,7 +5728,7 @@
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
    "description": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a list and a camera.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media.jpg.webp?h=3799b3dc",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media--1-.jpg.webp?h=d3dbd649",
    "attendance": "in_person",
    "online_url": null,
    "cost": "unknown",

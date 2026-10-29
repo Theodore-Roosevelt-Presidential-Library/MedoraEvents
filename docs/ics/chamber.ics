@@ -11,19 +11,18 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/chamber.ics
 BEGIN:VEVENT
 UID:96886a45245e93ed@medoraevents.labs.trlibrary.com
-DTSTAMP:20261028T102448Z
-DTSTART:20261204T070000Z
-DTEND:20261204T080000Z
+DTSTAMP:20261029T102525Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
 SUMMARY:Medora’s Old Fashioned Cowboy Christmas
 DESCRIPTION:In person\n\n🎄 Home for Medora’s Old Fashioned Cowboy Chri
  stmas in Medora! 🎄 Mark your calendars for December 4–6 and bring the
   whole family to Medora for a little old-fashioned Christmas magic! Enjoy 
  a weekend filled with…\n\nListed by Medora Area Chamber of Commerce\n\nh
  ttps://medorachamber.org/event/medoras-old-fashioned-cowboy-christmas-2/
-LOCATION:Medora City\, Medora\, North Dakota\, Medora\, ND
+LOCATION:Medora City\, Medora\, ND
 URL:https://medorachamber.org/event/medoras-old-fashioned-cowboy-christmas-
  2/
-GEO:46.9143;-103.525
 CATEGORIES:Medora Area Chamber of Commerce,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
