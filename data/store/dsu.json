@@ -1,52 +1,6 @@
 {
- "fetched": "2026-10-29",
+ "fetched": "2026-10-30",
  "events": [
-  {
-   "source": "dsu",
-   "source_event_id": "203060038",
-   "title": "Dickinson State University Women's Volleyball vs Valley City State University (N.D.)",
-   "start": "2026-10-29T18:00:00-06:00",
-   "end": "2026-10-29T20:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D203060038",
-   "description": "Dickinson State University Women's Volleyball vs Valley City State University (N.D.) Streaming Video: www.youtube.com…",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Scott Gymnasium",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "53edc82e8c86",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "85bb477b13e0f50c",
-   "summary": "Dickinson State University Women's Volleyball vs Valley City State University (N.D.) Streaming Video: www.youtube.com…",
-   "source_name": "Dickinson State University"
-  },
   {
    "source": "dsu",
    "source_event_id": "207172520",

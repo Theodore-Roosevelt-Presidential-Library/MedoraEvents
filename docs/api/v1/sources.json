@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T10:25:24+00:00",
+ "generated": "2026-10-30T10:35:06+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": [
@@ -11,11 +11,11 @@
    "type": "partner",
    "region": "Medora, ND",
    "ok": true,
-   "count": 158,
+   "count": 159,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:23:57+00:00",
-   "seconds": 17.5
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:19+00:00",
+   "seconds": 17.4
   },
   {
    "id": "nps",
@@ -27,9 +27,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:15+00:00",
-   "seconds": 1.0
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:37+00:00",
+   "seconds": 0.5
   },
   {
    "id": "medora",
@@ -39,11 +39,11 @@
    "type": "partner",
    "region": "Medora, ND",
    "ok": true,
-   "count": 1692,
+   "count": 1701,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:16+00:00",
-   "seconds": 3.8
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:37+00:00",
+   "seconds": 3.6
   },
   {
    "id": "chateau",
@@ -55,9 +55,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:20+00:00",
-   "seconds": 1.1
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:41+00:00",
+   "seconds": 0.8
   },
   {
    "id": "chamber",
@@ -69,9 +69,9 @@
    "ok": true,
    "count": 2,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:21+00:00",
-   "seconds": 1.9
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:42+00:00",
+   "seconds": 1.5
   },
   {
    "id": "discover",
@@ -83,9 +83,9 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:23+00:00",
-   "seconds": 0.7
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:43+00:00",
+   "seconds": 0.9
   },
   {
    "id": "ndchf",
@@ -97,9 +97,9 @@
    "ok": true,
    "count": 2,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:23+00:00",
-   "seconds": 1.1
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:44+00:00",
+   "seconds": 0.3
   },
   {
    "id": "uncorkd",
@@ -111,9 +111,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:24+00:00",
-   "seconds": 3.5
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:44+00:00",
+   "seconds": 2.7
   },
   {
    "id": "littlemo",
@@ -125,9 +125,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:28+00:00",
-   "seconds": 1.3
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:47+00:00",
+   "seconds": 0.8
   },
   {
    "id": "boots",
@@ -139,9 +139,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:29+00:00",
-   "seconds": 0.5
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:48+00:00",
+   "seconds": 0.4
   },
   {
    "id": "badlandsministries",
@@ -153,9 +153,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:30+00:00",
-   "seconds": 0.5
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:48+00:00",
+   "seconds": 1.3
   },
   {
    "id": "shsnd",
@@ -167,9 +167,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:30+00:00",
-   "seconds": 2.2
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:50+00:00",
+   "seconds": 2.0
   },
   {
    "id": "runsignup",
@@ -181,9 +181,9 @@
    "ok": true,
    "count": 2,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:32+00:00",
-   "seconds": 0.4
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:52+00:00",
+   "seconds": 0.3
   },
   {
    "id": "dsu",
@@ -193,11 +193,11 @@
    "type": "regional",
    "region": "Dickinson, ND",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:33+00:00",
-   "seconds": 0.6
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:52+00:00",
+   "seconds": 0.5
   },
   {
    "id": "watford",
@@ -207,11 +207,11 @@
    "type": "regional",
    "region": "Watford City, ND",
    "ok": true,
-   "count": 24,
+   "count": 22,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:33+00:00",
-   "seconds": 0.5
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:53+00:00",
+   "seconds": 0.4
   },
   {
    "id": "ndparks",
@@ -223,9 +223,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:34+00:00",
-   "seconds": 0.6
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:53+00:00",
+   "seconds": 0.3
   },
   {
    "id": "cityspark",
@@ -235,11 +235,11 @@
    "type": "regional",
    "region": "Southwest North Dakota",
    "ok": true,
-   "count": 77,
+   "count": 75,
    "error": null,
-   "last_success": "2026-10-29",
-   "checked": "2026-10-29T10:24:34+00:00",
-   "seconds": 0.6
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:53+00:00",
+   "seconds": 0.4
   },
   {
    "id": "ndtourism",
@@ -250,11 +250,11 @@
    "region": "North Dakota",
    "every_days": 3,
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": null,
-   "last_success": "2026-10-27",
-   "checked": "2026-10-27T10:32:51+00:00",
-   "seconds": 189.7
+   "last_success": "2026-10-30",
+   "checked": "2026-10-30T10:24:54+00:00",
+   "seconds": 608.1
   },
   {
    "id": "facebook",
