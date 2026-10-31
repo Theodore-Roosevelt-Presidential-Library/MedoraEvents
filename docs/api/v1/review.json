@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T10:35:06+00:00",
+ "generated": "2026-10-31T10:24:05+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -32,8 +32,8 @@
     "region": "ND",
     "postal_code": null,
     "country": "US",
-    "lat": null,
-    "lon": null
+    "lat": 46.9143,
+    "lon": -103.525
    },
    "organizer": "Theodore Roosevelt Medora Foundation",
    "kind": "event",
@@ -55,6 +55,10 @@
      {
       "source": "chamber",
       "start": "2026-11-06T17:30:00-07:00"
+     },
+     {
+      "source": "facebook",
+      "start": "2026-11-06T17:30:00-07:00"
      }
     ]
    },
@@ -71,17 +75,22 @@
      "source": "discover",
      "url": "https://medorachamber.org/event/annual-medoras-hunters-feed-2/",
      "title": "Medora’s Annual Hunters Feed"
+    },
+    {
+     "source": "facebook",
+     "url": "https://www.facebook.com/events/987030653704928/",
+     "title": "Medora's Annual Hunter's Feed"
     }
    ],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-30",
+   "last_seen": "2026-10-31",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
    "drive_minutes": 0,
    "drive_label": null,
-   "lat": 46.9127199,
-   "lon": -103.5219173,
+   "lat": 46.9143,
+   "lon": -103.525,
    "geo_precision": "venue"
   }
  ]
