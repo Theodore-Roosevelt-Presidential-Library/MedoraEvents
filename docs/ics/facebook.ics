@@ -10,41 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/facebook.ics
 BEGIN:VEVENT
-UID:6f6c3be4cc95b8b7@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
-DTSTART:20261031T140000Z
-DTEND:20261031T150000Z
-SUMMARY:Medora Craft Fair
-DESCRIPTION:In person\n\nMedora Craft Fair - Annual Craft Fair in Medora 30
- + Booth of Handmade Crafts\, Art and Food\n\nListed by Facebook events nea
- r Medora\n\nhttps://www.facebook.com/events/1076876448494988/
-LOCATION:Medora\, ND\, United States\, North Dakota 58645\, Medora\, ND\, U
- nited States\, North Dakota 58645
-URL:https://www.facebook.com/events/1076876448494988/
-CATEGORIES:Facebook events near Medora,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c13da64b1a87983d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
-DTSTART:20261031T150000Z
-DTEND:20261031T160000Z
-SUMMARY:Sisterly Creations is at the Medora Craft Fair!
-DESCRIPTION:In person\n\nLove unique jewelry with a little Western flair? C
- ome see the Sisters in Medora this Saturday! We’re bringing our jewelry 
- collection to the Medora Craft Fair on Halloween! From the natural beauty 
- of Montana Moss Agates…\n\nListed by Facebook events near Medora\n\nhttp
- s://www.facebook.com/events/1552340266912047/
-LOCATION:Medora Community Center\, 465 Pacific Ave\, Medora\, ND 58645\, Un
- ited States
-URL:https://www.facebook.com/events/1552340266912047/
-GEO:46.91257;-103.52206
-CATEGORIES:Facebook events near Medora,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:57c3f33f4638e9fe@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261117T160000Z
 DTEND:20261117T170000Z
 SUMMARY:Books and Banter: The Cloak
@@ -62,7 +29,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d2727ff2ef2aebd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261205T000000Z
 DTEND:20261205T010000Z
 SUMMARY:ND Cycling Hall of Fame Gala
@@ -80,7 +47,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5afcebea03b75705@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270130T013000Z
 DTEND:20270130T023000Z
 SUMMARY:Girlfriend Getaway 2027

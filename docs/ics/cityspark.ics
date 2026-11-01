@@ -10,25 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/cityspark.ics
 BEGIN:VEVENT
-UID:af5673863363b7f5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
-DTSTART:20261031T210000Z
-DTEND:20261031T230000Z
-SUMMARY:13th Annual Trick or Trunk
-DESCRIPTION:In person · Free\n\n13th Annual Trick or Trunk Put on your fav
- orite costume and join the Dickinson Area Chamber of Commerce for the 13th
-  Annual Trick or Trunk on Saturday\, October 31\, from 3:00 PM to 5:00 PM 
- in Downtown Legacy Square and…\n\nListed by The Dickinson Press communit
- y calendar\n\nhttps://www.facebook.com/events/1583903103521443/
-LOCATION:Dickinson Legacy Square\, 118 1st Ave W\, Dickinson\, ND
-URL:https://www.facebook.com/events/1583903103521443/
-GEO:46.880102;-102.786447
-CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:792f8c053fb5783e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261102T230000Z
 DTEND:20261103T000000Z
 SUMMARY:Page Turners Book Club: The Library of Unruly Treasures
@@ -45,7 +28,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5a2b13ca15d5eea0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Law Enforcement Operational Planning & Decision Making
@@ -61,8 +44,8 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5d3e6bdf559c9783@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+UID:22aa40ff271a911a@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
 DTSTART:20261106T020000Z
 DTEND:20261106T033000Z
 SUMMARY:Steven Farmer: Live in Belfield ND
@@ -80,7 +63,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e6c5c18a86b8cb9b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:West Marches D&D
@@ -96,8 +79,25 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6c6fafd5734352c9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261107T010000Z
+DTEND:20261107T030000Z
+SUMMARY:Idiocracy
+DESCRIPTION:In person · Free\n\nBuilding: Student Center Room: Movie Theat
+ er Organizer: Badlands Film Appreciation Society Category: Clubs and Orgs\
+ ,Community Events\,Fine and Performing Arts\,Student Activities Audience: 
+ Pu blic Cost to attend: Free…\n\nListed by The Dickinson Press community
+  calendar\n\nhttps://www.imdb.com/title/tt0387808/?ref_=fn_t_1
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://www.imdb.com/title/tt0387808/?ref_=fn_t_1
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fd04347f535f0ebf@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261107T150000Z
 DTEND:20261107T160000Z
 SUMMARY:Fall Optimist Basketball Tournament
@@ -114,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e2a5eade3d81b7e9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261107T160000Z
 DTEND:20261107T190000Z
 SUMMARY:Dickinson State University Women's Wrestling vs DSU Women&# 3's Ope
@@ -132,7 +132,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:60c20903b3c53c11@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261108T003000Z
 DTEND:20261108T013000Z
 SUMMARY:District 9 YF&R Event
@@ -146,8 +146,44 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ab18d76b833f603b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261108T010000Z
+DTEND:20261108T030000Z
+SUMMARY:They Live
+DESCRIPTION:In person · Free\n\nBuilding: Student Center Room: Movie Theat
+ er Organizer: Badlands Film Appreciation Society Category: Clubs and Orgs\
+ ,Community Events\,Fine and Performing Arts\,Student Activities Audience: 
+ Pu blic Cost to attend: Free…\n\nListed by The Dickinson Press community
+  calendar\n\nhttps://www.imdb.com/title/tt0096256/?ref_=fn_t_1
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://www.imdb.com/title/tt0096256/?ref_=fn_t_1
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f1312c4360d60443@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261108T200000Z
+DTEND:20261108T223000Z
+SUMMARY:Dead Poets Society
+DESCRIPTION:In person · Free\n\nBuilding: Student Center Room: Movie Theat
+ er Organizer: Badlands Film Appreciation Society Category: Clubs and Orgs\
+ ,Community Events\,Fine and Performing Arts\,Student Activities Audience: 
+ Pu blic Cost to attend: Free…\n\nListed by The Dickinson Press community
+  calendar\n\nhttps://www.imdb.com/title/tt0097165/?ref_=nv_sr_srsg_0_tt_6_
+ nm_2_in_0_q_dead poets society
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://www.imdb.com/title/tt0097165/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_
+ q_dead poets society
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:837ba28a90981c09@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261113T210000Z
 DTEND:20261113T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -165,7 +201,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3f5c285a005847b9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261114T020000Z
 DTEND:20261114T033000Z
 SUMMARY:CTRL Play: Grades 6-8
@@ -182,7 +218,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8565ce86019d6276@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261114T210000Z
 DTEND:20261114T230000Z
 SUMMARY:Dickinson State University Women's JV Basketball at Dawson Communit
@@ -200,7 +236,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:249aafcf8eab7491@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261114T210000Z
 DTEND:20261114T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -218,7 +254,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0a7c93e34ae290fe@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261114T230000Z
 DTEND:20261115T010000Z
 SUMMARY:Dickinson State University Men's JV Basketball at Dawson Co mmunity
@@ -236,7 +272,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15902850a6fa6b89@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261120T160000Z
 DTEND:20261120T203000Z
 SUMMARY:Discover DSU Day #2
@@ -255,7 +291,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a2984910b3c4b78c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261120T210000Z
 DTEND:20261120T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -272,8 +308,27 @@ CATEGORIES:The Dickinson Press community calendar,Virtual,Free,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:498a32c0f98064b7@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+SUMMARY:Planes\, Trains and Automobiles
+DESCRIPTION:In person · Free\n\nBuilding: Student Center Room: Movie Theat
+ er Organizer: Badlands Film Appreciation Society Category: Clubs and Orgs\
+ ,Community Events\,Fine and Performing Arts\,Student Activities Audience: 
+ Pu blic Cost to attend: Free…\n\nListed by The Dickinson Press community
+  calendar\n\nhttps://www.imdb.com/title/tt0093748/?ref_=nv_sr_srsg_0_tt_8_
+ nm_0_in_0_q_planes trains
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://www.imdb.com/title/tt0093748/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_
+ q_planes trains
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ac693d89196b84ed@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261121T040000Z
 DTEND:20261121T060000Z
 SUMMARY:Teen After Hours
@@ -290,7 +345,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20325abdcf7f8582@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261121T210000Z
 DTEND:20261121T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -308,7 +363,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9725d5bb4ae6ff0d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261122T010000Z
 DTEND:20261122T020000Z
 SUMMARY:Acoustic Night with Jerilyn Wiseman
@@ -324,8 +379,46 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:341fa7f91c3613c4@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261122T010000Z
+DTEND:20261122T030000Z
+SUMMARY:Babette's Feast
+DESCRIPTION:In person · Free\n\nBuilding: Student Center Room: Movie Theat
+ er Organizer: Badlands Film Appreciation Society Category: Clubs and Orgs\
+ ,Community Events\,Fine and Performing Arts\,Student Activities Audience: 
+ Pu blic Cost to attend: Free…\n\nListed by The Dickinson Press community
+  calendar\n\nhttps://www.imdb.com/title/tt0093748/?ref_=nv_sr_srsg_0_tt_8_
+ nm_0_in_0_q_planes trains
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://www.imdb.com/title/tt0093748/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_
+ q_planes trains
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85b0e1564c3ce7f3@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:Fantastic Mr. Fox
+DESCRIPTION:In person · Free\n\nBuilding: Student Center Room: Movie Theat
+ er Organizer: Badlands Film Appreciation Society Category: Clubs and Orgs\
+ ,Community Events\,Fine and Performing Arts\,Student Activities Audience: 
+ Pu blic Cost to attend: Free…\n\nListed by The Dickinson Press community
+  calendar\n\nhttps://www.imdb.com/title/tt0093748/?ref_=nv_sr_srsg_0_tt_8_
+ nm_0_in_0_q_planes trains
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://www.imdb.com/title/tt0093748/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_
+ q_planes trains
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:5ae033f51af7ed6a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261127T210000Z
 DTEND:20261127T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -343,7 +436,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b3e6a47e66ea405b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261128T210000Z
 DTEND:20261128T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -361,7 +454,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:93d2ab63e2960396@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261201T230000Z
 DTEND:20261202T043000Z
 SUMMARY:Girls Basketball @ South Heart
@@ -375,7 +468,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:26a0d14991dc3707@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:Santa Hotline
@@ -392,8 +485,26 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:4c7b9271473f53fe@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:Dickinson State University Women's Basketball at Dakota Sta te Univ
+ ersity
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5526andsport\\_id=13 Dickinson State University W
+ omen's Basketball at Dakota State University\n\nListed by The Dickinson Pr
+ ess community calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=5
+ 526andsport_id=13
+LOCATION:Madison\, S.D\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5526andsport_id=13
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8d43978000abb2d3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Santa Hotline
@@ -409,8 +520,26 @@ CATEGORIES:The Dickinson Press community calendar,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cd9eb1f37df4656e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261101T102249Z
+DTSTART:20261204T010000Z
+DTEND:20261204T030000Z
+SUMMARY:Dickinson State University Men's Basketball at Dakota State Univers
+ ity
+DESCRIPTION:In person\n\nCategory: Athletics Link: https://dsubluehawks.com
+ /calendar.aspx?game\\_id=5504andsport\\_id=6 Dickinson State University Me
+ n's Basketball at Dakota State University\n\nListed by The Dickinson Press
+  community calendar\n\nhttps://dsubluehawks.com/calendar.aspx?game_id=5504
+ andsport_id=6
+LOCATION:Madison\, S.D\, Dickinson\, ND
+URL:https://dsubluehawks.com/calendar.aspx?game_id=5504andsport_id=6
+GEO:46.87918;-102.78962
+CATEGORIES:The Dickinson Press community calendar,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e02274c84de67fdd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Dickinson State University Women's Wrestling at Doane Open
@@ -427,7 +556,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf8fc7629dff57de@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261204T210000Z
 DTEND:20261204T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -445,7 +574,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05c4803ef5819c72@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261204T230000Z
 DTEND:20261205T010000Z
 SUMMARY:Dickinson State University Women's Basketball at Dakota Sta te Univ
@@ -463,7 +592,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0fb40cbde7b70d85@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261205T160000Z
 DTEND:20261205T190000Z
 SUMMARY:Dickinson State University Men's Wrestling at Doane Open
@@ -480,7 +609,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3d05e8f8d1ad2d31@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261205T173000Z
 DTEND:20261205T183000Z
 SUMMARY:Jingle Bell 5K
@@ -497,7 +626,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80ea7e3475cfe320@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261205T210000Z
 DTEND:20261205T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -515,7 +644,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:28eed3dfacc73b47@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261205T230000Z
 DTEND:20261206T010000Z
 SUMMARY:Dickinson State University Women's Basketball at Bellevue U niversi
@@ -533,7 +662,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fc67f485052b2848@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261207T233500Z
 DTEND:20261208T003500Z
 SUMMARY:Badlands Big Sticks
@@ -549,7 +678,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b085d6975f578e70@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261211T210000Z
 DTEND:20261211T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -567,7 +696,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b119efd99c63224b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261212T040000Z
 DTEND:20261212T060000Z
 SUMMARY:Teen After Hours: Middle School Edition
@@ -584,7 +713,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a3f7d8f3affa2d6f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261212T210000Z
 DTEND:20261212T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -602,7 +731,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2136aae80c0d9b3f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Bismarck S tate Co
@@ -620,7 +749,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:831a1ff91c51298a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261218T210000Z
 DTEND:20261218T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -638,7 +767,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c573c8a8bfdfee6e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261219T000000Z
 DTEND:20261219T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Rocky Moun tain Co
@@ -656,7 +785,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b0cd269bd0467f90@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261219T210000Z
 DTEND:20261219T214000Z
 SUMMARY:Free Intro: Start to Finish Building a Business with AI (Live on Zo
@@ -674,7 +803,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bd48fbf74775600d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20261220T000000Z
 DTEND:20261220T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Carroll Co llege (
@@ -692,7 +821,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13d4400b06f91914@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270101T010000Z
 DTEND:20270101T040000Z
 SUMMARY:New Year's Eve Skating Party
@@ -710,7 +839,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08171582482f6498@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270101T040000Z
 DTEND:20270101T071500Z
 SUMMARY:Teen After Hours: NYE Party Edition
@@ -728,7 +857,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:67252dbc5c3e35f6@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270115T230000Z
 DTEND:20270116T033000Z
 SUMMARY:Girls Basketball @ Killdeer
@@ -742,7 +871,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3ad97377490eeb9f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270116T040000Z
 DTEND:20270116T060000Z
 SUMMARY:Teen After Hours
@@ -759,7 +888,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21834c410db1be53@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270116T150000Z
 DTEND:20270116T160000Z
 SUMMARY:Winter Optimist Basketball Tournament
@@ -776,7 +905,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bd8bda0a129f22e5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270122T230000Z
 DTEND:20270123T011500Z
 SUMMARY:Boys Basketball @ Killdeer
@@ -790,7 +919,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc0979bddfa6575f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270123T150000Z
 DTEND:20270124T010000Z
 SUMMARY:Beat the Winter Blues
@@ -807,7 +936,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d745d761f48e6562@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270130T160000Z
 DTEND:20270130T170000Z
 SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
@@ -824,7 +953,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7d626fed530074d3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270205T230000Z
 DTEND:20270206T040000Z
 SUMMARY:Girls Basketball @ Dickinson Trinity
@@ -838,7 +967,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5a59129c8229ac5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Rogina Cusic Memorial Tennis Tournament
@@ -855,7 +984,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ec8db9e65778b67c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270213T040000Z
 DTEND:20270213T060000Z
 SUMMARY:Teen After Hours: Middle School Edition
@@ -872,7 +1001,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5af33ca303541610@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270219T230000Z
 DTEND:20270220T040000Z
 SUMMARY:Boys Basketball @ Dickinson Trinity
@@ -886,7 +1015,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:608611dd0cebecfa@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270220T020000Z
 DTEND:20270220T033000Z
 SUMMARY:CTRL Play: Grades 9-12
@@ -903,7 +1032,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:39b75d4e66b7d0b1@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270222T230000Z
 DTEND:20270223T040000Z
 SUMMARY:Girls Basketball Regional Tournament
@@ -918,7 +1047,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:26832db73f99f34a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270223T230000Z
 DTEND:20270224T040000Z
 SUMMARY:Girls Basketball Regional Tournament
@@ -933,7 +1062,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:070b89627f353f60@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270225T230000Z
 DTEND:20270226T040000Z
 SUMMARY:Girls Basketball Regional Tournament
@@ -948,7 +1077,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9b7096139c9207e8@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270306T160000Z
 DTEND:20270306T170000Z
 SUMMARY:Double Dinks: Dink\, Laugh\, Repeat
@@ -965,7 +1094,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b8ccb32f8bc1bedd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270313T020000Z
 DTEND:20270313T033000Z
 SUMMARY:CTRL Play: Grades 6-8
@@ -982,7 +1111,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0bc9c1ee68405adf@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270320T030000Z
 DTEND:20270320T050000Z
 SUMMARY:Teen After Hours
@@ -999,7 +1128,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:27e237f3ab27a740@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270410T030000Z
 DTEND:20270410T050000Z
 SUMMARY:Teen After Hours: Middle School Edition
@@ -1016,7 +1145,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:346afb272c2f115c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:"It's a Big Dill" Pickleball Tournament
@@ -1033,7 +1162,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:edf5711f51e9aa1f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270501T010000Z
 DTEND:20270501T023000Z
 SUMMARY:CTRL Play: Grades 9-12
@@ -1050,7 +1179,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c521affd45622fe@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270810T030000Z
 DTEND:20270810T040000Z
 SUMMARY:11th European Heart Congress
@@ -1067,7 +1196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae9aad552f07a388@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270811T000000Z
 DTEND:20270811T010000Z
 SUMMARY:11th European Heart Congress
@@ -1084,7 +1213,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd1e833048ec6af2@medoraevents.labs.trlibrary.com
-DTSTAMP:20261031T102406Z
+DTSTAMP:20261101T102249Z
 DTSTART:20270811T150000Z
 DTEND:20270812T000000Z
 SUMMARY:3rd European Congress on Infectious Diseases & Immunology

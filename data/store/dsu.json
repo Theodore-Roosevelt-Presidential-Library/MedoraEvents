@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "events": [
   {
    "source": "dsu",
@@ -2253,6 +2253,52 @@
    "extra": {},
    "id": "85453fe08ffa3953",
    "summary": "Dickinson State University Women's Basketball vs Rocky Mountain College (Mont.)",
+   "source_name": "Dickinson State University"
+  },
+  {
+   "source": "dsu",
+   "source_event_id": "205844948",
+   "title": "Dickinson State University Men's Basketball vs Rocky Mountain College (Mont.)",
+   "start": "2026-12-11T19:00:00-07:00",
+   "end": "2026-12-11T21:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844948",
+   "description": "Dickinson State University Men's Basketball vs Rocky Mountain College (Mont.) Streaming Video: www.youtube.com…",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "Scott Gymnasium",
+    "address": null,
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Dickinson State University",
+   "kind": "event",
+   "categories": [
+    "Athletics"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "439a7c944049",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "0f2fd8eb87538f55",
+   "summary": "Dickinson State University Men's Basketball vs Rocky Mountain College (Mont.) Streaming Video: www.youtube.com…",
    "source_name": "Dickinson State University"
   }
  ]
