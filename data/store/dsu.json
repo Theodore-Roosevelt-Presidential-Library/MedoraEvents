@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-01",
+ "fetched": "2026-11-02",
  "events": [
   {
    "source": "dsu",
@@ -2299,6 +2299,52 @@
    "extra": {},
    "id": "0f2fd8eb87538f55",
    "summary": "Dickinson State University Men's Basketball vs Rocky Mountain College (Mont.) Streaming Video: www.youtube.com…",
+   "source_name": "Dickinson State University"
+  },
+  {
+   "source": "dsu",
+   "source_event_id": "204322253",
+   "title": "ACT Testing",
+   "start": "2026-12-12T08:00:00-07:00",
+   "end": "2026-12-12T13:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D204322253",
+   "description": "Please bring a photo ID and Admission ticket. No admittance without photo ID.",
+   "image": null,
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": "May Hall",
+    "address": null,
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": "Dickinson State University",
+   "kind": "event",
+   "categories": [
+    "Dickinson State University Events"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "21e0df96ec03",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "38e47cdfc8f3674d",
+   "summary": "Please bring a photo ID and Admission ticket. No admittance without photo ID.",
    "source_name": "Dickinson State University"
   }
  ]

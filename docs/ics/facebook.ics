@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/facebook.ics
 BEGIN:VEVENT
 UID:57c3f33f4638e9fe@medoraevents.labs.trlibrary.com
-DTSTAMP:20261101T102249Z
+DTSTAMP:20261102T102414Z
 DTSTART:20261117T160000Z
 DTEND:20261117T170000Z
 SUMMARY:Books and Banter: The Cloak
@@ -29,7 +29,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d2727ff2ef2aebd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261101T102249Z
+DTSTAMP:20261102T102414Z
 DTSTART:20261205T000000Z
 DTEND:20261205T010000Z
 SUMMARY:ND Cycling Hall of Fame Gala
@@ -38,8 +38,8 @@ DESCRIPTION:In person\n\n🎄🚴 ND CYCLING HALL OF FAME GALA 🚴🎄 ✨
  . ✨ Join us in Medora during Cowboy Christmas Week for a special evening
   celebrating the inaugural class of…\n\nListed by Facebook events near M
  edora\n\nhttps://www.facebook.com/events/29223561260573406/
-LOCATION:Dakota Cycling Adventures\, 365 Main St\, Medora\, ND 58645\, Medo
- ra\, ND\, United States
+LOCATION:Dakota Cycling Adventures\, Dakota Cycling Adventures\, Medora\, N
+ D\, United States
 URL:https://www.facebook.com/events/29223561260573406/
 GEO:46.914048;-103.525825
 CATEGORIES:Facebook events near Medora,In person,Event
@@ -47,7 +47,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5afcebea03b75705@medoraevents.labs.trlibrary.com
-DTSTAMP:20261101T102249Z
+DTSTAMP:20261102T102414Z
 DTSTART:20270130T013000Z
 DTEND:20270130T023000Z
 SUMMARY:Girlfriend Getaway 2027
