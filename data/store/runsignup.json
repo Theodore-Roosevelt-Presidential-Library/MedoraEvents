@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-02",
+ "fetched": "2026-11-03",
  "events": [
   {
    "source": "runsignup",
@@ -47,6 +47,54 @@
    },
    "id": "3d475f78daa23b0e",
    "summary": "Start your holiday with a healthy tradition before the big feast! Join us for the 2026 Glendive Turkey Trot 5K on Thanksgiving morning, November 26th at Makoshika Wellness (111 W. Bell, Studio Side). 📅 Race Day Details…",
+   "source_name": "RunSignup (races near Medora)"
+  },
+  {
+   "source": "runsignup",
+   "source_event_id": "103573",
+   "title": "Bold St. Nick'S Fatbike Race",
+   "start": "2026-12-05",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://runsignup.com/Race/ND/Medora/BoldStNicksFatbikeRace",
+   "description": "BE BOLD, BRAVE THE COLD AT THE 11th ANNUAL WINTER FATBIKE RACE IN THE NORTH DAKOTA BADLANDS. WHETHER YOU’RE ON BOLD ST. NICK’S NAUGHTY LIST OR NICE LIST, YOU WILL EXPERIENCE THE WORLD-FAMOUS MAAH DAAH HEY LIKE FEW BIKERS HAVE… FROZEN!\n\nRacers on the NICE LIST will enjoy the fun and challenging course for 2 hours. Those on the NAUGHTY LIST will be punished for 4 grueling hours. Riders who want to work together as a group can sign up for the REINDEER TEAM OPTION: teams of 2 or more will send out one rider on course, at a time, while the others stay warm and cozy by the outside fire pit or in their warming house.",
+   "image": "https://d368g9lw5ileu7.cloudfront.net/races/race103573-logo-0.bLsbHa.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": "Race registration fee",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://runsignup.com/Race/ND/Medora/BoldStNicksFatbikeRace",
+   "venue": {
+    "name": null,
+    "address": "Theodore Roosevelt National Library",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Races"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "965155e57fef",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "runsignup_id": 103573
+   },
+   "id": "65439edee043e81d",
+   "summary": "BE BOLD, BRAVE THE COLD AT THE 11th ANNUAL WINTER FATBIKE RACE IN THE NORTH DAKOTA BADLANDS. WHETHER YOU’RE ON BOLD ST. NICK’S NAUGHTY LIST OR NICE LIST, YOU WILL EXPERIENCE THE WORLD-FAMOUS MAAH DAAH HEY LIKE FEW…",
    "source_name": "RunSignup (races near Medora)"
   },
   {

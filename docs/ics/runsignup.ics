@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/runsignup.ics
 BEGIN:VEVENT
 UID:3d475f78daa23b0e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261102T102414Z
+DTSTAMP:20261103T102253Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Glendive Turkey Trot 5k
@@ -28,7 +28,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:09bf19e436135b8b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261102T102414Z
+DTSTAMP:20261103T102253Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Richland Ranger Turkey Trot
@@ -40,6 +40,23 @@ DESCRIPTION:In person · Paid · Race registration fee\n\n🦃🏃‍♀️
  nup.com/Race/MT/Sidney/RichlandRangerTurkeyTrot
 LOCATION:601 7th Ave SW\, Sidney\, MT
 URL:https://runsignup.com/Race/MT/Sidney/RichlandRangerTurkeyTrot
+CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:65439edee043e81d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261103T102253Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Bold St. Nick'S Fatbike Race
+DESCRIPTION:In person · Paid · Race registration fee\n\nBE BOLD\, BRAVE T
+ HE COLD AT THE 11th ANNUAL WINTER FATBIKE RACE IN THE NORTH DAKOTA BADLAND
+ S. WHETHER YOU’RE ON BOLD ST. NICK’S NAUGHTY LIST OR NICE LIST\, YOU W
+ ILL EXPERIENCE THE WORLD-FAMOUS MAAH DAAH HEY LIKE FEW…\n\nListed by Run
+ Signup (races near Medora)\n\nhttps://runsignup.com/Race/ND/Medora/BoldStN
+ icksFatbikeRace
+LOCATION:Theodore Roosevelt National Library\, Medora\, ND
+URL:https://runsignup.com/Race/ND/Medora/BoldStNicksFatbikeRace
 CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
