@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-03",
+ "fetched": "2026-11-05",
  "events": [
   {
    "source": "trpl",
@@ -610,108 +610,6 @@
     "setting": "Indoor"
    },
    "id": "a6cd6bf971f585f8",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-03T15:00:00-07:00",
-   "end": "2026-11-03T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "7949e7ee741c2d14",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-04T15:00:00-07:00",
-   "end": "2026-11-04T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "efe1f8f78c2e5830",
    "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
@@ -5716,57 +5614,6 @@
    },
    "id": "31ad179101be5590",
    "summary": "On two Thursdays in December, the Theodore Roosevelt Presidential Library stays open after hours. At the Branding Market, participants choose a wood or leather item and watch it branded on the spot, or try the branding…",
-   "source_name": "Theodore Roosevelt Presidential Library"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "virtual-learning-session-reconstruction-and-second-founding",
-   "title": "Virtual Learning Session: Reconstruction and the Second Founding",
-   "start": "2026-11-04T18:30:00-07:00",
-   "end": "2026-11-04T20:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/special-event/virtual-learning-session-reconstruction-and-second-founding",
-   "description": "Join the National Constitution Center and the Theodore Roosevelt Presidential Library for “Reconstruction and the Second Founding,” a virtual professional learning session exploring how Reconstruction transformed the Constitution and the meaning of American citizenship. Professor Kermit Roosevelt III of the University of Pennsylvania will serve as the featured scholar, examining how the Reconstruction Amendments reshaped constitutional protections for freedom and equality.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/NCC-Kermit-Roosevelt-social-media.png.webp?h=e8711843",
-   "attendance": "virtual",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/special-event/virtual-learning-session-reconstruction-and-second-founding",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "event",
-   "categories": [
-    "Special Event"
-   ],
-   "audiences": [
-    "Adults"
-   ],
-   "recurring": false,
-   "series_id": "f490b4e27346",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "cf66310934ba8cc4",
-   "summary": "Join the National Constitution Center and the Theodore Roosevelt Presidential Library for “Reconstruction and the Second Founding,” a virtual professional learning session exploring how Reconstruction transformed the…",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
   {
