@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/runsignup.ics
 BEGIN:VEVENT
 UID:3d475f78daa23b0e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261105T102456Z
+DTSTAMP:20261106T102250Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:2026 Glendive Turkey Trot 5k
@@ -28,7 +28,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:09bf19e436135b8b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261105T102456Z
+DTSTAMP:20261106T102250Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Richland Ranger Turkey Trot
@@ -45,7 +45,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:65439edee043e81d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261105T102456Z
+DTSTAMP:20261106T102250Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Bold St. Nick'S Fatbike Race
@@ -57,6 +57,23 @@ DESCRIPTION:In person · Paid · Race registration fee\n\nBE BOLD\, BRAVE T
  icksFatbikeRace
 LOCATION:Theodore Roosevelt National Library\, Medora\, ND
 URL:https://runsignup.com/Race/ND/Medora/BoldStNicksFatbikeRace
+CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:16d64f84c698e0e0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261106T102250Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Santa Fun Run
+DESCRIPTION:In person · Paid · Race registration fee\n\nBring your holida
+ y cheer to Reynolds on December 6th for the 11th Annual Santa Fun Run! The
+  Sidney Run Club is teaming up with Reynolds and High Caliber Sports for a
+ nother festive fun run during the annual Christmas…\n\nListed by RunSign
+ up (races near Medora)\n\nhttps://runsignup.com/Race/MT/Sidney/SantaFunRun
+ 2016
+LOCATION:414 N Central Ave\, Sidney\, MT
+URL:https://runsignup.com/Race/MT/Sidney/SantaFunRun2016
 CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT

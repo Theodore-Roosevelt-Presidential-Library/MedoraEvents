@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/facebook.ics
 BEGIN:VEVENT
 UID:57c3f33f4638e9fe@medoraevents.labs.trlibrary.com
-DTSTAMP:20261105T102456Z
+DTSTAMP:20261106T102250Z
 DTSTART:20261117T160000Z
 DTEND:20261117T170000Z
 SUMMARY:Books and Banter: The Cloak
@@ -28,8 +28,26 @@ CATEGORIES:Facebook events near Medora,In person,Free,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:88b4c5af7c987d05@medoraevents.labs.trlibrary.com
+DTSTAMP:20261106T102250Z
+DTSTART:20261204T070000Z
+DTEND:20261204T080000Z
+SUMMARY:Medora's Old Fashioned Cowboy Christmas
+DESCRIPTION:In person\n\nMark your calendars for December 4-6 and bring the
+  whole family to Medora for a little old-fashioned Christmas magic. Enjoy 
+ a weekend filled with family-friendly activities\, holiday traditions\, sm
+ all-town charm\, and…\n\nListed by Facebook events near Medora\n\nhttps:
+ //www.facebook.com/events/1051087007898079/
+LOCATION:Medora\, North Dakota\, Medora\, North Dakota\, Medora\, ND\, Unit
+ ed States
+URL:https://www.facebook.com/events/1051087007898079/
+GEO:46.9143;-103.525
+CATEGORIES:Facebook events near Medora,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:0d2727ff2ef2aebd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261105T102456Z
+DTSTAMP:20261106T102250Z
 DTSTART:20261205T000000Z
 DTEND:20261205T010000Z
 SUMMARY:ND Cycling Hall of Fame Gala
@@ -47,7 +65,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5afcebea03b75705@medoraevents.labs.trlibrary.com
-DTSTAMP:20261105T102456Z
+DTSTAMP:20261106T102250Z
 DTSTART:20270130T013000Z
 DTEND:20270130T023000Z
 SUMMARY:Girlfriend Getaway 2027

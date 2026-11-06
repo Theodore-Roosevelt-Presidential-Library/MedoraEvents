@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-05",
+ "fetched": "2026-11-06",
  "events": [
   {
    "source": "runsignup",
@@ -143,6 +143,54 @@
    },
    "id": "09bf19e436135b8b",
    "summary": "🦃🏃‍♀️ 3rd Annual Richland Ranger Turkey Trot! 🏃‍♂️🦃 It’s that time of year again… time to run before you eat! 😂 Join the Richland Rangers Hockey Team for our 3rd Annual Turkey Trot, where we combine two of America’s…",
+   "source_name": "RunSignup (races near Medora)"
+  },
+  {
+   "source": "runsignup",
+   "source_event_id": "40856",
+   "title": "Santa Fun Run",
+   "start": "2026-12-05",
+   "end": null,
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://runsignup.com/Race/MT/Sidney/SantaFunRun2016",
+   "description": "Bring your holiday cheer to Reynolds on December 6th for the 11th Annual Santa Fun Run! The Sidney Run Club is teaming up with Reynolds and High Caliber Sports for another festive fun run during the annual Christmas Classic! There will be both a 5k course as well as a 1 mile route for families!\n\nRun as Santa himself, one of his many Elves, or maybe in an ugly sweater! The real Santa and Mrs. Claus will be there to kick off the run!\n\nA portion of the proceeds from the run benefit the local Christmas Coalition. The Richland County Christmas Coalition \"Gifts from the Heart\" event is an annual gift distribution to those in need in the community. Recipients are allowed to choose gifts for a child that resides full time in their home and under the age of 18. We have been incredibly grateful to donate over $1000 the last couple years!",
+   "image": "https://d368g9lw5ileu7.cloudfront.net/uploads/generic/genericImage-websiteLogo-47582-1793930249.6251-0.bQ7tqj.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": "Race registration fee",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://runsignup.com/Race/MT/Sidney/SantaFunRun2016",
+   "venue": {
+    "name": null,
+    "address": "414 N Central Ave",
+    "city": "Sidney",
+    "region": "MT",
+    "postal_code": "59270",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Races"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "7cca6f44943f",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "runsignup_id": 40856
+   },
+   "id": "16d64f84c698e0e0",
+   "summary": "Bring your holiday cheer to Reynolds on December 6th for the 11th Annual Santa Fun Run! The Sidney Run Club is teaming up with Reynolds and High Caliber Sports for another festive fun run during the annual Christmas…",
    "source_name": "RunSignup (races near Medora)"
   }
  ]

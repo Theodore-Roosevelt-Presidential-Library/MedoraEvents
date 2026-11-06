@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-05T10:24:55+00:00",
+ "generated": "2026-11-06T10:22:50+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
  "note": "Events where calendars disagree on the start time (see extra.time_conflicts), and dates read from prose. Fix in config/overrides.yaml.",
- "count": 1,
+ "count": 2,
  "events": [
   {
    "source": "medora",
@@ -83,7 +83,7 @@
     }
    ],
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
@@ -91,6 +91,80 @@
    "drive_label": null,
    "lat": 46.9143,
    "lon": -103.525,
+   "geo_precision": "venue"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "america-beautiful-film-screening",
+   "title": "America the Beautiful Film Screening",
+   "start": "2026-11-13T14:00:00-07:00",
+   "end": "2026-11-13T15:15:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
+   "description": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's auditorium the day after its national release in IMAX and giant screen theaters.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/atb-hero-2400.jpg.webp?h=d399a453",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": null,
+   "price_min": 5.0,
+   "price_max": 7.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "a665d78a144e",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Auditorium",
+    "setting": "Indoor",
+    "time_conflicts": [
+     {
+      "source": "watford",
+      "start": "2026-11-12T18:30:30-06:00"
+     }
+    ]
+   },
+   "id": "70f7fc837941d63c",
+   "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [
+    {
+     "source": "watford",
+     "url": "https://www.visitwatfordcity.com/Calendar/Details/4764/America-the-Beautiful-Film-Screening",
+     "title": "America the Beautiful: Film Screening"
+    }
+   ],
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-11-06",
+   "region_label": "Medora, ND",
+   "area": "medora",
+   "area_label": "In Medora",
+   "drive_minutes": 0,
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
    "geo_precision": "venue"
   }
  ]
