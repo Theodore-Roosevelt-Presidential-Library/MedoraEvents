@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T10:23:47+00:00",
+ "generated": "2026-11-08T10:22:56+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -70,7 +70,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "region_label": "Medora, ND",
    "area": "medora",
    "area_label": "In Medora",
