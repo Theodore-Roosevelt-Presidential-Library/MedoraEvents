@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/watford.ics
 BEGIN:VEVENT
 UID:374373ebccdbfa61@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261101T050000Z
 DTEND:20270115T070000Z
 SUMMARY:Deck the Hall | Christmas Tree Competition
@@ -29,7 +29,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a73186b674e7af4e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261112T220000Z
 DTEND:20261113T020000Z
 SUMMARY:20th Annual Holiday Extravaganza
@@ -46,7 +46,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aab9fdd92d345355@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261113T000000Z
 DTEND:20261113T020000Z
 SUMMARY:WCHS Theater Presents: How to Train Your Dragon
@@ -64,7 +64,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c49a0913d2eecb6@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261114T000000Z
 DTEND:20261114T020000Z
 SUMMARY:WCHS Theater Presents: How to Train Your Dragon
@@ -82,7 +82,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eac91d541384f26e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261114T160000Z
 DTEND:20261114T220000Z
 SUMMARY:Clay Sculpting Open Studio -November
@@ -100,7 +100,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1686a720effa7ab@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261114T203030Z
 DTEND:20261114T220000Z
 SUMMARY:WCHS Theater Presents: How to Train Your Dragon
@@ -118,7 +118,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ceb334a18be5e845@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261115T170000Z
 DTEND:20261115T190000Z
 SUMMARY:Autumn Royal Icing Class
@@ -135,7 +135,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d072b7379f1d009b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261117T220000Z
 DTEND:20261118T020000Z
 SUMMARY:Artist's Open Studio: November
@@ -153,7 +153,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f2011856e66ceb3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Turkey Bingo
@@ -169,8 +169,26 @@ CATEGORIES:Watford City events,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:4efa8c6af043f6d3@medoraevents.labs.trlibrary.com
+DTSTAMP:20261110T102349Z
+DTSTART:20261121T190000Z
+DTEND:20261121T230000Z
+SUMMARY:Private Guitar Lessons: November
+DESCRIPTION:In person · Paid\n\nPrivate lessons to amplify your skills. Jo
+ in local musician Dave Cooper for private guitar lessons in the Long X Art
+ s Gallery Available Courses: Electric Guitar Acoustic Guitar Bass Guitar U
+ kulele Mandolin Banjo Lessons…\n\nListed by Watford City events\n\nhttps
+ ://www.visitwatfordcity.com/Calendar/Details/4768/Private-Guitar-Lessons-N
+ ovember
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4768/Private-Guitar-L
+ essons-November
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ad5534533bbb3e36@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261122T010000Z
 DTEND:20261122T050000Z
 SUMMARY:Harmony for Hope
@@ -185,8 +203,26 @@ CATEGORIES:Watford City events,In person,Free,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9c245cb1920a3ddf@medoraevents.labs.trlibrary.com
+DTSTAMP:20261110T102349Z
+DTSTART:20261127T160000Z
+DTEND:20261127T220000Z
+SUMMARY:Paint Your Own Pottery: November
+DESCRIPTION:In person · Paid\n\n🍂🦃 Give Thanks & Get Creative! 🦃
+ 🍂 We’re celebrating Black Friday AND Small Business Saturday with TWO
+  DAYS of Paint Your Own Pottery fun! 🎨🍁 That's right—you have two 
+ chances in a row to stop by the gallery\, gather your…\n\nListed by Watf
+ ord City events\n\nhttps://www.visitwatfordcity.com/Calendar/Details/4769/
+ Paint-Your-Own-Pottery-November
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4769/Paint-Your-Own-P
+ ottery-November
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:316c6247794823a9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Parade of Lights: Free Christmas Ornament Making
@@ -204,7 +240,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d895061dd1a2d7c4@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261128T003030Z
 DTEND:20261128T013030Z
 SUMMARY:Parade of Lights
@@ -220,7 +256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b82fcde5bfb03a1@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Paint Your Own Pottery: November
@@ -238,7 +274,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ed8aeaad7ed3dd9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261129T000000Z
 DTEND:20261129T030000Z
 SUMMARY:Coy Hepper Memorial Invintational Rodeo
@@ -254,8 +290,26 @@ CATEGORIES:Watford City events,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:67c44dcfd5ed33e0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261110T102349Z
+DTSTART:20261202T000000Z
+DTEND:20261202T020000Z
+SUMMARY:Calming Watercolor Workshop
+DESCRIPTION:In person · Paid\n\nTake a little time for yourself during the
+  busy holiday season and enjoy an evening of creativity and relaxation! Jo
+ in Lorri for a Calming Watercolor Workshop on December 1st from 6–8 PM. 
+ You'll explore the beautiful…\n\nListed by Watford City events\n\nhttps:
+ //www.visitwatfordcity.com/Calendar/Details/4770/Calming-Watercolor-Worksh
+ op
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4770/Calming-Watercol
+ or-Workshop
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2c626546edf0aa63@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261203T013030Z
 DTEND:20261203T033030Z
 SUMMARY:Magical Medora Christmas
@@ -271,8 +325,61 @@ CATEGORIES:Watford City events,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:b5d2409e7d07b5d4@medoraevents.labs.trlibrary.com
+DTSTAMP:20261110T102349Z
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+SUMMARY:Clay Christmas Tree Class
+DESCRIPTION:In person\n\nJoin Ms. Ciara for a hands-on clay workshop where 
+ you’ll create your own unique Christmas tree. After your piece is built\
+ , it will be fired before you return on December 12\, during our Open Pott
+ ery studio (anytime…\n\nListed by Watford City events\n\nhttps://www.vis
+ itwatfordcity.com/Calendar/Details/4771/Clay-Christmas-Tree-Class
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4771/Clay-Christmas-T
+ ree-Class
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c7818c4d4dcec520@medoraevents.labs.trlibrary.com
+DTSTAMP:20261110T102349Z
+DTSTART:20261205T000000Z
+DTEND:20261205T020000Z
+SUMMARY:Clay Bird Sculpting Class
+DESCRIPTION:In person · Free\n\nJoin Minot based ceramic artist and educat
+ or Blaire Engel to create a clay bird of your own. Blaire's work is curren
+ tly on display and for sale on the main level of the Merc at our Visitor a
+ nd Art Center. Her pieces are…\n\nListed by Watford City events\n\nhttps
+ ://www.visitwatfordcity.com/Calendar/Details/4772/Clay-Bird-Sculpting-Clas
+ s
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4772/Clay-Bird-Sculpt
+ ing-Class
+CATEGORIES:Watford City events,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:273f02519e229e1e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261110T102349Z
+DTSTART:20261205T140000Z
+DTEND:20261205T160000Z
+SUMMARY:Gingerbread House: Display and Contest
+DESCRIPTION:In person · Paid\n\nCONTEST DETAILS Registration deadline: Dec
+ ember 5th Gingerbread house drop-off: December 16th Judging and winners an
+ nounced: December 24th House pick-up: December 26th – January 4th Catego
+ ries: Littles 5-8 Junior 9-12…\n\nListed by Watford City events\n\nhttps
+ ://www.visitwatfordcity.com/Calendar/Details/4773/Gingerbread-House-Displa
+ y-and-Contest
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4773/Gingerbread-Hous
+ e-Display-and-Contest
+CATEGORIES:Watford City events,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:c8908a29b34a7859@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261205T160000Z
 DTEND:20261205T220000Z
 SUMMARY:Clay Sculpting Open Studio -December
@@ -289,8 +396,25 @@ CATEGORIES:Watford City events,In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:93f2b5660335dbdb@medoraevents.labs.trlibrary.com
+DTSTAMP:20261110T102349Z
+DTSTART:20261205T230000Z
+DTEND:20261206T010000Z
+SUMMARY:Christmas Garland Class
+DESCRIPTION:In person\n\nAdd a little handmade holiday magic to your home w
+ ith this adorable gingerbread-inspired garland! In this festive\, hands-on
+  class\, you’ll create your own miniature gingerbread village from scrat
+ ch! Participants will cut…\n\nListed by Watford City events\n\nhttps://w
+ ww.visitwatfordcity.com/Calendar/Details/4774/Christmas-Garland-Class
+LOCATION:Watford City\, ND
+URL:https://www.visitwatfordcity.com/Calendar/Details/4774/Christmas-Garlan
+ d-Class
+CATEGORIES:Watford City events,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:d4b3aab5dddcbdc1@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261209T220000Z
 DTEND:20261210T020000Z
 SUMMARY:Artist's Open Studio: December
@@ -308,7 +432,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:918ed6610ee7acf9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261210T060000Z
 DTEND:20261211T020000Z
 SUMMARY:Elkhorn Evenings: Branding Market and Charcuterie
@@ -326,7 +450,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d3afcc41d96d291c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261212T160000Z
 DTEND:20261212T210000Z
 SUMMARY:Christmas Fest
@@ -342,7 +466,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:47d4e98532a65751@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20261217T060000Z
 DTEND:20261217T070000Z
 SUMMARY:Elkhorn Evenings: Branding Market and Charcuterie
@@ -360,7 +484,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:04f290f1ad6fa8e7@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20270214T010000Z
 DTEND:20270214T030000Z
 SUMMARY:Tap Into Soul
@@ -378,7 +502,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8d9927956e05e55a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261109T102410Z
+DTSTAMP:20261110T102349Z
 DTSTART:20270514T000000Z
 DTEND:20270514T020000Z
 SUMMARY:One of these Nights: The Ultimate Tribute to the Eagles
