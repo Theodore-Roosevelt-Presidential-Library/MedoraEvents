@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-10",
+ "fetched": "2026-11-11",
  "events": [
   {
    "source": "runsignup",
@@ -47,6 +47,102 @@
    },
    "id": "3d475f78daa23b0e",
    "summary": "Start your holiday with a healthy tradition before the big feast! Join us for the 2026 Glendive Turkey Trot 5K on Thanksgiving morning, November 26th at Makoshika Wellness (111 W. Bell, Studio Side). 📅 Race Day Details…",
+   "source_name": "RunSignup (races near Medora)"
+  },
+  {
+   "source": "runsignup",
+   "source_event_id": "218963",
+   "title": "2026 Hometown Turkey Trot Virtual 5K - Dickinson",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "all_day": true,
+   "timezone": "America/Denver",
+   "url": "https://runsignup.com/Race/ND/Dickinson/HometownTurkeyTrotVirtual5KDickinson",
+   "description": "🦃 Hometown Turkey Trot Virtual 5K (with Turkey Raffle) Your Hometown. Your Run. One Nationwide Thanksgiving Celebration! This Thanksgiving, bring the Turkey Trot tradition to YOUR hometown!\n\nRun or walk your 5K anywhere you choose — your neighborhood, favorite trail, beach, park, or treadmill. Bring family and friends along and join runners and walkers from across America for a nationwide Thanksgiving celebration!\n\nAnd yes, we have Thanksgiving raffles — including a 20-pound turkey delivered to the winner!\n\n🍁 Your Registration Includes\n\n👕 Personalized Hometown Event Shirt Show off your hometown pride! Your commemorative long-sleeve shirt features your CITY NAME (based on your registration address) printed on the front. Your shirt will be processed for shipping immediately after registration! Please allow 4–8 days for delivery of your personalized event shirt.\n\n🏃 Official Numbered Race Bib Download your race bib from your registration page. Wear it proudly and share your race-day photos!\n\n📍 Nationwide Participant Map Put your hometown on the map! Every registered participant will be represented on our interactive map at www.runday.com.\n\n🏅 Digital Finisher Medal Celebrate your 5K accomplishment with a commemorative digital medal — perfect for sharing on social media!\n\n📊 Nationwide Results & Age Group Recognition Your results will be combined with those from participating Hometown Turkey Trot Virtual 5K Thanksgiving events across the country. You'll receive an email with overall",
+   "image": "https://d368g9lw5ileu7.cloudfront.net/uploads/generic/genericImage-websiteLogo-295785-1793914704.923-0.bQ7pDq.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": "Race registration fee",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://runsignup.com/Race/ND/Dickinson/HometownTurkeyTrotVirtual5KDickinson",
+   "venue": {
+    "name": null,
+    "address": "Virtually Anywhere",
+    "city": "Dickinson",
+    "region": "ND",
+    "postal_code": "58601",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Races"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "846ba7bc8163",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "runsignup_id": 218963
+   },
+   "id": "ff4866caca54d2c0",
+   "summary": "🦃 Hometown Turkey Trot Virtual 5K (with Turkey Raffle) Your Hometown. Your Run. One Nationwide Thanksgiving Celebration! This Thanksgiving, bring the Turkey Trot tradition to YOUR hometown! Run or walk your 5K anywhere…",
+   "source_name": "RunSignup (races near Medora)"
+  },
+  {
+   "source": "runsignup",
+   "source_event_id": "218966",
+   "title": "2026 Hometown Turkey Trot Virtual 5K - Williston",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "all_day": true,
+   "timezone": "America/Chicago",
+   "url": "https://runsignup.com/Race/ND/Williston/HometownTurkeyTrotVirtual5KWilliston",
+   "description": "🦃 Hometown Turkey Trot Virtual 5K (with Turkey Raffle) Your Hometown. Your Run. One Nationwide Thanksgiving Celebration! This Thanksgiving, bring the Turkey Trot tradition to YOUR hometown!\n\nRun or walk your 5K anywhere you choose — your neighborhood, favorite trail, beach, park, or treadmill. Bring family and friends along and join runners and walkers from across America for a nationwide Thanksgiving celebration!\n\nAnd yes, we have Thanksgiving raffles — including a 20-pound turkey delivered to the winner!\n\n🍁 Your Registration Includes\n\n👕 Personalized Hometown Event Shirt Show off your hometown pride! Your commemorative long-sleeve shirt features your CITY NAME (based on your registration address) printed on the front. Your shirt will be processed for shipping immediately after registration! Please allow 4–8 days for delivery of your personalized event shirt.\n\n🏃 Official Numbered Race Bib Download your race bib from your registration page. Wear it proudly and share your race-day photos!\n\n📍 Nationwide Participant Map Put your hometown on the map! Every registered participant will be represented on our interactive map at www.runday.com.\n\n🏅 Digital Finisher Medal Celebrate your 5K accomplishment with a commemorative digital medal — perfect for sharing on social media!\n\n📊 Nationwide Results & Age Group Recognition Your results will be combined with those from participating Hometown Turkey Trot Virtual 5K Thanksgiving events across the country. You'll receive an email with overall",
+   "image": "https://d368g9lw5ileu7.cloudfront.net/uploads/generic/genericImage-websiteLogo-295785-1793914704.923-0.bQ7pDq.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": "Race registration fee",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://runsignup.com/Race/ND/Williston/HometownTurkeyTrotVirtual5KWilliston",
+   "venue": {
+    "name": null,
+    "address": "Virtually Anywhere",
+    "city": "Williston",
+    "region": "ND",
+    "postal_code": "58801",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Races"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "32b66fcb08c9",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "runsignup_id": 218966
+   },
+   "id": "4a543e28ab6a9def",
+   "summary": "🦃 Hometown Turkey Trot Virtual 5K (with Turkey Raffle) Your Hometown. Your Run. One Nationwide Thanksgiving Celebration! This Thanksgiving, bring the Turkey Trot tradition to YOUR hometown! Run or walk your 5K anywhere…",
    "source_name": "RunSignup (races near Medora)"
   },
   {
