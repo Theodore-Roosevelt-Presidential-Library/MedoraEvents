@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/shsnd.ics
 BEGIN:VEVENT
 UID:777190f25bfbd216@medoraevents.labs.trlibrary.com
-DTSTAMP:20261111T102400Z
+DTSTAMP:20261112T102311Z
 DTSTART:20261117T160000Z
 DTEND:20261117T170000Z
 SUMMARY:Books & Banter: "The Cloak" by Nickolai Gogol
