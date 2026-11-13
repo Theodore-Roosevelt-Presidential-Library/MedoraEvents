@@ -9,4 +9,94 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/facebook.ics
+BEGIN:VEVENT
+UID:1f2fb42f7121652c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261113T102432Z
+DTSTART:20261113T180000Z
+DTEND:20261113T190000Z
+SUMMARY:Medora Mashup Scavenger Hunt
+DESCRIPTION:In person\n\nOrganized by: Kat Nelson\, Owner of Alley Kat Adve
+ ntures — https://www.eventbrite.com/o/27153393487 Explore the hidden gem
+ s of the town while getting creative and having fun! Your creative\, nontr
+ aditional scavenger hunt…\n\nListed by Facebook events near Medora\n\nht
+ tps://www.facebook.com/events/1113225991533782/
+LOCATION:Hidden Springs Java\, 350 4th Street\, Medora\, ND 58645\, US\, Hi
+ dden Springs Java\, 350 4th Street\, Medora\, ND 58645\, US
+URL:https://www.facebook.com/events/1113225991533782/
+GEO:46.91416;-103.52324
+CATEGORIES:Facebook events near Medora,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78344739bb11b0cb@medoraevents.labs.trlibrary.com
+DTSTAMP:20261113T102432Z
+DTSTART:20261120T210000Z
+DTEND:20261120T220000Z
+SUMMARY:Fall Crafting Retreat
+DESCRIPTION:In person · Paid\n\nNovember 20-22\, 2026 Cost: $230 per perso
+ n * $55 for an additional night on Thursday ​ Join us for a weekend of r
+ elaxation\, finishing your latest projects\, and devotions with other craf
+ t-loving people! Enjoy great meals…\n\nListed by Facebook events near Me
+ dora\n\nhttps://www.facebook.com/events/3803410949801391/
+LOCATION:3892 Bible Camp Road\, Medora\, ND\, United States\, North Dakota 
+ 58645\, 3892 Bible Camp Road\, Medora\, ND\, United States\, North Dakota 
+ 58645
+URL:https://www.facebook.com/events/3803410949801391/
+GEO:46.84831;-103.53074
+CATEGORIES:Facebook events near Medora,In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:88b4c5af7c987d05@medoraevents.labs.trlibrary.com
+DTSTAMP:20261113T102432Z
+DTSTART:20261204T070000Z
+DTEND:20261204T080000Z
+SUMMARY:Medora's Old Fashioned Cowboy Christmas
+DESCRIPTION:In person\n\nMark your calendars for December 4-6 and bring the
+  whole family to Medora for a little old-fashioned Christmas magic. Enjoy 
+ a weekend filled with family-friendly activities\, holiday traditions\, sm
+ all-town charm\, and…\n\nListed by Facebook events near Medora\n\nhttps:
+ //www.facebook.com/events/1051087007898079/
+LOCATION:Medora\, North Dakota\, Medora\, North Dakota\, Medora\, ND\, Unit
+ ed States
+URL:https://www.facebook.com/events/1051087007898079/
+GEO:46.9143;-103.525
+CATEGORIES:Facebook events near Medora,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aae7ef94b936c98a@medoraevents.labs.trlibrary.com
+DTSTAMP:20261113T102432Z
+DTSTART:20261205T190000Z
+DTEND:20261205T200000Z
+SUMMARY:Cowboy Christmas Vendor Show
+DESCRIPTION:In person · Free\n\nCome shop local vendors for all your Chris
+ tmas wants and needs! We will host this show in our enclosed and heat back
+  patio. This is a completely free event for all! Stay tuned for more detai
+ ls as we finalize the vendor…\n\nListed by Facebook events near Medora\n
+ \nhttps://www.facebook.com/events/1695001898813749/
+LOCATION:300 Pacific Ave\, Medora\, ND\, 300 Pacific Ave\, Medora\, ND
+URL:https://www.facebook.com/events/1695001898813749/
+GEO:46.9128;-103.52435
+CATEGORIES:Facebook events near Medora,In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5afcebea03b75705@medoraevents.labs.trlibrary.com
+DTSTAMP:20261113T102432Z
+DTSTART:20270130T013000Z
+DTEND:20270130T023000Z
+SUMMARY:Girlfriend Getaway 2027
+DESCRIPTION:In person\n\nAbout the Girlfriend Getaway The Girlfriend Getawa
+ y was created from a simple belief: women need spaces where they can recon
+ nect with themselves and with each other. So many of us spend our days car
+ ing for everyone…\n\nListed by Facebook events near Medora\n\nhttps://ww
+ w.facebook.com/events/931803769390852/
+LOCATION:Medora\, North Dakota\, Medora\, North Dakota\, Medora\, ND\, Unit
+ ed States
+URL:https://www.facebook.com/events/931803769390852/
+GEO:46.9143;-103.525
+CATEGORIES:Facebook events near Medora,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

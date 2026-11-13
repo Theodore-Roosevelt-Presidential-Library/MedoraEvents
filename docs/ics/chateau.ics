@@ -10,4 +10,44 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/chateau.ics
+BEGIN:VEVENT
+UID:2e5d0c723fb3af84@medoraevents.labs.trlibrary.com
+DTSTAMP:20261113T102432Z
+DTSTART:20261117T160000Z
+DTEND:20261117T170000Z
+SUMMARY:Books & Banter: "The Cloak" by Nickolai Gogol
+DESCRIPTION:In person · Free\n\n“Books and Banter\,” a monthly book cl
+ ub featuring Victorian-era literature\, will meet Tuesday\, Nov. 17\, 9-10
+  a.m. at the Chateau de Morès Interpretive Center in Medora. Book selecti
+ ons are intended to be easy to read…\n\nListed by Chateau de Morès Stat
+ e Historic Site (State Historical Society of North Dakota)\n\nhttps://www.
+ history.nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+GEO:46.91483;-103.54315
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0b2e2de3f35380@medoraevents.labs.trlibrary.com
+DTSTAMP:20261113T102432Z
+DTSTART:20261215T160000Z
+DTEND:20261215T170000Z
+SUMMARY:Books & Banter: "A Christmas Carol" by Charles Dickens
+DESCRIPTION:In person · Free\n\n“Books and Banter\,” a monthly book cl
+ ub featuring Victorian-era literature\, will meet Tuesday\, Dec. 15\, 9-10
+  a.m. MT at the Chateau de Morès Interpretive Center in Medora. Book sele
+ ctions are intended to be easy to read…\n\nListed by Chateau de Morès S
+ tate Historic Site (State Historical Society of North Dakota)\n\nhttps://w
+ ww.history.nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+GEO:46.91483;-103.54315
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

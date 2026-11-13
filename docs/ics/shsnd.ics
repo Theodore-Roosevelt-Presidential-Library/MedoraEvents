@@ -9,21 +9,4 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/shsnd.ics
-BEGIN:VEVENT
-UID:777190f25bfbd216@medoraevents.labs.trlibrary.com
-DTSTAMP:20261112T102311Z
-DTSTART:20261117T160000Z
-DTEND:20261117T170000Z
-SUMMARY:Books & Banter: "The Cloak" by Nickolai Gogol
-DESCRIPTION:In person · Free\n\n“Books and Banter\,” a monthly book cl
- ub featuring Victorian-era literature\, will meet Tuesday\, Nov. 17\, 9-10
-  a.m. at the Chateau de Morès Interpretive Center in Medora. Book selecti
- ons are intended to be easy to read…\n\nListed by State Historical Socie
- ty of North Dakota\n\nhttps://www.history.nd.gov/events/calendar.html
-LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
- ND 58645\, USA\, Medora\, ND
-URL:https://www.history.nd.gov/events/calendar.html
-CATEGORIES:State Historical Society of North Dakota,In person,Free,Event
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
