@@ -10,26 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/facebook.ics
 BEGIN:VEVENT
-UID:1f2fb42f7121652c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261113T102432Z
-DTSTART:20261113T180000Z
-DTEND:20261113T190000Z
-SUMMARY:Medora Mashup Scavenger Hunt
-DESCRIPTION:In person\n\nOrganized by: Kat Nelson\, Owner of Alley Kat Adve
- ntures — https://www.eventbrite.com/o/27153393487 Explore the hidden gem
- s of the town while getting creative and having fun! Your creative\, nontr
- aditional scavenger hunt…\n\nListed by Facebook events near Medora\n\nht
- tps://www.facebook.com/events/1113225991533782/
-LOCATION:Hidden Springs Java\, 350 4th Street\, Medora\, ND 58645\, US\, Hi
- dden Springs Java\, 350 4th Street\, Medora\, ND 58645\, US
-URL:https://www.facebook.com/events/1113225991533782/
-GEO:46.91416;-103.52324
-CATEGORIES:Facebook events near Medora,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:78344739bb11b0cb@medoraevents.labs.trlibrary.com
-DTSTAMP:20261113T102432Z
+DTSTAMP:20261114T102245Z
 DTSTART:20261120T210000Z
 DTEND:20261120T220000Z
 SUMMARY:Fall Crafting Retreat
@@ -48,7 +30,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:88b4c5af7c987d05@medoraevents.labs.trlibrary.com
-DTSTAMP:20261113T102432Z
+DTSTAMP:20261114T102245Z
 DTSTART:20261204T070000Z
 DTEND:20261204T080000Z
 SUMMARY:Medora's Old Fashioned Cowboy Christmas
@@ -66,7 +48,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aae7ef94b936c98a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261113T102432Z
+DTSTAMP:20261114T102245Z
 DTSTART:20261205T190000Z
 DTEND:20261205T200000Z
 SUMMARY:Cowboy Christmas Vendor Show
@@ -83,7 +65,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5afcebea03b75705@medoraevents.labs.trlibrary.com
-DTSTAMP:20261113T102432Z
+DTSTAMP:20261114T102245Z
 DTSTART:20270130T013000Z
 DTEND:20270130T023000Z
 SUMMARY:Girlfriend Getaway 2027

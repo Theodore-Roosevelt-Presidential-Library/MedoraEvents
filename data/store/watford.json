@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13",
+ "fetched": "2026-11-14",
  "events": [
   {
    "source": "watford",
@@ -43,52 +43,6 @@
    "extra": {},
    "id": "374373ebccdbfa61",
    "summary": "Get ready to deck the halls and show off your holiday creativity! Deck the Halls is a festive Christmas tree decorating competition where teams, businesses, organizations, and community members can transform a Christmas…",
-   "source_name": "Watford City events"
-  },
-  {
-   "source": "watford",
-   "source_event_id": "4766",
-   "title": "WCHS Theater Presents: How to Train Your Dragon",
-   "start": "2026-11-13T18:00:00-06:00",
-   "end": "2026-11-13T20:00:00-06:00",
-   "all_day": false,
-   "timezone": "America/Chicago",
-   "url": "https://www.visitwatfordcity.com/Calendar/Details/4766/WCHS-Theater-Presents-How-to-Train-Your-Dragon",
-   "description": "🐉🔥 DRAGONS ARE COMING TO WATFORD CITY! 🔥🐉  Get ready for a magical adventure as our talented students take the stage for How to Train Your Dragon! 🎭✨  Mark your calendars and come support the Pack as they bring this exciting story to life!  📅 November 12 & 13 | 6:00 PM  📅 November 14 | 2:00 PM & 6:00 PM\n\nFrom the field to the stage, Wolves talent shines everywhere! 🐺❤️",
-   "image": "https://watfordcalendar.blob.core.windows.net/public-images/4766/Screenshot2026-11-05at12.03.36 PM@4x.png",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": null,
-    "address": null,
-    "city": "Watford City",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": null,
-   "kind": "event",
-   "categories": [
-    "School Activities"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "5c3689f8f7f2",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "6c49a0913d2eecb6",
-   "summary": "🐉🔥 DRAGONS ARE COMING TO WATFORD CITY! 🔥🐉 Get ready for a magical adventure as our talented students take the stage for How to Train Your Dragon! 🎭✨ Mark your calendars and come support the Pack as they bring this…",
    "source_name": "Watford City events"
   },
   {
