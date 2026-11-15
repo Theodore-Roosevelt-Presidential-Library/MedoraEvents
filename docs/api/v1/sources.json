@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T10:22:45+00:00",
+ "generated": "2026-11-15T10:24:13+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": [
@@ -11,10 +11,10 @@
    "type": "partner",
    "region": "Medora, ND",
    "ok": true,
-   "count": 148,
+   "count": 143,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:09+00:00",
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:15+00:00",
    "seconds": 18.7
   },
   {
@@ -27,9 +27,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:28+00:00",
-   "seconds": 0.8
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:34+00:00",
+   "seconds": 0.6
   },
   {
    "id": "medora",
@@ -39,11 +39,11 @@
    "type": "partner",
    "region": "Medora, ND",
    "ok": true,
-   "count": 1700,
+   "count": 1699,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:29+00:00",
-   "seconds": 3.2
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:34+00:00",
+   "seconds": 4.1
   },
   {
    "id": "chateau",
@@ -55,8 +55,8 @@
    "ok": true,
    "count": 2,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:32+00:00",
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:39+00:00",
    "seconds": 0.6
   },
   {
@@ -66,13 +66,12 @@
    "url": "https://medorachamber.org/events/",
    "type": "partner",
    "region": "Medora, ND",
-   "ok": false,
+   "ok": true,
    "count": 1,
-   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-   "last_success": "2026-11-13",
-   "checked": "2026-11-14T10:22:33+00:00",
-   "using_cached_from": "2026-11-13",
-   "seconds": 0.2
+   "error": null,
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:39+00:00",
+   "seconds": 1.7
   },
   {
    "id": "discover",
@@ -82,11 +81,11 @@
    "type": "partner",
    "region": "Medora, ND",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:33+00:00",
-   "seconds": 0.4
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:41+00:00",
+   "seconds": 0.5
   },
   {
    "id": "ndchf",
@@ -95,13 +94,12 @@
    "url": "https://northdakotacowboy.org/events/",
    "type": "partner",
    "region": "Medora, ND",
-   "ok": false,
-   "count": 2,
-   "error": "FetchError: no page body (likely blocked)",
-   "last_success": "2026-11-13",
-   "checked": "2026-11-14T10:22:33+00:00",
-   "using_cached_from": "2026-11-13",
-   "seconds": 0.2
+   "ok": true,
+   "count": 1,
+   "error": null,
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:41+00:00",
+   "seconds": 0.4
   },
   {
    "id": "uncorkd",
@@ -113,9 +111,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:33+00:00",
-   "seconds": 2.8
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:42+00:00",
+   "seconds": 3.8
   },
   {
    "id": "littlemo",
@@ -127,9 +125,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:36+00:00",
-   "seconds": 0.9
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:45+00:00",
+   "seconds": 0.7
   },
   {
    "id": "boots",
@@ -141,9 +139,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:37+00:00",
-   "seconds": 0.5
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:46+00:00",
+   "seconds": 0.1
   },
   {
    "id": "badlandsministries",
@@ -155,8 +153,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:38+00:00",
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:46+00:00",
    "seconds": 0.3
   },
   {
@@ -169,9 +167,9 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:38+00:00",
-   "seconds": 1.7
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:47+00:00",
+   "seconds": 1.9
   },
   {
    "id": "runsignup",
@@ -183,9 +181,9 @@
    "ok": true,
    "count": 6,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:40+00:00",
-   "seconds": 0.3
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:48+00:00",
+   "seconds": 0.2
   },
   {
    "id": "dsu",
@@ -195,11 +193,11 @@
    "type": "regional",
    "region": "Dickinson, ND",
    "ok": true,
-   "count": 57,
+   "count": 59,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:40+00:00",
-   "seconds": 0.4
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:49+00:00",
+   "seconds": 0.6
   },
   {
    "id": "watford",
@@ -209,11 +207,11 @@
    "type": "regional",
    "region": "Watford City, ND",
    "ok": true,
-   "count": 35,
+   "count": 32,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:40+00:00",
-   "seconds": 0.4
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:49+00:00",
+   "seconds": 0.5
   },
   {
    "id": "ndparks",
@@ -225,8 +223,8 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:41+00:00",
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:50+00:00",
    "seconds": 0.4
   },
   {
@@ -239,9 +237,9 @@
    "ok": true,
    "count": 96,
    "error": null,
-   "last_success": "2026-11-14",
-   "checked": "2026-11-14T10:22:41+00:00",
-   "seconds": 0.4
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:22:50+00:00",
+   "seconds": 0.5
   },
   {
    "id": "ndtourism",
@@ -253,11 +251,11 @@
    "every_days": 3,
    "ok": false,
    "count": 0,
-   "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 54s, r",
+   "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 36s, r",
    "last_success": "2026-10-30",
-   "checked": "2026-11-14T10:22:42+00:00",
+   "checked": "2026-11-15T10:22:51+00:00",
    "using_cached_from": null,
-   "seconds": 2.9
+   "seconds": 25.0
   },
   {
    "id": "facebook",
@@ -268,11 +266,11 @@
    "region": "Medora, ND",
    "every_days": 2,
    "ok": true,
-   "count": 16,
+   "count": 0,
    "error": null,
-   "last_success": "2026-11-13",
-   "checked": "2026-11-13T10:22:41+00:00",
-   "seconds": 109.8
+   "last_success": "2026-11-15",
+   "checked": "2026-11-15T10:23:16+00:00",
+   "seconds": 57.2
   }
  ]
 }

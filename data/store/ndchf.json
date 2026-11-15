@@ -1,56 +1,6 @@
 {
- "fetched": "2026-11-13",
+ "fetched": "2026-11-15",
  "events": [
-  {
-   "source": "ndchf",
-   "source_event_id": "races-in-the-badlands-2026-11-14",
-   "title": "Races in the Badlands",
-   "start": "2026-11-14",
-   "end": null,
-   "all_day": true,
-   "timezone": "America/Denver",
-   "url": "https://northdakotacowboy.org/events/",
-   "description": "",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Medora Community Center",
-    "address": null,
-    "city": null,
-    "region": null,
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "North Dakota Cowboy Hall of Fame",
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "2212ce4ed850",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {
-    "day_text": "SATURDAY",
-    "links": [
-     "https://northdakotacowboy.givecloud.co/2026-races-in-the-badlands-registration-page-yt9ixjtfx",
-     "https://northdakotacowboy.givecloud.co/2027-ndchf-annual-meeting-v35rbygyz"
-    ]
-   },
-   "id": "0390bfe07d1f25e8",
-   "summary": "",
-   "source_name": "North Dakota Cowboy Hall of Fame"
-  },
   {
    "source": "ndchf",
    "source_event_id": "2027-ndchf-annual-meeting-2027-02-19",
