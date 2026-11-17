@@ -10,4 +10,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/badlandsminist
  ries.ics
+BEGIN:VEVENT
+UID:a3ccc783a0ffd24b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261117T102422Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Annual Meeting 2025
+DESCRIPTION:In person\n\nMeeting is at St. John Lutheran in Dickinson. We w
+ ill be serving pie at 2pm\, and the meeting will start at 2:30pm. For non-
+ delegates\, the meeting will also be available via Zoom. The Zoom Link and
+  2026 Annual Report are…\n\nListed by Badlands Ministries\n\nhttps://www
+ .badlandsministries.org/events
+LOCATION:Medora\, ND
+URL:https://www.badlandsministries.org/events
+CATEGORIES:Badlands Ministries,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-16",
+ "fetched": "2026-11-17",
  "events": [
   {
    "source": "watford",
@@ -775,6 +775,52 @@
    "extra": {},
    "id": "c8908a29b34a7859",
    "summary": "Clay Sculpting Open Studio 👐✨ Join us for a hands-on Clay Sculpting Open Studio where creativity takes shape! Each person receives 1 pound of clay included in the $45 price, with the option to add extra clay for $10 per…",
+   "source_name": "Watford City events"
+  },
+  {
+   "source": "watford",
+   "source_event_id": "4784",
+   "title": "A Starry Christmas Family Celebration",
+   "start": "2026-12-05T10:00:00-06:00",
+   "end": "2026-12-05T12:30:30-06:00",
+   "all_day": false,
+   "timezone": "America/Chicago",
+   "url": "https://www.visitwatfordcity.com/Calendar/Details/4784/A-Starry-Christmas-Family-Celebration",
+   "description": "Bakken Oil Rush Ministry invites families to a free holiday morning at Outlaws Gallery on Saturday, December 5 at 10:00 AM.\n\nFamilies will make a special ornament together, then settle in to watch the animated Christmas movie The Star with free popcorn and pop.\n\nIt’s a relaxed, cozy way to kick off the season and make some Christmas memories together.\n\nDetails:\n\nWhen: Saturday, December 5, 10:00 AM\n\nWhere: Outlaws Gallery, Watford City\n\nCost: Free Registration: Required by Thursday, December 3.\n\nScan the QR code on the flyer to register, or email director@oilrushministry.com to RSVP or ask questions.\n\nKids must be with an adult.\n\nThis event is sponsored by the Roughrider Fund and the Long X Arts Foundation.",
+   "image": "https://watfordcalendar.blob.core.windows.net/public-images/4784/Gold,GreenandRedModernChristmasBigSaleInstagramPost(1)@4x.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": null,
+    "address": null,
+    "city": "Watford City",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Activities"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "5348bebf454d",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "6b7992aa1df01fbf",
+   "summary": "Bakken Oil Rush Ministry invites families to a free holiday morning at Outlaws Gallery on Saturday, December 5 at 10:00 AM. Families will make a special ornament together, then settle in to watch the animated Christmas…",
    "source_name": "Watford City events"
   },
   {
