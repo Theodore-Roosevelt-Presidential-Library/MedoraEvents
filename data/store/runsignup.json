@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-19",
+ "fetched": "2026-11-20",
  "events": [
   {
    "source": "runsignup",
@@ -149,8 +149,8 @@
    "source": "runsignup",
    "source_event_id": "76520",
    "title": "Badlands Gravel Battle",
-   "start": "2027-05-22",
-   "end": "2027-05-29",
+   "start": "2027-05-29",
+   "end": null,
    "all_day": true,
    "timezone": "America/Denver",
    "url": "https://runsignup.com/Race/ND/Medora/BadlandsGravelBattle",
@@ -189,7 +189,7 @@
    "extra": {
     "runsignup_id": 76520
    },
-   "id": "bd1e520c322fb328",
+   "id": "6d74f5742fbc87e4",
    "summary": "If you like riding on Badlands singletrack, you will love grinding Badlands gravel! All of the same gorgeous North Dakota scenery you see on the Maah Daah Hey trail, but with the freedom of wide, open, red scoria gravel…",
    "source_name": "RunSignup (races near Medora)"
   },

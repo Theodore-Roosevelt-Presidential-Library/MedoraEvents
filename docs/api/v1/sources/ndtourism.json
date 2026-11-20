@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T10:26:08+00:00",
+ "generated": "2026-11-20T10:23:43+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -13,11 +13,11 @@
   "every_days": 3,
   "ok": false,
   "count": 0,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.firecrawl.dev', port=443): Read timed out. (read timeout=120)",
+  "error": "FetchError: Firecrawl 429: {\"success\":false,\"error\":\"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 32s, r",
   "last_success": "2026-10-30",
-  "checked": "2026-11-19T10:23:09+00:00",
+  "checked": "2026-11-20T10:23:14+00:00",
   "using_cached_from": null,
-  "seconds": 120.2
+  "seconds": 28.7
  },
  "count": 0,
  "events": []

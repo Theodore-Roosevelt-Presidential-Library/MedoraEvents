@@ -10,43 +10,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/dsu.ics
 BEGIN:VEVENT
-UID:32f0e5363bce0083@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
-DTSTART:20261119T020000Z
-DTEND:20261120T050000Z
-SUMMARY:Derrick Knopsnyder
-DESCRIPTION:In person\n\nDerrick Knopsnyder is a high-energy\, quick-witted
-  comedian who’s been making audiences laugh across the country for over 
- a decade. He’s performed on Comedy Central’s New Talent Search\, The O
- ddball Comedy Festival\, and…\n\nListed by Dickinson State University\n\
- nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D2
- 05719053
-LOCATION:Student Center\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D205719053
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:212e00a2c27a0301@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
-DTSTART:20261119T200000Z
-DTEND:20261119T230000Z
-SUMMARY:Intelligent Design Book event
-DESCRIPTION:In person\n\nThis is simply having a table out with materials t
- hat promote the idea of intelligent design as a viable option to other wor
- ldviews. Last month there was great interaction with several of the studen
- ts and a couple of…\n\nListed by Dickinson State University\n\nhttps://d
- ickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D211150939
-LOCATION:Student Center\, Dickinson\, ND
-URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
- D211150939
-CATEGORIES:Dickinson State University,In person,Event
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:653a3705a48f1b29@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261120T220000Z
 DTEND:20261121T030000Z
 SUMMARY:Crash test 5d barrel racing
@@ -61,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0df1279084a68a47@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:NFR Style Team Roping and Breakaway
@@ -76,7 +41,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d8111603b527dc3d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -93,15 +58,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:95de8c293135c350@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261124T020000Z
 DTEND:20261124T040000Z
 SUMMARY:Dickinson State University Men's Basketball at University of Idaho 
  - Exhibition
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball at Uni
- versity of Idaho - Exhibition\n\nListed by Dickinson State University\n\nh
- ttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D207
- 068295
+ versity of Idaho - Exhibition TV: ESPN+ Streaming Video: www.espn.com…\n
+ \nListed by Dickinson State University\n\nhttps://dickinsonstate.edu/event
+ s/?trumbaEmbed=view%3Devent%26eventid%3D207068295
 LOCATION:Moscow\, ID\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D207068295
@@ -110,7 +75,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8de918f8c0861edd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261125T000000Z
 DTEND:20261125T020000Z
 SUMMARY:Dickinson State University Women's JV Basketball vs Williston State
@@ -128,7 +93,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ca53d11963be9fec@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:Thanksgiving holiday
@@ -142,7 +107,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b0e3a24042809622@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261126T030000Z
 DTEND:20261126T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -160,7 +125,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7a247d966ab4c39@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261128T020000Z
 DTEND:20261128T040000Z
 SUMMARY:Junie B. in Jingle Bells\, Batman Smells!
@@ -178,13 +143,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:77006d3ee89ab58f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
 SUMMARY:Dickinson State University Women's Basketball vs Midland University
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs M
- idland University\n\nListed by Dickinson State University\n\nhttps://dicki
- nsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844944
+ idland University TV: Consolidated Channel 18 Streaming Video: www.youtube
+ .com… Streaming Audio: streamdb7web.securenetsystems.net… Tickets: eve
+ nts.hometownticketing.com…\n\nListed by Dickinson State University\n\nht
+ tps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D2058
+ 44944
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844944
@@ -194,14 +162,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0dab674f42d06131@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261129T000000Z
 DTEND:20261129T020000Z
 SUMMARY:Dickinson State University Men's Basketball vs Midland University
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs Mid
- land University Streaming Video: www.youtube.com…\n\nListed by Dickinson
-  State University\n\nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3
- Devent%26eventid%3D205848898
+ land University TV: Consolidated Channel 18 Streaming Video: www.youtube.c
+ om… Streaming Audio: streamdb7web.securenetsystems.net… Tickets: event
+ s.hometownticketing.com…\n\nListed by Dickinson State University\n\nhttp
+ s://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205848
+ 898
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205848898
@@ -211,7 +181,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fdbc2a7303e6140f@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261129T020000Z
 DTEND:20261129T040000Z
 SUMMARY:Junie B. in Jingle Bells\, Batman Smells!
@@ -229,7 +199,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ca52476e999bbc88@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261129T210000Z
 DTEND:20261129T230000Z
 SUMMARY:Junie B. in Jingle Bells\, Batman Smells!
@@ -247,7 +217,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c783acb4d3b23f9e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261201T000000Z
 DTEND:20261201T020000Z
 SUMMARY:Dickinson State University Women's JV Basketball vs Dakota College 
@@ -265,7 +235,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b2a03d344509ac6@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261201T010000Z
 DTEND:20261201T040000Z
 SUMMARY:Auditions Clue
@@ -283,7 +253,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:422b1ed12565ad97@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261201T013000Z
 DTEND:20261201T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -300,7 +270,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:02a6b029ea7379d3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261201T020000Z
 DTEND:20261201T040000Z
 SUMMARY:Dickinson State University Men's JV Basketball vs Dakota College at
@@ -318,7 +288,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:02f4862d93fb081c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261202T010000Z
 DTEND:20261202T040000Z
 SUMMARY:Auditions Clue: Call Backs
@@ -336,7 +306,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:32e32c34a1afa0b1@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261203T030000Z
 DTEND:20261203T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -354,7 +324,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:be6962ed30937843@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261208T013000Z
 DTEND:20261208T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -371,7 +341,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6684210daffd597a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261209T180000Z
 DTEND:20261209T210000Z
 SUMMARY:Decorate Your Own Ornament
@@ -389,7 +359,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea6af122ffe35cc9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261210T030000Z
 DTEND:20261210T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -407,7 +377,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:29d520990f766368@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261211T000000Z
 DTEND:20261211T030000Z
 SUMMARY:Home for the Hawkidays
@@ -423,15 +393,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85453fe08ffa3953@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261212T000000Z
 DTEND:20261212T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Rocky Mountain Col
  lege (Mont.)
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs R
- ocky Mountain College (Mont.)\n\nListed by Dickinson State University\n\nh
- ttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198
- 228515
+ ocky Mountain College (Mont.) TV: Consolidated Channel 18 Streaming Video:
+  www.youtube.com… Streaming Audio: streamdb7web.securenetsystems.net… 
+ Tickets…\n\nListed by Dickinson State University\n\nhttps://dickinsonsta
+ te.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228515
 LOCATION:Scott Gymnasium\, Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D198228515
@@ -441,7 +412,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:317de0192bffca44@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261212T010000Z
 DTEND:20261212T030000Z
 SUMMARY:Home Alone
@@ -460,15 +431,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0f2fd8eb87538f55@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261212T020000Z
 DTEND:20261212T040000Z
 SUMMARY:Dickinson State University Men's Basketball vs Rocky Mountain Colle
  ge (Mont.)
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs Roc
- ky Mountain College (Mont.) Streaming Video: www.youtube.com…\n\nListed 
- by Dickinson State University\n\nhttps://dickinsonstate.edu/events/?trumba
- Embed=view%3Devent%26eventid%3D205844948
+ ky Mountain College (Mont.) TV: Consolidated Channel 18 Streaming Video: w
+ ww.youtube.com… Streaming Audio: streamdb7web.securenetsystems.net… Ti
+ ckets…\n\nListed by Dickinson State University\n\nhttps://dickinsonstate
+ .edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844948
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844948
@@ -478,7 +450,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:38e47cdfc8f3674d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261212T150000Z
 DTEND:20261212T200000Z
 SUMMARY:ACT Testing
@@ -494,7 +466,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c1f3a27a8a7c814@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261212T233000Z
 DTEND:20261213T065500Z
 SUMMARY:2026 Yuletyme Decemberfest
@@ -513,14 +485,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c8cd2ad1e1c7693e@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Carroll College (M
  ont.)
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs C
- arroll College (Mont.)\n\nListed by Dickinson State University\n\nhttps://
- dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228516
+ arroll College (Mont.) Streaming Video: www.youtube.com… Streaming Audio
+ : streamdb7web.securenetsystems.net… Tickets: events.hometownticketing.c
+ om…\n\nListed by Dickinson State University\n\nhttps://dickinsonstate.ed
+ u/events/?trumbaEmbed=view%3Devent%26eventid%3D198228516
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D198228516
@@ -530,7 +504,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9d7fa6edb46a567c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261213T010000Z
 DTEND:20261213T030000Z
 SUMMARY:The Nightmare Before Christmas
@@ -549,15 +523,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea50cf1e8e291c29@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261213T020000Z
 DTEND:20261213T040000Z
 SUMMARY:Dickinson State University Men's Basketball vs Carroll College (Mon
  t.)
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs Car
- roll College (Mont.) Streaming Video: www.youtube.com…\n\nListed by Dick
- inson State University\n\nhttps://dickinsonstate.edu/events/?trumbaEmbed=v
- iew%3Devent%26eventid%3D205844949
+ roll College (Mont.) Streaming Video: www.youtube.com… Streaming Audio: 
+ streamdb7web.securenetsystems.net… Tickets: events.hometownticketing.com
+ …\n\nListed by Dickinson State University\n\nhttps://dickinsonstate.edu/
+ events/?trumbaEmbed=view%3Devent%26eventid%3D205844949
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844949
@@ -567,7 +542,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9e4b1a38e6467992@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
 SUMMARY:The Matrix
@@ -586,7 +561,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3e9737fb81d21fa8@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261219
 SUMMARY:Final examinations
@@ -600,7 +575,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:65ab9c8528890a2b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261215T013000Z
 DTEND:20261215T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -617,7 +592,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4bcefae5282fbe8a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261217T030000Z
 DTEND:20261217T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -635,7 +610,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:626f95dd258ac5cd@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261217T233000Z
 DTEND:20261218T003000Z
 SUMMARY:Fall 2026 Pinning Ceremony
@@ -650,7 +625,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff97fadac94e03aa@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Commencement/Semester ends
@@ -664,14 +639,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:29a00bc148807dc3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261219T000000Z
 DTEND:20261219T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Bismarck State Col
  lege
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs B
- ismarck State College\n\nListed by Dickinson State University\n\nhttps://d
- ickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228514
+ ismarck State College TV: Consolidated Channel 18 Streaming Video: www.you
+ tube.com… Streaming Audio: streamdb7web.securenetsystems.net… Tickets
+ …\n\nListed by Dickinson State University\n\nhttps://dickinsonstate.edu/
+ events/?trumbaEmbed=view%3Devent%26eventid%3D198228514
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D198228514
@@ -681,15 +658,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa0d9049de296dc0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261219T020000Z
 DTEND:20261219T040000Z
 SUMMARY:Dickinson State University Men's Basketball vs Bismarck State Colle
  ge
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs Bis
- marck State College Streaming Video: www.youtube.com…\n\nListed by Dicki
- nson State University\n\nhttps://dickinsonstate.edu/events/?trumbaEmbed=vi
- ew%3Devent%26eventid%3D205844947
+ marck State College TV: Consolidated Channel 18 Streaming Video: www.youtu
+ be.com… Streaming Audio: streamdb7web.securenetsystems.net… Tickets…
+ \n\nListed by Dickinson State University\n\nhttps://dickinsonstate.edu/eve
+ nts/?trumbaEmbed=view%3Devent%26eventid%3D205844947
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844947
@@ -699,7 +677,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e29b7a4e5d0d79ae@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Fil-AM CHRISTMAS PARTY
@@ -715,7 +693,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8a918d6202a2da@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261222T013000Z
 DTEND:20261222T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -732,7 +710,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:53c8ef7fc7355e13@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261224T030000Z
 DTEND:20261224T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -750,7 +728,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:10004c4baf2c34a9@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261229T013000Z
 DTEND:20261229T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -767,7 +745,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2725d7bd44e7a820@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20261231T030000Z
 DTEND:20261231T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -785,15 +763,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4716914c21787f3d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270102T000000Z
 DTEND:20270102T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Valley City State 
  University (N.D.)
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs V
- alley City State University (N.D.)\n\nListed by Dickinson State University
- \n\nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%
- 3D198228517
+ alley City State University (N.D.) TV: Consolidated Channel 18 Streaming V
+ ideo: www.youtube.com… Streaming Audio: streamdb7web.securenetsystems.ne
+ t… Tickets…\n\nListed by Dickinson State University\n\nhttps://dickins
+ onstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228517
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D198228517
@@ -803,15 +782,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0cdded97f24e1ff@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270102T020000Z
 DTEND:20270102T040000Z
 SUMMARY:Dickinson State University Men's Basketball vs Valley City State Un
  iversity (N.D.)
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs Val
- ley City State University (N.D.) Streaming Video: www.youtube.com…\n\nLi
- sted by Dickinson State University\n\nhttps://dickinsonstate.edu/events/?t
- rumbaEmbed=view%3Devent%26eventid%3D205844950
+ ley City State University (N.D.) TV: Consolidated Channel 18 Streaming Vid
+ eo: www.youtube.com… Streaming Audio: streamdb7web.securenetsystems.net
+ … Tickets…\n\nListed by Dickinson State University\n\nhttps://dickinso
+ nstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844950
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844950
@@ -821,15 +801,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1eb6d861e31e7123@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270103T000000Z
 DTEND:20270103T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Mayville State Uni
  versity
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs M
- ayville State University\n\nListed by Dickinson State University\n\nhttps:
- //dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D19822851
- 8
+ ayville State University TV: Consolidated Channel 18 Streaming Video: www.
+ youtube.com… Streaming Audio: streamdb7web.securenetsystems.net… Ticke
+ ts…\n\nListed by Dickinson State University\n\nhttps://dickinsonstate.ed
+ u/events/?trumbaEmbed=view%3Devent%26eventid%3D198228518
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D198228518
@@ -839,15 +820,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:01e9504fecfd875a@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270103T020000Z
 DTEND:20270103T040000Z
 SUMMARY:Dickinson State University Men's Basketball vs Mayville State Unive
  rsity
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs May
- ville State University Streaming Video: www.youtube.com…\n\nListed by Di
- ckinson State University\n\nhttps://dickinsonstate.edu/events/?trumbaEmbed
- =view%3Devent%26eventid%3D205844951
+ ville State University TV: Consolidated Channel 18 Streaming Video: www.yo
+ utube.com… Streaming Audio: streamdb7web.securenetsystems.net… Tickets
+ …\n\nListed by Dickinson State University\n\nhttps://dickinsonstate.edu/
+ events/?trumbaEmbed=view%3Devent%26eventid%3D205844951
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844951
@@ -857,7 +839,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e995005f7bf49eb5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270105T013000Z
 DTEND:20270105T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -874,7 +856,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:423440fe6cdaf2e3@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Dickinson State University Men's Wrestling vs Montana State Univers
@@ -891,7 +873,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa86f4d21e89badf@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270107T030000Z
 DTEND:20270107T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -909,7 +891,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f6b57bb998760e6@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270108T010000Z
 DTEND:20270108T040000Z
 SUMMARY:Dickinson State University Men's Wrestling at University of Jamesto
@@ -925,7 +907,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:68027ad477aca766@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270110T070000Z
 DTEND:20270118T065500Z
 SUMMARY:2027 DSU Alumni & Friends Caribbean Cruise
@@ -943,7 +925,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40e98a9fd78d3c3c@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270110T210000Z
 DTEND:20270111T000000Z
 SUMMARY:Dickinson State University Women's Wrestling vs University of James
@@ -959,7 +941,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0c7d718dbb6fb850@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Residual registration
@@ -973,7 +955,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d1dd43c9267ff08b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270112T013000Z
 DTEND:20270112T023000Z
 SUMMARY:CAB Weekly Meetings
@@ -990,7 +972,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b69188d02cfc8de@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270114T030000Z
 DTEND:20270114T040000Z
 SUMMARY:Blue Hawk Theatre Guild Weekly Meet Up
@@ -1008,15 +990,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f1b539fb5c254298@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270116T000000Z
 DTEND:20270116T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs University of Prov
  idence (Mont.)
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs U
- niversity of Providence (Mont.)\n\nListed by Dickinson State University\n\
- nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D1
- 98228521
+ niversity of Providence (Mont.) Streaming Video: www.youtube.com… Stream
+ ing Audio: streamdb7web.securenetsystems.net… Tickets: events.hometownti
+ cketing.com…\n\nListed by Dickinson State University\n\nhttps://dickinso
+ nstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228521
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D198228521
@@ -1025,15 +1008,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5575d0cfe6bd9148@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270116T020000Z
 DTEND:20270116T040000Z
 SUMMARY:Dickinson State University Men's Basketball vs University of Provid
  ence (Mont.)
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs Uni
- versity of Providence (Mont.) Streaming Video: www.youtube.com…\n\nListe
- d by Dickinson State University\n\nhttps://dickinsonstate.edu/events/?trum
- baEmbed=view%3Devent%26eventid%3D205844954
+ versity of Providence (Mont.) Streaming Video: www.youtube.com… Streamin
+ g Audio: streamdb7web.securenetsystems.net… Tickets: events.hometowntick
+ eting.com…\n\nListed by Dickinson State University\n\nhttps://dickinsons
+ tate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844954
 LOCATION:Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844954
@@ -1042,15 +1026,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:97237114f570e076@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270117T000000Z
 DTEND:20270117T020000Z
 SUMMARY:Dickinson State University Women's Basketball vs Montana State Univ
  ersity-Northern
 DESCRIPTION:In person\n\nDickinson State University Women's Basketball vs M
- ontana State University-Northern\n\nListed by Dickinson State University\n
- \nhttps://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D
- 198228522
+ ontana State University-Northern TV: Consolidated Channel 18 Streaming Vid
+ eo: www.youtube.com… Streaming Audio: streamdb7web.securenetsystems.net
+ … Tickets…\n\nListed by Dickinson State University\n\nhttps://dickinso
+ nstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D198228522
 LOCATION:Dickinson N.D.\, Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D198228522
@@ -1059,15 +1044,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1665bb9733941816@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270117T020000Z
 DTEND:20270117T040000Z
 SUMMARY:Dickinson State University Men's Basketball vs Montana State Univer
  sity-Northern
 DESCRIPTION:In person\n\nDickinson State University Men's Basketball vs Mon
- tana State University-Northern Streaming Video: www.youtube.com…\n\nList
- ed by Dickinson State University\n\nhttps://dickinsonstate.edu/events/?tru
- mbaEmbed=view%3Devent%26eventid%3D205844955
+ tana State University-Northern TV: Consolidated Channel 18 Streaming Video
+ : www.youtube.com… Streaming Audio: streamdb7web.securenetsystems.net…
+  Tickets…\n\nListed by Dickinson State University\n\nhttps://dickinsonst
+ ate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D205844955
 LOCATION:Dickinson N.D.\, Scott Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D205844955
@@ -1076,7 +1062,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:626c1ab47476c1c5@medoraevents.labs.trlibrary.com
-DTSTAMP:20261119T102609Z
+DTSTAMP:20261120T102343Z
 DTSTART:20270117T140000Z
 DTEND:20270118T030000Z
 SUMMARY:Winter Optimist Youth Basketball
@@ -1085,6 +1071,54 @@ DESCRIPTION:In person\n\nListed by Dickinson State University\n\nhttps://di
 LOCATION:Wienbergen Gymnasium\, Dickinson\, ND
 URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
  D208284999
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ffb69a2e764927@medoraevents.labs.trlibrary.com
+DTSTAMP:20261120T102343Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Martin Luther King Jr. holiday
+DESCRIPTION:In person\n\nListed by Dickinson State University\n\nhttps://di
+ ckinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D209414653
+LOCATION:Dickinson State University\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D209414653
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f28f1cf65f639118@medoraevents.labs.trlibrary.com
+DTSTAMP:20261120T102343Z
+DTSTART:20270119T013000Z
+DTEND:20270119T023000Z
+SUMMARY:CAB Weekly Meetings
+DESCRIPTION:In person\n\nJoin the Campus Activities Board for our weekly me
+ eting! We’ll plan upcoming events\, share ideas\, make decisions\, and w
+ ork together to create fun and engaging experiences for the DSU community.
+ \n\nListed by Dickinson State University\n\nhttps://dickinsonstate.edu/eve
+ nts/?trumbaEmbed=view%3Devent%26eventid%3D206874611
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D206874611
+CATEGORIES:Dickinson State University,In person,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd3af472487e063@medoraevents.labs.trlibrary.com
+DTSTAMP:20261120T102343Z
+DTSTART:20270119T200000Z
+DTEND:20270119T230000Z
+SUMMARY:Intelligent Design Book event
+DESCRIPTION:In person\n\nThis is simply having a table out with materials t
+ hat promote the idea of intelligent design as a viable option to other wor
+ ldviews. Last month there was great interaction with several of the studen
+ ts and a couple of…\n\nListed by Dickinson State University\n\nhttps://d
+ ickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D211150941
+LOCATION:Student Center\, Dickinson\, ND
+URL:https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3
+ D211150941
 CATEGORIES:Dickinson State University,In person,Event
 STATUS:CONFIRMED
 END:VEVENT
