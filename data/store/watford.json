@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-20",
+ "fetched": "2026-11-21",
  "events": [
   {
    "source": "watford",
@@ -867,6 +867,55 @@
    "extra": {},
    "id": "bbf511069d5c7989",
    "summary": "Grab a friend and join us for a cozy, creative Sunday afternoon at Meg-A-Latte! Long X Arts is bringing the mugs and glazes, and all you have to bring is your creativity! Choose your favorite mug from our selection…",
+   "source_name": "Watford City events"
+  },
+  {
+   "source": "watford",
+   "source_event_id": "4789",
+   "title": "Child sexual abuse: Prevention is possible training",
+   "start": "2026-12-08T18:00:00-06:00",
+   "end": "2026-12-08T19:00:00-06:00",
+   "all_day": false,
+   "timezone": "America/Chicago",
+   "url": "https://www.visitwatfordcity.com/Calendar/Details/4789/Child-sexual-abuse-Prevention-is-possible-training",
+   "description": "Prevention is possible!",
+   "image": "https://watfordcalendar.blob.core.windows.net/public-images/4789/Unknown@4x.jpeg",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "unknown",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": null,
+   "venue": {
+    "name": null,
+    "address": null,
+    "city": "Watford City",
+    "region": "ND",
+    "postal_code": null,
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Activities",
+    "Classes",
+    "Meetings",
+    "School Activities"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "35ac834454cd",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {},
+   "id": "b885c7cab82e5792",
+   "summary": "Prevention is possible!",
    "source_name": "Watford City events"
   },
   {

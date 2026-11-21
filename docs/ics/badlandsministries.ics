@@ -12,7 +12,7 @@ SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/badlandsminist
  ries.ics
 BEGIN:VEVENT
 UID:a3ccc783a0ffd24b@medoraevents.labs.trlibrary.com
-DTSTAMP:20261120T102343Z
+DTSTAMP:20261121T102447Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Annual Meeting 2025
