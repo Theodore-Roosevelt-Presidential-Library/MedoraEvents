@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-22",
+ "fetched": "2026-11-23",
  "events": [
   {
    "source": "dsu",
@@ -96,13 +96,13 @@
   {
    "source": "dsu",
    "source_event_id": "210779007",
-   "title": "Dickinson State University Women's JV Basketball vs Williston State College",
+   "title": "POSTPONED Dickinson State University Women's JV Basketball vs Williston State College",
    "start": "2026-11-24T17:00:00-07:00",
    "end": "2026-11-24T19:00:00-07:00",
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779007",
-   "description": "Dickinson State University Women's JV Basketball vs Williston State College Streaming Video: www.youtube.com…",
+   "description": "POSTPONED Dickinson State University Women's JV Basketball vs Williston State College Streaming Video: www.youtube.com…",
    "image": null,
    "attendance": "in_person",
    "online_url": null,
@@ -136,7 +136,7 @@
    "accessibility": null,
    "extra": {},
    "id": "8de918f8c0861edd",
-   "summary": "Dickinson State University Women's JV Basketball vs Williston State College Streaming Video: www.youtube.com…",
+   "summary": "POSTPONED Dickinson State University Women's JV Basketball vs Williston State College Streaming Video: www.youtube.com…",
    "source_name": "Dickinson State University"
   },
   {
