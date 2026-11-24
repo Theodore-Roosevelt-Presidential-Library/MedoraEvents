@@ -11,8 +11,27 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/chateau.ics
 BEGIN:VEVENT
+UID:c8f672e71f16366e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261212T160000Z
+DTEND:20261213T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dd0b2e2de3f35380@medoraevents.labs.trlibrary.com
-DTSTAMP:20261123T102530Z
+DTSTAMP:20261124T102217Z
 DTSTART:20261215T160000Z
 DTEND:20261215T170000Z
 SUMMARY:Books & Banter: "A Christmas Carol" by Charles Dickens
@@ -22,6 +41,1165 @@ DESCRIPTION:In person · Free\n\n“Books and Banter\,” a monthly book cl
  ctions are intended to be easy to read…\n\nListed by Chateau de Morès S
  tate Historic Site (State Historical Society of North Dakota)\n\nhttps://w
  ww.history.nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:81dfcf61b8d50458@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261215T160000Z
+DTEND:20261216T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:52e1a98724de6cb1@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261216T160000Z
+DTEND:20261217T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:296f37a7308821ec@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261217T160000Z
+DTEND:20261218T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc9c6c92c30af2b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261218T160000Z
+DTEND:20261219T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:58efd15a7b91ddf0@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261219T160000Z
+DTEND:20261220T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10004b84d81180c9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261222T160000Z
+DTEND:20261223T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2b4c7eec0e332d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261223T160000Z
+DTEND:20261224T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cac6aa6f8ba2ac6e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261226T160000Z
+DTEND:20261227T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f7182290dbe0e57@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261229T160000Z
+DTEND:20261230T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:993fc198da42b29c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261230T160000Z
+DTEND:20261231T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7644e756a3242480@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20261231T160000Z
+DTEND:20270101T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6f9cfb14c84853@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270102T160000Z
+DTEND:20270103T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:80c094b917d47fe7@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270105T160000Z
+DTEND:20270106T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc6d38fbab5546b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270106T160000Z
+DTEND:20270107T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5659cb2179247f6d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270107T160000Z
+DTEND:20270108T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4d5561124b427f94@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270108T160000Z
+DTEND:20270109T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed0a312eaae1f45@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270109T160000Z
+DTEND:20270110T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:90e310be5373a0ee@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270112T160000Z
+DTEND:20270113T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7140bcc2ad1ffa40@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270113T160000Z
+DTEND:20270114T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cecce3771af85a12@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270114T160000Z
+DTEND:20270115T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb94637270d0ad9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270115T160000Z
+DTEND:20270116T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b894d49090daf355@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270116T160000Z
+DTEND:20270117T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe6b13f5d14da45@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270119T160000Z
+DTEND:20270120T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8dea077e5a6af9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270120T160000Z
+DTEND:20270121T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c79fc88dc558e5c8@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270121T160000Z
+DTEND:20270122T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:294dd96c8155db59@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270122T160000Z
+DTEND:20270123T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c9eeb5693c671299@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270123T160000Z
+DTEND:20270124T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:347d0270ebe910a4@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270126T160000Z
+DTEND:20270127T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc749beaa09d417@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270127T160000Z
+DTEND:20270128T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:18ee66fb5e534c05@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270128T160000Z
+DTEND:20270129T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7194de636f732135@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270129T160000Z
+DTEND:20270130T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:88cbe469608ee0be@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270130T160000Z
+DTEND:20270131T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6f72fb755f2425cb@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270202T160000Z
+DTEND:20270203T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3da72fde33969ce9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270203T160000Z
+DTEND:20270204T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2256b3f672b25fec@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270204T160000Z
+DTEND:20270205T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9e8a47021af76997@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270205T160000Z
+DTEND:20270206T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d976e4da5ed72f8@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270206T160000Z
+DTEND:20270207T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb7abb4c24619105@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270209T160000Z
+DTEND:20270210T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:963179f918852ebf@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270210T160000Z
+DTEND:20270211T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:463d766ab483a88c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270211T160000Z
+DTEND:20270212T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4d50e186a7ea4608@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270212T160000Z
+DTEND:20270213T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:707f5272e0e103c2@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270213T160000Z
+DTEND:20270214T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:03f5c6ec95cd9a5e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270216T160000Z
+DTEND:20270217T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7cc715f77f0c55@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270217T160000Z
+DTEND:20270218T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f63b7a1d6f7c928a@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270218T160000Z
+DTEND:20270219T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:44d313c541a05eaa@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270219T160000Z
+DTEND:20270220T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:53dd9e53471c3780@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270220T160000Z
+DTEND:20270221T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68c0a585e18997a1@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270223T160000Z
+DTEND:20270224T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9111390a458f226d@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270224T160000Z
+DTEND:20270225T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb89edacf09fdf9@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270225T160000Z
+DTEND:20270226T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:10bf693250649cde@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270226T160000Z
+DTEND:20270227T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:27b205ffd868a41f@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270227T160000Z
+DTEND:20270228T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:27880c23d591e4e2@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270302T160000Z
+DTEND:20270303T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20fb16e091b1a89c@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270303T160000Z
+DTEND:20270304T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:772dbc7143f4c0ba@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270304T160000Z
+DTEND:20270305T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b71d85943e334d08@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270305T160000Z
+DTEND:20270306T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68b119f80123ffc6@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270306T160000Z
+DTEND:20270307T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d91532d000d74b@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270309T160000Z
+DTEND:20270310T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:52507428262723a5@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270310T160000Z
+DTEND:20270311T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15134543e5ee8ac2@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270311T160000Z
+DTEND:20270312T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
+LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
+ ND 58645\, USA\, Medora\, ND
+URL:https://www.history.nd.gov/events/calendar.html
+CATEGORIES:Chateau de Morès State Historic Site (State Historical Society 
+ of North Dakota),In person,Free,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9fbda7c83ab13730@medoraevents.labs.trlibrary.com
+DTSTAMP:20261124T102217Z
+DTSTART:20270312T160000Z
+DTEND:20270313T000000Z
+SUMMARY:Snowshoe the State
+DESCRIPTION:In person · Free\n\nThe State Historical Society of North Dako
+ ta invites you to “Snowshoe the State” from Dec. 12 through March 12. 
+ This statewide initiative offers free access to snowshoes at the North Dak
+ ota Heritage Center & State…\n\nListed by Chateau de Morès State Histor
+ ic Site (State Historical Society of North Dakota)\n\nhttps://www.history.
+ nd.gov/events/calendar.html
 LOCATION:Chateau de Mores State Historic Site\, 3426 Chateau Rd\, Medora\, 
  ND 58645\, USA\, Medora\, ND
 URL:https://www.history.nd.gov/events/calendar.html
