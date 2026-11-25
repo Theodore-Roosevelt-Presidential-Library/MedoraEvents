@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-24",
+ "fetched": "2026-11-25",
  "events": [
   {
    "source": "trpl",
@@ -304,57 +304,6 @@
     "setting": "Indoor"
    },
    "id": "a6cd6bf971f585f8",
-   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "source_name": "Theodore Roosevelt Presidential Library"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "free-final-hour",
-   "title": "Free Final Hour",
-   "start": "2026-11-24T15:00:00-07:00",
-   "end": "2026-11-24T16:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": 0.0,
-   "price_max": 0.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "program",
-   "categories": [
-    "Daily Activity"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "c11d7fcc3324",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Accessibility",
-    "setting": "Indoor"
-   },
-   "id": "ce6e0d3e8b177994",
    "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
@@ -4544,6 +4493,57 @@
    "source": "trpl",
    "source_event_id": "free-final-hour",
    "title": "Free Final Hour",
+   "start": "2027-03-25T15:00:00-06:00",
+   "end": "2027-03-25T16:00:00-06:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "description": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-06/TRPL-MainGuest_Threefold-004.jpg.webp?h=2b7c700d",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": 0.0,
+   "price_max": 0.0,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/daily-activity/free-final-hour",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "program",
+   "categories": [
+    "Daily Activity"
+   ],
+   "audiences": [
+    "All Ages"
+   ],
+   "recurring": true,
+   "series_id": "c11d7fcc3324",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Accessibility",
+    "setting": "Indoor"
+   },
+   "id": "b24ac902492612b6",
+   "summary": "Enjoy free admission during the final hour of each day the Library is open, November 1 through April 30. A timed ticket is required, so reserve a free ticket in advance.",
+   "source_name": "Theodore Roosevelt Presidential Library"
+  },
+  {
+   "source": "trpl",
+   "source_event_id": "free-final-hour",
+   "title": "Free Final Hour",
    "start": "2027-03-06T17:00:00-07:00",
    "end": "2027-03-06T18:00:00-07:00",
    "all_day": false,
@@ -4906,57 +4906,6 @@
    "source": "trpl",
    "source_event_id": "america-beautiful-film-screening",
    "title": "America the Beautiful Film Screening",
-   "start": "2026-11-24T14:00:00-07:00",
-   "end": "2026-11-24T15:15:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "description": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's auditorium the day after its national release in IMAX and giant screen theaters.",
-   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/atb-hero-2400.jpg.webp?h=d399a453",
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "paid",
-   "cost_note": null,
-   "price_min": 5.0,
-   "price_max": 7.0,
-   "registration_required": null,
-   "registration_url": "https://www.trlibrary.com/calendar/special-event/america-beautiful-film-screening",
-   "venue": {
-    "name": "Theodore Roosevelt Presidential Library",
-    "address": "3410 Chateau Rd",
-    "city": "Medora",
-    "region": "ND",
-    "postal_code": "58645",
-    "country": "US",
-    "lat": 46.9167713,
-    "lon": -103.5486042
-   },
-   "organizer": "Theodore Roosevelt Presidential Library",
-   "kind": "event",
-   "categories": [
-    "Special Event"
-   ],
-   "audiences": [
-    "All Ages"
-   ],
-   "recurring": true,
-   "series_id": "a665d78a144e",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": "Accessible for all",
-   "extra": {
-    "room": "Auditorium",
-    "setting": "Indoor"
-   },
-   "id": "34857a0388cbe6ba",
-   "summary": "Soaring mountains, open plains, deserts, rivers and wetlands, and the conservation movement Theodore Roosevelt set in motion to protect them. Narrated by Kelsey Grammer, America the Beautiful comes to the Library's…",
-   "source_name": "Theodore Roosevelt Presidential Library"
-  },
-  {
-   "source": "trpl",
-   "source_event_id": "america-beautiful-film-screening",
-   "title": "America the Beautiful Film Screening",
    "start": "2026-11-25T14:00:00-07:00",
    "end": "2026-11-25T15:15:00-07:00",
    "all_day": false,
@@ -4990,7 +4939,7 @@
    "audiences": [
     "All Ages"
    ],
-   "recurring": true,
+   "recurring": false,
    "series_id": "a665d78a144e",
    "status": "scheduled",
    "relevance": "core",
@@ -5013,7 +4962,7 @@
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://www.trlibrary.com/calendar/special-event/butchery-workshop",
-   "description": "Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
+   "description": "SOLD OUT | Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
    "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Theodore-Roosevelt-Presidential-Library-089.jpg.webp?h=bc8a00ed",
    "attendance": "in_person",
    "online_url": null,
@@ -5052,7 +5001,7 @@
     "setting": "Indoor"
    },
    "id": "f7d2ef1c9099aa8d",
-   "summary": "Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
+   "summary": "SOLD OUT | Looking for a gift for the person who already owns every kitchen gadget? Consider a butchery workshop. In this hands-on class, participants learn to break down locally raised beef and take home what they cut.",
    "source_name": "Theodore Roosevelt Presidential Library"
   },
   {

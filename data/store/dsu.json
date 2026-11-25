@@ -1,52 +1,6 @@
 {
- "fetched": "2026-11-24",
+ "fetched": "2026-11-25",
  "events": [
-  {
-   "source": "dsu",
-   "source_event_id": "210779007",
-   "title": "POSTPONED Dickinson State University Women's JV Basketball vs Williston State College",
-   "start": "2026-11-24T17:00:00-07:00",
-   "end": "2026-11-24T19:00:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D210779007",
-   "description": "POSTPONED Dickinson State University Women's JV Basketball vs Williston State College Streaming Video: www.youtube.com…",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Scott Gymnasium",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Athletics"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "a337d6f48558",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "8de918f8c0861edd",
-   "summary": "POSTPONED Dickinson State University Women's JV Basketball vs Williston State College Streaming Video: www.youtube.com…",
-   "source_name": "Dickinson State University"
-  },
   {
    "source": "dsu",
    "source_event_id": "209414541",
@@ -424,7 +378,7 @@
    "all_day": false,
    "timezone": "America/Denver",
    "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D213554133",
-   "description": "AUDITION INFORMATION Monday, November 30, 2026 | 6:00–9:00 PM Location: 2nd Floor Dance Studio, May Hall Callbacks: Tuesday, December 1 | 6:00–9:00 PM Cast Announcement: Thursday, December 3 SIGN UP FOR YOUR AUDITION TIME! https://www.signupgenius.com/go/5080F44A5AA2AA6F49-67605085-clue Please plan to arrive about 15 minutes before your scheduled audition time.\n\nWHAT DO I NEED TO PREPARE? Not much! If you have a comedic monologue you'd like to perform, wonderful! We would love to see it. Don't have a monologue? NO PROBLEM! We'll have selections from the Clue script available for you to read during auditions. We're looking for people who are willing to have fun, make bold choices, and bring some personality to the stage. You do NOT need previous theatre experience to audition!\n\nMEET THE SUSPECTS! We have some fantastic characters to bring to life!Wadsworth: The uptight British butler desperately trying to keep everything under control.\n\nYvette: The loyal and alluring French maid.\n\nMiss Scarlet: A sharp-tongued socialite who always seems to know more than she's saying.\n\nMrs. Peacock: A wealthy senator's wife who has a flair for the dramatic.\n\nMrs. White: A mysterious widow with a rather questionable marital history.\n\nColonel Mustard: A pompous military man who might not be quite as clever as he thinks.\n\nProfessor Plum: An arrogant academic who is definitely his own biggest fan.\n\nMr. Green: An anxious, nervous rule follower who seems to be hiding something.\n\nAND THERE ARE MORE ROLES! We're also looking for performers to take on ensemble roles, including Mr. Boddy, the Cook, the Motorist, the Singing Telegram Girl, police officers, and more! These are great opportunities to have fun with different characters and get involved in the production.\n\nIMPORTANT PRODUCTION DATES Rehearsals Begin: January 4, 2027 Performances: February 19–21, 2027 Regular rehearsals will take place Sunday, Tuesday, Wednesday, and Thursday evenings from 6:00–9:00 PM. We will also have a scheduled break January 17–21 for KCACTF.\n\nCOME JOIN US! One of my favorite things about the Blue Hawk Theatre Guild is that you don't have to be a theatre major to get involved. We have students from all different majors and backgrounds who come together to create something pretty incredible. If you've ever thought about trying theatre, THIS IS YOUR CHANCE! Come meet some new people, challenge yourself, earn some potential college credit, and help us put on a hilarious show. We would love to see some new faces alongside our returning Guild members!",
+   "description": "AUDITION INFORMATION Monday, November 30, 2026 | 6:00–9:00 PM Location: Beck Auditorium, Klinefelter Hall Callbacks: Tuesday, December 1 | 6:00–9:00 PM Cast Announcement: Thursday, December 3 SIGN UP FOR YOUR AUDITION TIME! https://www.signupgenius.com/go/5080F44A5AA2AA6F49-67605085-clue Please plan to arrive about 15 minutes before your scheduled audition time.\n\nWHAT DO I NEED TO PREPARE? Not much! If you have a comedic monologue you'd like to perform, wonderful! We would love to see it. Don't have a monologue? NO PROBLEM! We'll have selections from the Clue script available for you to read during auditions. We're looking for people who are willing to have fun, make bold choices, and bring some personality to the stage. You do NOT need previous theatre experience to audition!\n\nMEET THE SUSPECTS! We have some fantastic characters to bring to life!Wadsworth: The uptight British butler desperately trying to keep everything under control.\n\nYvette: The loyal and alluring French maid.\n\nMiss Scarlet: A sharp-tongued socialite who always seems to know more than she's saying.\n\nMrs. Peacock: A wealthy senator's wife who has a flair for the dramatic.\n\nMrs. White: A mysterious widow with a rather questionable marital history.\n\nColonel Mustard: A pompous military man who might not be quite as clever as he thinks.\n\nProfessor Plum: An arrogant academic who is definitely his own biggest fan.\n\nMr. Green: An anxious, nervous rule follower who seems to be hiding something.\n\nAND THERE ARE MORE ROLES! We're also looking for performers to take on ensemble roles, including Mr. Boddy, the Cook, the Motorist, the Singing Telegram Girl, police officers, and more! These are great opportunities to have fun with different characters and get involved in the production.\n\nIMPORTANT PRODUCTION DATES Rehearsals Begin: January 4, 2027 Performances: February 19–21, 2027 Regular rehearsals will take place Sunday, Tuesday, Wednesday, and Thursday evenings from 6:00–9:00 PM. We will also have a scheduled break January 17–21 for KCACTF.\n\nCOME JOIN US! One of my favorite things about the Blue Hawk Theatre Guild is that you don't have to be a theatre major to get involved. We have students from all different majors and backgrounds who come together to create something pretty incredible. If you've ever thought about trying theatre, THIS IS YOUR CHANCE! Come meet some new people, challenge yourself, earn some potential college credit, and help us put on a hilarious show. We would love to see some new faces alongside our returning Guild members!",
    "image": null,
    "attendance": "in_person",
    "online_url": null,
@@ -435,7 +389,7 @@
    "registration_required": null,
    "registration_url": null,
    "venue": {
-    "name": "May Hall",
+    "name": "Klinefelter Hall",
     "address": null,
     "city": "Dickinson",
     "region": "ND",
@@ -458,7 +412,7 @@
    "accessibility": null,
    "extra": {},
    "id": "8b2a03d344509ac6",
-   "summary": "AUDITION INFORMATION Monday, November 30, 2026 | 6:00–9:00 PM Location: 2nd Floor Dance Studio, May Hall Callbacks: Tuesday, December 1 | 6:00–9:00 PM Cast Announcement: Thursday, December 3 SIGN UP FOR YOUR AUDITION…",
+   "summary": "AUDITION INFORMATION Monday, November 30, 2026 | 6:00–9:00 PM Location: Beck Auditorium, Klinefelter Hall Callbacks: Tuesday, December 1 | 6:00–9:00 PM Cast Announcement: Thursday, December 3 SIGN UP FOR YOUR AUDITION…",
    "source_name": "Dickinson State University"
   },
   {
@@ -3081,52 +3035,6 @@
    "extra": {},
    "id": "8298bb6f63c5d222",
    "summary": "Join the Campus Activities Board for our weekly meeting! We’ll plan upcoming events, share ideas, make decisions, and work together to create fun and engaging experiences for the DSU community.",
-   "source_name": "Dickinson State University"
-  },
-  {
-   "source": "dsu",
-   "source_event_id": "214160661",
-   "title": "Investment Workshop",
-   "start": "2027-01-26T19:00:00-07:00",
-   "end": "2027-01-26T20:15:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://dickinsonstate.edu/events/?trumbaEmbed=view%3Devent%26eventid%3D214160661",
-   "description": "Investment workshop where students will use computer lab computers to do stock simulations",
-   "image": null,
-   "attendance": "in_person",
-   "online_url": null,
-   "cost": "unknown",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "May Hall",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": null,
-    "country": "US",
-    "lat": null,
-    "lon": null
-   },
-   "organizer": "Dickinson State University",
-   "kind": "event",
-   "categories": [
-    "Dickinson State University Events"
-   ],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "bbe967800871",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "ec206ca3024dda7b",
-   "summary": "Investment workshop where students will use computer lab computers to do stock simulations",
    "source_name": "Dickinson State University"
   }
  ]

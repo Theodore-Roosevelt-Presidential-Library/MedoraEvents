@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T10:22:16+00:00",
+ "generated": "2026-11-25T10:25:05+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -14,9 +14,9 @@
   "ok": true,
   "count": 8,
   "error": null,
-  "last_success": "2026-11-23",
-  "checked": "2026-11-23T10:24:40+00:00",
-  "seconds": 49.2
+  "last_success": "2026-11-25",
+  "checked": "2026-11-25T10:24:34+00:00",
+  "seconds": 31.3
  },
  "count": 2,
  "events": [
@@ -30,7 +30,7 @@
    "timezone": "America/Denver",
    "url": "https://www.facebook.com/events/1051087007898079/",
    "description": "Mark your calendars for December 4-6 and bring the whole family to Medora for a little old-fashioned Christmas magic. Enjoy a weekend filled with family-friendly activities, holiday traditions, small-town charm, and opportunities to make memories that will last a lifetime.\n\nFrom festive fun to special moments shared with the ones you love, Medora's Old Fashioned Cowboy Christmas is the perfect time to slow down, celebrate the season, and make Medora part of your family's Christmas traditions.",
-   "image": "https://scontent.fcai19-3.fna.fbcdn.net/v/t39.30808-6/853232815_1586433040177630_8147664796864606255_n.jpg?stp=dst-jpg_tt6&cstp=mx851x315&ctp=s851x315&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=75d36f&_nc_ohc=cgrC0gccj8kQ7kNvwGMuVS8&_nc_oc=AdqNHKK6bAn1xp_lwR9yoV_lvpK35JBxRn1QOZQ4hzq5yXzuvV4OjFQmDHPD8uf2BZA&_nc_zt=23&_nc_ht=scontent.fcai19-3.fna&_nc_gid=z9tvRL5c_WgIkYIemof-8w&_nc_ss=70289&oh=00_AQSXAzdTqdGQVhDKy4mMa9ck9xIMx6qjxt6oQpeh4Fm6MA&oe=6B09F710",
+   "image": "https://scontent.fnbo19-1.fna.fbcdn.net/v/t39.30808-6/853232815_1586433040177630_8147664796864606255_n.jpg?stp=dst-jpg_tt6&cstp=mx851x315&ctp=s851x315&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=75d36f&_nc_ohc=-qGFPHKRjXwQ7kNvwHitDJt&_nc_oc=AdoimSXIwEh8mLPPKunHqZGBl6zL8n70SjuS666KlZ2UuRgooEs0Z-ExWDhL69R5ff8&_nc_zt=23&_nc_ht=scontent.fnbo19-1.fna&_nc_gid=xvbsKrumDqsadNYp1yx7gA&_nc_ss=70389&oh=00_AQStzet4QybhWS5g8jt4Dz7xQsDiDBscW_2GSMpxoK9zPQ&oe=6B0C9A10",
    "attendance": "in_person",
    "online_url": null,
    "cost": "unknown",
@@ -60,15 +60,15 @@
    "matched_terms": [],
    "accessibility": null,
    "extra": {
-    "going": 66,
-    "interested": 1802
+    "going": 71,
+    "interested": 1813
    },
    "id": "88b4c5af7c987d05",
    "summary": "Mark your calendars for December 4-6 and bring the whole family to Medora for a little old-fashioned Christmas magic. Enjoy a weekend filled with family-friendly activities, holiday traditions, small-town charm, and…",
    "source_name": "Facebook events near Medora",
    "also_listed": [],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "region_label": "Medora, ND, United States",
    "area": "medora",
    "area_label": "In Medora",
@@ -88,7 +88,7 @@
    "timezone": "America/Denver",
    "url": "https://www.facebook.com/events/931803769390852/",
    "description": "About the Girlfriend Getaway\n\nThe Girlfriend Getaway was created from a simple belief: women need spaces where they can reconnect with themselves and with each other.\n\nSo many of us spend our days caring for everyone else. Managing it all. Showing up for everyone around us. Somewhere along the way, it gets easy to lose touch with ourselves.\n\nThis is now our fourth year gathering, and every time, the same thing happens. Women who don’t know a single soul in the room leave feeling like they’ve found their people.\n\nThree days at the Rough Rider Hotel in Medora, ND. Speakers who share real stories, not polished performances. Small group conversations. Time built in just for you: a massage, a facial, reiki, whatever kind of care your body and heart are asking for. And plenty of open space too, to wander Medora, find a coffee shop, read a book, breathe.\n\nYou don’t have to come with a plan. You don’t have to come with friends. You just have to come as you are.\n\nIf this is your first time, welcome. You’re exactly where you’re meant to be. If you are returning, we can’t wait to see you again.\n\nReady to grab your spot? Tickets and all the details are linked above. And be sure to tap Going or Interested so you don’t miss updates as we get closer, we’ll be sharing more in the Discussion tab along the way.",
-   "image": "https://scontent.fccm6-1.fna.fbcdn.net/v/t39.30808-6/789837097_998455573209134_6972911983269048269_n.jpg?stp=dst-jpg_tt6&cstp=mx600x200&ctp=s600x200&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=75d36f&_nc_ohc=is_hmk5y2i4Q7kNvwFEs2dS&_nc_oc=AdqdtdEkt6AB1Rmn2srwQ29R5uEcaTHf-oa-IYQ8bpQRpHZ9uRyaXSCHgwK2j2klneM&_nc_zt=23&_nc_ht=scontent.fccm6-1.fna&_nc_gid=ygBRkVMM5N-WyrWZN5_Fhw&_nc_ss=70289&oh=00_AQRqs6mBQzkwDM2RM2Raeysd0nT_Y11Is7u8stLxy37WxA&oe=6B09FACA",
+   "image": "https://scontent.fmaa14-1.fna.fbcdn.net/v/t39.30808-6/789837097_998455573209134_6972911983269048269_n.jpg?stp=dst-jpg_tt6&cstp=mx600x200&ctp=s600x200&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=75d36f&_nc_ohc=is_hmk5y2i4Q7kNvwEXI8oA&_nc_oc=AdqolNmL3Nfcr3n6X_jxAG8M7YLQ77jJS7rSE_mnHJxK5ToiT8fCiCGma79wslkpTWQ&_nc_zt=23&_nc_ht=scontent.fmaa14-1.fna&_nc_gid=-U1O8UyN2a6wfYxnNf-71A&_nc_ss=70389&oh=00_AQSX_vXP7pM9-LHpbJ-eknNn48KpIAz6BNTgTzxUsULLvg&oe=6B0C9DCA",
    "attendance": "in_person",
    "online_url": null,
    "cost": "unknown",
@@ -119,14 +119,14 @@
    "accessibility": null,
    "extra": {
     "going": 18,
-    "interested": 178
+    "interested": 179
    },
    "id": "5afcebea03b75705",
    "summary": "About the Girlfriend Getaway The Girlfriend Getaway was created from a simple belief: women need spaces where they can reconnect with themselves and with each other. So many of us spend our days caring for everyone…",
    "source_name": "Facebook events near Medora",
    "also_listed": [],
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "region_label": "Medora, ND, United States",
    "area": "medora",
    "area_label": "In Medora",
