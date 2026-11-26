@@ -1,9 +1,89 @@
 {
- "generated": "2026-11-25T10:25:05+00:00",
+ "generated": "2026-11-26T10:24:19+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
  "note": "Events where calendars disagree on the start time (see extra.time_conflicts), and dates read from prose. Fix in config/overrides.yaml.",
- "count": 0,
- "events": []
+ "count": 1,
+ "events": [
+  {
+   "source": "trpl",
+   "source_event_id": "visit-santa-claus",
+   "title": "Visit with Santa Claus",
+   "start": "2026-12-17T18:00:00-07:00",
+   "end": "2026-12-17T19:00:00-07:00",
+   "all_day": false,
+   "timezone": "America/Denver",
+   "url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
+   "description": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a list and a camera.",
+   "image": "https://www.trlibrary.com/sites/default/files/styles/16_9__l/public/2026-10/Media--1-.jpg.webp?h=d3dbd649",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "free",
+   "cost_note": null,
+   "price_min": null,
+   "price_max": null,
+   "registration_required": null,
+   "registration_url": "https://www.trlibrary.com/calendar/special-event/visit-santa-claus",
+   "venue": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "address": "3410 Chateau Rd",
+    "city": "Medora",
+    "region": "ND",
+    "postal_code": "58645",
+    "country": "US",
+    "lat": 46.9167713,
+    "lon": -103.5486042
+   },
+   "organizer": "Theodore Roosevelt Presidential Library",
+   "kind": "event",
+   "categories": [
+    "Special Event"
+   ],
+   "audiences": [
+    "Family"
+   ],
+   "recurring": true,
+   "series_id": "7c141e136d2d",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": "Accessible for all",
+   "extra": {
+    "room": "Theodore Roosevelt Presidential Library",
+    "setting": "Indoor",
+    "time_conflicts": [
+     {
+      "source": "watford",
+      "start": "2026-12-17T17:30:30-06:00"
+     }
+    ]
+   },
+   "id": "eaff044a89f80ff0",
+   "summary": "Santa Claus makes two stops at the Theodore Roosevelt Presidential Library this season. Evening visitors can catch him during Elkhorn Evenings on December 17, and daytime visitors can find him on December 19. Bring a…",
+   "source_name": "Theodore Roosevelt Presidential Library",
+   "also_listed": [
+    {
+     "source": "medora",
+     "url": "https://medora.com/calendar/santa-claus-at-the-theodore-roosevelt-presidential-library/",
+     "title": "Santa Claus at the Theodore Roosevelt Presidential Library"
+    },
+    {
+     "source": "watford",
+     "url": "https://www.visitwatfordcity.com/Calendar/Details/4798/Santa-Mrs.-Claus-Meet-and-Greet",
+     "title": "Santa & Mrs. Claus Meet and Greet"
+    }
+   ],
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-11-26",
+   "region_label": "Medora, ND",
+   "area": "medora",
+   "area_label": "In Medora",
+   "drive_minutes": 0,
+   "drive_label": null,
+   "lat": 46.9173441,
+   "lon": -103.5494133,
+   "geo_precision": "venue"
+  }
+ ]
 }
