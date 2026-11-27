@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:24:19+00:00",
+ "generated": "2026-11-27T10:24:57+00:00",
  "site": "https://medoraevents.labs.trlibrary.com",
  "fields": "https://medoraevents.labs.trlibrary.com/api/v1/fields.json",
  "sources": "https://medoraevents.labs.trlibrary.com/api/v1/sources.json",
@@ -10,12 +10,13 @@
   "url": "https://medorachamber.org/events/",
   "type": "partner",
   "region": "Medora, ND",
-  "ok": true,
+  "ok": false,
   "count": 1,
-  "error": null,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "last_success": "2026-11-26",
-  "checked": "2026-11-26T10:23:58+00:00",
-  "seconds": 1.1
+  "checked": "2026-11-27T10:23:38+00:00",
+  "using_cached_from": "2026-11-26",
+  "seconds": 0.2
  },
  "count": 0,
  "events": []
