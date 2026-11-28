@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT6H
 SOURCE;VALUE=URI:https://medoraevents.labs.trlibrary.com/ics/runsignup.ics
 BEGIN:VEVENT
 UID:65439edee043e81d@medoraevents.labs.trlibrary.com
-DTSTAMP:20261127T102457Z
+DTSTAMP:20261128T102321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Bold St. Nick'S Fatbike Race
@@ -28,7 +28,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:16d64f84c698e0e0@medoraevents.labs.trlibrary.com
-DTSTAMP:20261127T102457Z
+DTSTAMP:20261128T102321Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Santa Fun Run
@@ -44,8 +44,25 @@ CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:5ea7fbeef654063e@medoraevents.labs.trlibrary.com
+DTSTAMP:20261128T102321Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20271031
+SUMMARY:Mdh Buck-Fifty Ultra Endurance Race
+DESCRIPTION:In person · Paid · Race registration fee\n\nHow do you make t
+ he RADDEST race\, in the BADDEST place just a little bit RADDER and whole 
+ lot BADDER? Add on 50 more miles of rugged Badlands single track\, and the
+ n give people the option to complete it all in one day…\n\nListed by Run
+ Signup (races near Medora)\n\nhttps://runsignup.com/Race/ND/WatfordCity/Ma
+ ahDaahHeyBuckFifty
+LOCATION:Burning Coal Vein Campground to CCC Campground\, Watford City\, ND
+URL:https://runsignup.com/Race/ND/WatfordCity/MaahDaahHeyBuckFifty
+CATEGORIES:RunSignup (races near Medora),In person,Paid,Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6d74f5742fbc87e4@medoraevents.labs.trlibrary.com
-DTSTAMP:20261127T102457Z
+DTSTAMP:20261128T102321Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:Badlands Gravel Battle
@@ -62,7 +79,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8f5c52f7eb494b68@medoraevents.labs.trlibrary.com
-DTSTAMP:20261127T102457Z
+DTSTAMP:20261128T102321Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270801
 SUMMARY:Maah Daah Hey Trail Run(S)
@@ -79,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:739763c097877cef@medoraevents.labs.trlibrary.com
-DTSTAMP:20261127T102457Z
+DTSTAMP:20261128T102321Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 SUMMARY:Maah Daah Hey 100 Mtb Race(S)

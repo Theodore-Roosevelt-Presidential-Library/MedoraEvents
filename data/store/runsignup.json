@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-27",
+ "fetched": "2026-11-28",
  "events": [
   {
    "source": "runsignup",
@@ -191,6 +191,54 @@
    },
    "id": "8f5c52f7eb494b68",
    "summary": "WITH 6 OPTIONS: 5K, 10K, HALF & FULL MARATHONS, and 2 Ultra Options... 56 and 107 miles... We are the premier TRAIL RUNNING experience in the ND Badlands. Our trail run offers something for runners of all levels, from…",
+   "source_name": "RunSignup (races near Medora)"
+  },
+  {
+   "source": "runsignup",
+   "source_event_id": "83744",
+   "title": "Mdh Buck-Fifty Ultra Endurance Race",
+   "start": "2027-04-30",
+   "end": "2027-10-30",
+   "all_day": true,
+   "timezone": "America/Chicago",
+   "url": "https://runsignup.com/Race/ND/WatfordCity/MaahDaahHeyBuckFifty",
+   "description": "How do you make the RADDEST race, in the BADDEST place just a little bit RADDER and whole lot BADDER? Add on 50 more miles of rugged Badlands single track, and then give people the option to complete it all in one day, two days, three days, or six days of riding… intrigued?\n\nThe buck stops here. We are very proud to introduce L.A.N.D.’s most epic race yet, the MDH BUCK-FIFTY. No excuses, no cop-outs, no whining, no doubt about it; YOU are 100% responsible for YOU at this race from training and preparation, to crossing the finish line of one of the longest and most brutal continuous single-track trails in the world. This is one of the RADDEST and BADDEST endurance racing accomplishments a person can aspire to attempt. Your ONLY competition is yourself…",
+   "image": "https://d368g9lw5ileu7.cloudfront.net/races/race83744-logo-0.bD4-1_.png",
+   "attendance": "in_person",
+   "online_url": null,
+   "cost": "paid",
+   "cost_note": "Race registration fee",
+   "price_min": null,
+   "price_max": null,
+   "registration_required": true,
+   "registration_url": "https://runsignup.com/Race/ND/WatfordCity/MaahDaahHeyBuckFifty",
+   "venue": {
+    "name": null,
+    "address": "Burning Coal Vein Campground to CCC Campground",
+    "city": "Watford City",
+    "region": "ND",
+    "postal_code": "58854",
+    "country": "US",
+    "lat": null,
+    "lon": null
+   },
+   "organizer": null,
+   "kind": "event",
+   "categories": [
+    "Races"
+   ],
+   "audiences": [],
+   "recurring": false,
+   "series_id": "b57fde592f03",
+   "status": "scheduled",
+   "relevance": "core",
+   "matched_terms": [],
+   "accessibility": null,
+   "extra": {
+    "runsignup_id": 83744
+   },
+   "id": "5ea7fbeef654063e",
+   "summary": "How do you make the RADDEST race, in the BADDEST place just a little bit RADDER and whole lot BADDER? Add on 50 more miles of rugged Badlands single track, and then give people the option to complete it all in one day…",
    "source_name": "RunSignup (races near Medora)"
   },
   {

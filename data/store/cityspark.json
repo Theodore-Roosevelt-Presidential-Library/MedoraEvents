@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-27",
+ "fetched": "2026-11-28",
  "events": [
   {
    "source": "cityspark",
@@ -4719,50 +4719,6 @@
    "accessibility": null,
    "extra": {},
    "id": "b3e6a47e66ea405b",
-   "summary": "Free 40-minute live intro on Zoom showing beginners how to use AI to build a business from start to finish: market research, site development, marketing, implementation and app building. Taught by an experienced…",
-   "source_name": "The Dickinson Press community calendar"
-  },
-  {
-   "source": "cityspark",
-   "source_event_id": "261028MTA7G2YSC06nrMAHtJMr8Q",
-   "title": "Free Intro: Start to Finish Building a Business with AI (Live on Zoom)",
-   "start": "2026-11-27T14:00:00-07:00",
-   "end": "2026-11-27T14:40:00-07:00",
-   "all_day": false,
-   "timezone": "America/Denver",
-   "url": "https://steadfastiq.com",
-   "description": "Free 40-minute live intro on Zoom showing beginners how to use AI to build a business from start to finish: market research, site development, marketing, implementation and app building. Taught by an experienced industry expert. Online event, no physical venue. Free to attend; register at https://steadfastiq.com. Optional paid classes start Fri/Sat Nov 20-21 at $49.99 per class or a $149.99 four-class bundle. Educational program; no income is promised.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IknMMY-pe0GaHtz6csODIQ.large.jpg",
-   "attendance": "virtual",
-   "online_url": null,
-   "cost": "free",
-   "cost_note": null,
-   "price_min": null,
-   "price_max": null,
-   "registration_required": null,
-   "registration_url": null,
-   "venue": {
-    "name": "Online via Zoom",
-    "address": null,
-    "city": "Dickinson",
-    "region": "ND",
-    "postal_code": "58601",
-    "country": "US",
-    "lat": 46.878838,
-    "lon": -102.787074
-   },
-   "organizer": null,
-   "kind": "event",
-   "categories": [],
-   "audiences": [],
-   "recurring": false,
-   "series_id": "da39a660a4d7",
-   "status": "scheduled",
-   "relevance": "core",
-   "matched_terms": [],
-   "accessibility": null,
-   "extra": {},
-   "id": "5ae033f51af7ed6a",
    "summary": "Free 40-minute live intro on Zoom showing beginners how to use AI to build a business from start to finish: market research, site development, marketing, implementation and app building. Taught by an experienced…",
    "source_name": "The Dickinson Press community calendar"
   }
